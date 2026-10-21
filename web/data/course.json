@@ -1,0 +1,3233 @@
+{
+  "name": "Counter English — Rakuten Mobile Staff Practice",
+  "version": "1.0.0",
+  "reviewedOn": "2026-10-21",
+  "disclaimer": "非公式の個人学習用教材。実際の接客では最新の公式キャンペーン・契約条件・店舗ルールを確認すること。",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "接客の基本",
+      "goal": "挨拶から希望の聞き取りまで、短い英文で会話を始める"
+    },
+    {
+      "id": 2,
+      "title": "丁寧な応対",
+      "goal": "本人確認・案内・依頼を失礼なく伝える"
+    },
+    {
+      "id": 3,
+      "title": "料金説明",
+      "goal": "金額、容量、比較、範囲の違いを厳密に伝える"
+    },
+    {
+      "id": 4,
+      "title": "手続きと条件",
+      "goal": "進行状況、必要書類、次のステップを説明する"
+    },
+    {
+      "id": 5,
+      "title": "契約と確認",
+      "goal": "完了・過去・受動態・間接疑問で正確に確認する"
+    },
+    {
+      "id": 6,
+      "title": "SIMと進行手順",
+      "goal": "場所・順序・理由・選択肢を説明する"
+    },
+    {
+      "id": 7,
+      "title": "紹介・割引・キャンペーン",
+      "goal": "紹介リンクや適用条件を誤解なく説明する"
+    },
+    {
+      "id": 8,
+      "title": "オプションとトラブル対応",
+      "goal": "有料オプション、ローミング、請求、不具合に対応する"
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "title": "be動詞：自分・商品・状態を紹介する",
+      "goal": "I am / This is / It is で最初の一文を作る",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "be動詞 am / is / are は「～です」「～にあります」「～の状態です」を表す。英語は主語を省略しないため、受付の自己紹介では I am、商品紹介では This is、現在の状態では It is を使う。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "主語 + am/is/are + 名詞・形容詞。I am a staff member. / This is the SIM card. / The device is compatible. 否定は is not、疑問は Is this ...? と語順を逆にする。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "店員として名乗るなら I am ...、案内対象を指すなら This is ...。受付の場所や商品を指さしながら短く区切って話すと、英語初心者のお客様にも伝わる。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「This is compatible.」の compatible は形容詞。compatible の前に be動詞が必要。is と are は主語の単複で決める。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "I am は I と am の組、This is は This と is の組。主語を These calling options に変えると be動詞は are になる。名詞の前の a と形容詞 compatible の違いにも注目する。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "お客様に何かを確認するときは Is this your current phone number? と be動詞を先に置く。否定なら The application is not complete yet.。料金や対象可否の断定は、確認済みの内容だけに使う。"
+        }
+      ],
+      "pattern": "主語 + am/is/are + 名詞・形容詞",
+      "tip": "「This is compatible.」の compatible は形容詞。compatible の前に be動詞が必要。is と are は主語の単複で決める。",
+      "examples": [
+        {
+          "id": "U01E1",
+          "en": "I am a staff member at Rakuten Mobile.",
+          "ja": "私は楽天モバイルのスタッフです。",
+          "why": "I am は自己紹介の基本形。"
+        },
+        {
+          "id": "U01E2",
+          "en": "This is the Rakuten SAIKYO Plan.",
+          "ja": "こちらが楽天最強プランです。",
+          "why": "This is は商品や資料を示す。"
+        },
+        {
+          "id": "U01E3",
+          "en": "The monthly fee is tax-inclusive.",
+          "ja": "月額料金は税込みです。",
+          "why": "is の後に形容詞を置く。"
+        },
+        {
+          "id": "U01E4",
+          "en": "Your device is compatible with this SIM.",
+          "ja": "お使いの端末はこのSIMに対応しています。",
+          "why": "compatible with が「～に対応」。"
+        },
+        {
+          "id": "U01E5",
+          "en": "These calling options are not required.",
+          "ja": "これらの通話オプションへの加入は必須ではありません。",
+          "why": "複数主語に are not。"
+        },
+        {
+          "id": "U01E6",
+          "en": "The application is not complete yet.",
+          "ja": "申し込みはまだ完了していません。",
+          "why": "否定は is not。"
+        },
+        {
+          "id": "U01E7",
+          "en": "Is this your current phone number?",
+          "ja": "こちらが現在の電話番号ですか。",
+          "why": "疑問文は Is を先頭にする。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "title": "一般動詞：利用状況をたずねる",
+      "goal": "use / need / pay / keep を使う",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "一般動詞は「使う・必要とする・支払う・保持する」などの動作や関係を表す。I/you/we/they の現在形では原形を使う。be動詞と一般動詞を無理に重ねない。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "You + use + data. / We + accept + credit cards. 主語が he/she/it のとき通常 -s/-es を付ける。頻度なら usually / often を一般動詞の前に置く。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "契約説明は You pay ...（お客様が支払う）と We accept ...（店舗側が受け付ける）で主語を使い分ける。通常の習慣を言うなら現在形。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「You are use」や「We are accept」は誤り。進行形にする理由がなければ be動詞は入れない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "You pay based on ... は『利用量に応じて支払う』。We accept credit cards は店側が何を受け付けるかの説明。どちらも現在の一般的なサービス内容を示すので現在形を選ぶ。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "一般動詞の文では You are pay は不可。現在の一時的な操作 I am checking ... と、通常の取り扱い We accept ... を分ける。お客様の利用量を聞く場合は Do you usually ...? に変える。"
+        }
+      ],
+      "pattern": "You + use + data. / We + accept + credit cards. 主語が he/she/it のとき通常 -s/-es を付ける",
+      "tip": "「You are use」や「We are accept」は誤り。進行形にする理由がなければ be動詞は入れない。",
+      "examples": [
+        {
+          "id": "U02E1",
+          "en": "You pay based on how much data you use.",
+          "ja": "データ利用量に応じた段階制の料金をお支払いいただきます。",
+          "why": "pay based on how much data you use の構造。"
+        },
+        {
+          "id": "U02E2",
+          "en": "We accept credit cards for payment.",
+          "ja": "お支払いにはクレジットカードをご利用いただけます。",
+          "why": "We accept で店側の対応を説明する。"
+        },
+        {
+          "id": "U02E3",
+          "en": "We help you keep your current phone number.",
+          "ja": "現在の電話番号を引き継ぐお手伝いをします。",
+          "why": "help you + 動詞原形。"
+        },
+        {
+          "id": "U02E4",
+          "en": "I recommend checking the coverage map.",
+          "ja": "エリアマップの確認をおすすめします。",
+          "why": "recommend + -ing の形。"
+        },
+        {
+          "id": "U02E5",
+          "en": "This app uses mobile data.",
+          "ja": "このアプリはモバイルデータを使用します。",
+          "why": "三人称単数は uses。"
+        },
+        {
+          "id": "U02E6",
+          "en": "Customers choose a physical SIM or an eSIM.",
+          "ja": "お客様は物理SIMかeSIMを選びます。",
+          "why": "choose は選ぶ。"
+        },
+        {
+          "id": "U02E7",
+          "en": "We explain the monthly charges before you apply.",
+          "ja": "申し込み前に月額料金をご説明します。",
+          "why": "before の後に節を置ける。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "title": "Do / Does：Yes・No質問",
+      "goal": "現在の利用状況を質問する",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "一般動詞の現在形を疑問にするとき Do / Does を文頭に置く。相手に聞く場合は Do you ...? が基本。Does は he/she/it など三人称単数に使い、後ろの動詞は原形に戻す。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Do + you + have + ... ? / Does + your phone + support + ... ? 否定は do not / does not + 原形。答えは Yes, I do. / No, I do not. で対応できる。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "いきなりプラン説明を始めず Do you ...? で利用状況を確認する。Yes/Noで答えられる質問は、聞き返しが起きにくい。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「Does your phone supports ...?」は supports ではなく support。Do you are ...? と be動詞疑問文を混ぜない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Do you have a Rakuten ID? では do が疑問の形を担い、have は原形のまま。Does your phone support eSIM? では your phone が三人称単数なので does を使う。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "肯定文 Your phone supports eSIM. と疑問文 Does your phone support eSIM? の supports/support の変化を確認。No, it doesn't. は端末が対応しないという回答。調査前に端末対応を決めつけない。"
+        }
+      ],
+      "pattern": "Do + you + have + ... ? / Does + your phone + support + ... ? 否定は do not / does not + 原形",
+      "tip": "「Does your phone supports ...?」は supports ではなく support。Do you are ...? と be動詞疑問文を混ぜない。",
+      "examples": [
+        {
+          "id": "U03E1",
+          "en": "Do you use more than 20 gigabytes a month?",
+          "ja": "月に20GBを超えて使いますか。",
+          "why": "Do you + 一般動詞。"
+        },
+        {
+          "id": "U03E2",
+          "en": "Do you want to keep your phone number?",
+          "ja": "電話番号をそのまま使いたいですか。",
+          "why": "want to の前に Do you。"
+        },
+        {
+          "id": "U03E3",
+          "en": "Do you have a Rakuten ID?",
+          "ja": "楽天IDをお持ちですか。",
+          "why": "所有は have。"
+        },
+        {
+          "id": "U03E4",
+          "en": "Does your phone support eSIM?",
+          "ja": "お使いの端末はeSIMに対応していますか。",
+          "why": "主語が your phone なので Does。"
+        },
+        {
+          "id": "U03E5",
+          "en": "Do you need help with the application?",
+          "ja": "申し込みのお手伝いは必要ですか。",
+          "why": "need help with の使い方。"
+        },
+        {
+          "id": "U03E6",
+          "en": "Do you usually call overseas?",
+          "ja": "普段海外に電話しますか。",
+          "why": "usually は動詞の前。"
+        },
+        {
+          "id": "U03E7",
+          "en": "Does the discount apply to this line?",
+          "ja": "この回線に割引は適用されますか。",
+          "why": "apply to は「～に適用される」。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "title": "疑問詞：何・どれ・どのくらい",
+      "goal": "What / Which / How much / How many",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "What は「何」、Which は選択肢がある「どちら」、How much は料金や不可算量、How many は数えられる個数を尋ねる。お客様から必要情報を引き出す基本の文型。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "疑問詞 + do/does + 主語 + 動詞 ...? / 疑問詞 + is/are + 主語 ...? ただし What is ...? のように be動詞があれば do を足さない。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "「料金」は How much is ...?、「何GB」は How much data ...?、「何回線」は How many lines ...? と、聞きたい対象で変える。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "How many data は誤り。data usage には how much、SIM cards や lines には how many。Which is ...? は選択肢を示してから使う。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "What は内容、Which は限られた選択肢、How much は量・料金、How many は回線などの個数。How much data と How many lines を交換すると不自然になる。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『今の通信会社は？』には What is your current carrier?、『毎月何GB？』には How much data do you usually use?。料金の見積りは別途割引・オプションの有無を聞いてから提示する。"
+        }
+      ],
+      "pattern": "疑問詞 + do/does + 主語 + 動詞 ...? / 疑問詞 + is/are + 主語 ...? ただし What is ...? のように be動詞があれば do を足さない",
+      "tip": "How many data は誤り。data usage には how much、SIM cards や lines には how many。Which is ...? は選択肢を示してから使う。",
+      "examples": [
+        {
+          "id": "U04E1",
+          "en": "What brings you to the store today?",
+          "ja": "本日はどのようなご用件ですか。",
+          "why": "来店目的を自然に尋ねる定型。"
+        },
+        {
+          "id": "U04E2",
+          "en": "Which SIM would you prefer?",
+          "ja": "どちらのSIMをご希望ですか。",
+          "why": "複数の選択肢なら Which。"
+        },
+        {
+          "id": "U04E3",
+          "en": "How much data do you usually use?",
+          "ja": "普段どのくらいデータを使いますか。",
+          "why": "不可算量に How much。"
+        },
+        {
+          "id": "U04E4",
+          "en": "How many lines would you like to sign up for?",
+          "ja": "何回線お申し込みになりますか。",
+          "why": "数えられる回線数に How many。"
+        },
+        {
+          "id": "U04E5",
+          "en": "What is your current carrier?",
+          "ja": "現在ご利用の携帯会社はどちらですか。",
+          "why": "be動詞で質問する。"
+        },
+        {
+          "id": "U04E6",
+          "en": "How much is the monthly fee?",
+          "ja": "月額料金はいくらですか。",
+          "why": "価格には How much is ...?。"
+        },
+        {
+          "id": "U04E7",
+          "en": "Which option fits your needs best?",
+          "ja": "どのオプションが一番合いますか。",
+          "why": "複数候補を比べて選ぶ。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chapter": 2,
+      "title": "Can：できること・可能性",
+      "goal": "can + 動詞原形で機能を説明",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "can は能力・可能性・許可を表し、直後は必ず動詞の原形。「この端末で使える」「番号を引き継げる」などをシンプルに説明できる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "主語 + can + 動詞原形。疑問文は Can + 主語 + 動詞原形 ...? 否定は cannot / can’t。Can you ...? は依頼にも使える。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "「使える」は can use、「確認できる」は can check。ただし実際に利用可能かは端末・地域・条件を確認した後で断定する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "can to use / can uses は誤り。確約していない場合は may や subject to ... を併用して丁寧に条件を伝える。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "You can keep ... は可能性・利用可能な選択肢を示す。Can you open ...? は相手の能力を尋ねるより『操作できますか』という依頼として機能する場合がある。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "can は契約の無条件な許可・接続保証ではない。We cannot guarantee reception in every building. を対にして覚える。eSIMやテザリングの案内では対応端末・条件の確認と組み合わせる。"
+        }
+      ],
+      "pattern": "主語 + can + 動詞原形",
+      "tip": "can to use / can uses は誤り。確約していない場合は may や subject to ... を併用して丁寧に条件を伝える。",
+      "examples": [
+        {
+          "id": "U05E1",
+          "en": "You can keep your current phone number with MNP.",
+          "ja": "MNPで今の電話番号を引き継げます。",
+          "why": "can + keep。"
+        },
+        {
+          "id": "U05E2",
+          "en": "You can check your data usage in the app.",
+          "ja": "アプリでデータ使用量を確認できます。",
+          "why": "can + check。"
+        },
+        {
+          "id": "U05E3",
+          "en": "We can help you set up your eSIM.",
+          "ja": "eSIMの設定をお手伝いできます。",
+          "why": "help + 人 + 動詞原形。"
+        },
+        {
+          "id": "U05E4",
+          "en": "Can you open the my Rakuten Mobile app?",
+          "ja": "my 楽天モバイルアプリを開けますか。",
+          "why": "Can you は依頼。"
+        },
+        {
+          "id": "U05E5",
+          "en": "You can use tethering at no extra option charge.",
+          "ja": "テザリング自体に追加オプション料金はかかりません。",
+          "why": "no extra option charge と限定する。"
+        },
+        {
+          "id": "U05E6",
+          "en": "I can show you the coverage map.",
+          "ja": "エリアマップをご案内できます。",
+          "why": "I can show you ...。"
+        },
+        {
+          "id": "U05E7",
+          "en": "We cannot guarantee reception in every building.",
+          "ja": "すべての建物内での電波状況は保証できません。",
+          "why": "cannot + 原形。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chapter": 2,
+      "title": "Could / May：丁寧にお願いする",
+      "goal": "Could you ...? / May I ...?",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "could は can の丁寧な依頼、May I ...? は相手の許可を得る丁寧な表現。店頭で画面・書類を見せてもらう際に命令調を避けられる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Could + you + 動詞原形 ...? / May + I + 動詞原形 ...? May I はスタッフがする行為の許可、Could you はお客様にお願いする行為。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "個人情報の確認では Could you ...? を使い、確認目的を添える。端末を操作するときには May I ...? と同意を得る。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Could you to show は誤り。お客様の同意なく端末・ID情報を扱わない。文法上丁寧でも、依頼内容自体への配慮が必要。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Could you show me ...? は相手にしてもらうお願い。May I check ...? は自分が確認してよいかの許可取り。主語 you と I の区別が重要。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "Could you show me your ID? のように行為を頼み、May I check your phone? のように同意を求める。機器の設定や本人確認書類の取り扱いでは必ず適切な手順と許可を守る。"
+        }
+      ],
+      "pattern": "Could + you + 動詞原形 ...? / May + I + 動詞原形 ...? May I はスタッフがする行為の許可、Could you はお客様にお願いする行為",
+      "tip": "Could you to show は誤り。お客様の同意なく端末・ID情報を扱わない。文法上丁寧でも、依頼内容自体への配慮が必要。",
+      "examples": [
+        {
+          "id": "U06E1",
+          "en": "Could you show me a valid ID, please?",
+          "ja": "有効な本人確認書類を見せていただけますか。",
+          "why": "Could you は丁寧な依頼。"
+        },
+        {
+          "id": "U06E2",
+          "en": "May I check the model of your phone?",
+          "ja": "端末の機種を確認してもよろしいですか。",
+          "why": "May I は許可を求める。"
+        },
+        {
+          "id": "U06E3",
+          "en": "Could you confirm your address, please?",
+          "ja": "ご住所を確認していただけますか。",
+          "why": "confirm で確認。"
+        },
+        {
+          "id": "U06E4",
+          "en": "May I explain the charges before we proceed?",
+          "ja": "進める前に料金をご説明してもよろしいですか。",
+          "why": "May I explain ...?。"
+        },
+        {
+          "id": "U06E5",
+          "en": "Could you wait a moment while I check?",
+          "ja": "確認する間、少々お待ちいただけますか。",
+          "why": "while で同時進行。"
+        },
+        {
+          "id": "U06E6",
+          "en": "May I use this screen to show the plan?",
+          "ja": "この画面でプランをご案内してもよろしいですか。",
+          "why": "May I use ...?。"
+        },
+        {
+          "id": "U06E7",
+          "en": "Could you repeat the last four digits?",
+          "ja": "下4桁をもう一度おっしゃっていただけますか。",
+          "why": "Could you repeat ...?。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "chapter": 2,
+      "title": "would like：希望をやわらかく確認",
+      "goal": "Would you like ...? / I would like to ...",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "would like は want より丁寧で、お客様の希望を聞く場面に適する。名詞には would like + 名詞、行動には would like to + 動詞原形を使う。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Would you like + 名詞? / Would you like to + 動詞? 「どちらがよいですか」は Which would you prefer?。No, thank you. にも配慮する。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "オプション勧誘では「加入したいですか」と「説明を聞きたいですか」を区別し、選択はお客様に委ねる。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "would like to + 名詞 は誤り。want を繰り返すと押しが強く聞こえる場面がある。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Would you like a physical SIM? は名詞を目的語にする。Would you like to review the contract? は動詞を続けるために to が必要。Would you like me to explain ...? では me が説明する人。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『希望を聞く』と『追加サービスを勝手に付ける』のは別。Would you like ...? で意思を確認し、申し込み前に料金と必要性を説明する。回答が No, thank you. なら追加しない。"
+        }
+      ],
+      "pattern": "Would you like + 名詞? / Would you like to + 動詞? 「どちらがよいですか」は Which would you prefer?",
+      "tip": "would like to + 名詞 は誤り。want を繰り返すと押しが強く聞こえる場面がある。",
+      "examples": [
+        {
+          "id": "U07E1",
+          "en": "Would you like a physical SIM or an eSIM?",
+          "ja": "物理SIMとeSIM、どちらをご希望ですか。",
+          "why": "would like + 名詞。"
+        },
+        {
+          "id": "U07E2",
+          "en": "Would you like to keep your current number?",
+          "ja": "現在の番号をそのまま使いたいですか。",
+          "why": "would like to + 原形。"
+        },
+        {
+          "id": "U07E3",
+          "en": "Would you like me to explain the call option?",
+          "ja": "通話オプションをご説明しましょうか。",
+          "why": "would like me to ... の構文。"
+        },
+        {
+          "id": "U07E4",
+          "en": "Which payment method would you prefer?",
+          "ja": "どのお支払い方法をご希望ですか。",
+          "why": "prefer で丁寧に選択。"
+        },
+        {
+          "id": "U07E5",
+          "en": "Would you like to review the contract details?",
+          "ja": "契約内容を確認されますか。",
+          "why": "押しつけず確認を促す。"
+        },
+        {
+          "id": "U07E6",
+          "en": "Would you like a copy of the estimate?",
+          "ja": "お見積もりの控えをご希望ですか。",
+          "why": "would like + 名詞。"
+        },
+        {
+          "id": "U07E7",
+          "en": "I would like to confirm one detail first.",
+          "ja": "まず一点確認させてください。",
+          "why": "I would like to ... は丁寧な意図。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "chapter": 2,
+      "title": "Please / Let me：案内と誘導",
+      "goal": "Please + 動詞 / Let me + 動詞",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "Please + 動詞原形は丁寧な案内や軽いお願い。Let me + 動詞原形は「私に～させてください」。スタッフ側が何をするかを明示できる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Please + check + ... / Let me + explain + ... / Please do not + 動詞。依頼をより丁寧にするときは Could you ...? を使う。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "手続きの画面で「次に何をするか」を短く案内する。Please tap ... の後に where / what を示すと操作ミスが減る。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Let me to check は誤り。Please を付ければどんな命令も適切になるわけではない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Please tap ... はお客様への操作案内、Let me explain ... は店側が説明する宣言。Let の後は me + 動詞原形で Let me to explain とは言わない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "画面操作を伴うときは Please check ... と確認箇所を具体化する。内容が不明なら Let me know if anything is unclear.。個人情報を含む画面を操作するときは本人の同意を優先する。"
+        }
+      ],
+      "pattern": "Please + check + ... / Let me + explain + ... / Please do not + 動詞",
+      "tip": "Let me to check は誤り。Please を付ければどんな命令も適切になるわけではない。",
+      "examples": [
+        {
+          "id": "U08E1",
+          "en": "Please tap the next button on the screen.",
+          "ja": "画面の「次へ」ボタンを押してください。",
+          "why": "Please + 原形。"
+        },
+        {
+          "id": "U08E2",
+          "en": "Let me explain the three price tiers.",
+          "ja": "料金の3段階をご説明します。",
+          "why": "Let me + 原形。"
+        },
+        {
+          "id": "U08E3",
+          "en": "Please check that your name is correct.",
+          "ja": "お名前に誤りがないか確認してください。",
+          "why": "check that + 節。"
+        },
+        {
+          "id": "U08E4",
+          "en": "Let me confirm the campaign conditions.",
+          "ja": "キャンペーン条件を確認いたします。",
+          "why": "スタッフの行動を示す。"
+        },
+        {
+          "id": "U08E5",
+          "en": "Please do not close the app yet.",
+          "ja": "まだアプリを閉じないでください。",
+          "why": "Please do not + 原形。"
+        },
+        {
+          "id": "U08E6",
+          "en": "Let me know if anything is unclear.",
+          "ja": "不明な点があればお知らせください。",
+          "why": "Let me know if ...。"
+        },
+        {
+          "id": "U08E7",
+          "en": "Please read the terms before signing.",
+          "ja": "署名前に規約をお読みください。",
+          "why": "before + -ing。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "chapter": 3,
+      "title": "数字と料金：読み方と構造",
+      "goal": "yen / per month / including tax",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "料金説明は数値＋単位＋期間＋税込・税別を明示する。「月に」は per month、「税込」は including tax または tax included。英語の数字は区切りに注意する。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "It costs + 金額 + per month. / The monthly fee is + 金額 + including tax. 数字は one thousand seventy-eight yen のように読む。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "初回の請求、端末代金、オプション料金は月額基本料と分けて話す。同じ 1,078 yen でも「最大」ではなく「3GBまで」が前提。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「yen」は単複で形を変えない。monthly と per month は重複させない。税込という条件を落とさない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "『1,078円』は one thousand seventy-eight yen、『2,178円』は two thousand one hundred seventy-eight yen、『3,278円』は three thousand two hundred seventy-eight yen。yen は複数になっても語形は変わらない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "3GB以下、3GB超～20GB以下、20GB超の境目を混同しない。月額基本料金にオプションや通話料が含まれていないことがあるため、All these prices include tax. と『すべて込み』は別だと明示する。"
+        }
+      ],
+      "pattern": "It costs + 金額 + per month. / The monthly fee is + 金額 + including tax. 数字は one thousand seventy-eight yen のように読む",
+      "tip": "「yen」は単複で形を変えない。monthly と per month は重複させない。税込という条件を落とさない。",
+      "examples": [
+        {
+          "id": "U09E1",
+          "en": "For up to 3 gigabytes, the monthly fee is 1,078 yen.",
+          "ja": "3GBまでは月額1,078円です。",
+          "why": "up to + 数量 と the monthly fee is ...。"
+        },
+        {
+          "id": "U09E2",
+          "en": "For over 3 and up to 20 gigabytes, the monthly fee is 2,178 yen.",
+          "ja": "3GB超から20GBまでは月額2,178円です。",
+          "why": "over と up to の範囲を区別。"
+        },
+        {
+          "id": "U09E3",
+          "en": "For over 20 gigabytes, the monthly fee is 3,278 yen.",
+          "ja": "20GBを超えると月額3,278円です。",
+          "why": "over は「超える」。"
+        },
+        {
+          "id": "U09E4",
+          "en": "All these prices include tax.",
+          "ja": "これらの金額はすべて税込みです。",
+          "why": "include tax の表現。"
+        },
+        {
+          "id": "U09E5",
+          "en": "The option costs 1,100 yen per month.",
+          "ja": "そのオプションは月額1,100円です。",
+          "why": "option costs + 額。"
+        },
+        {
+          "id": "U09E6",
+          "en": "This discount saves you 110 yen each month.",
+          "ja": "この割引で毎月110円安くなります。",
+          "why": "saves you + 金額。"
+        },
+        {
+          "id": "U09E7",
+          "en": "The total may include other charges.",
+          "ja": "合計には他の料金が含まれる場合があります。",
+          "why": "may で可能性を示す。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "chapter": 3,
+      "title": "冠詞・単数・複数：SIMと回線",
+      "goal": "a/an/the、one SIM / two lines",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "数えられる名詞は単数なら a/an/the または所有格を伴うことが多い。すでに話題にした特定のものは the。「a SIM card」「two lines」と使い分ける。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "a + 子音で始まる音 / an + 母音で始まる音。a physical SIM、an eSIM。複数形は通常 -s を付け、a は付けない。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "SIM、回線、書類、端末は数えられる。一方 data、information、equipment は一般に不可算名詞として扱う。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "an SIM は発音により判断（SIM は /sɪm/ なので a SIM）。an eSIM は /iː/ で始まるので an。informations は不可。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "a SIM card は SIM /s/ の音で始まり、an eSIM は e /iː/ の音で始まる。two lines のように数えられる名詞は通常複数形、information は通常数えない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "必要書類の点数を一律に決めない。Some applications require additional documents. と伝える。実際に使える本人確認書類は、国籍や手続き方法などの条件によって異なる。"
+        }
+      ],
+      "pattern": "a + 子音で始まる音 / an + 母音で始まる音",
+      "tip": "an SIM は発音により判断（SIM は /sɪm/ なので a SIM）。an eSIM は /iː/ で始まるので an。informations は不可。",
+      "examples": [
+        {
+          "id": "U10E1",
+          "en": "You can choose a physical SIM card.",
+          "ja": "物理SIMカードを選べます。",
+          "why": "a + 単数可算名詞。"
+        },
+        {
+          "id": "U10E2",
+          "en": "An eSIM does not require a removable card.",
+          "ja": "eSIMは取り外し式カードを必要としません。",
+          "why": "an eSIM。"
+        },
+        {
+          "id": "U10E3",
+          "en": "Some applications require additional documents.",
+          "ja": "一部のお申し込みには追加の書類が必要です。",
+          "why": "複数形の applications と documents。"
+        },
+        {
+          "id": "U10E4",
+          "en": "Please insert the SIM card into the phone.",
+          "ja": "そのSIMカードを端末に入れてください。",
+          "why": "既知の特定物には the。"
+        },
+        {
+          "id": "U10E5",
+          "en": "One line is already active.",
+          "ja": "1回線はすでに開通しています。",
+          "why": "one line。"
+        },
+        {
+          "id": "U10E6",
+          "en": "Two lines are registered under this account.",
+          "ja": "このアカウントに2回線が登録されています。",
+          "why": "複数主語 + are。"
+        },
+        {
+          "id": "U10E7",
+          "en": "We need some information about your device.",
+          "ja": "端末についていくつか情報が必要です。",
+          "why": "information は不可算。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "chapter": 3,
+      "title": "比較表現：より安い・大きい・最適",
+      "goal": "cheaper / more / the best",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "比較級は2つを比べるとき、最上級は3つ以上から一番を示すときに使う。安い cheap→cheaper、便利 convenient→more convenient。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "A is cheaper than B. / Which option is better for you? 最上級は the + 最上級。比較対象と適用条件を明示する。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "営業トークの「他社より安い」は検証が必要。アプリでは自社の料金段階・オプションの比較を中心に練習する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "more cheaper は二重比較。the most cheapest も誤り。「best for you」はお客様の利用状況に基づく提案として扱う。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "cheaper than / more convenient than は2つを比べる。better は good の不規則比較級。The highest ... と最上級になると比較する範囲全体の上位を示す。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『安い』と『おすすめ』は同義ではない。基本料金が安くても、端末代・有料オプション・通信エリアなどで最適な選択は変わる。Which option fits your needs best? と条件を確認する。"
+        }
+      ],
+      "pattern": "A is cheaper than B. / Which option is better for you? 最上級は the + 最上級",
+      "tip": "more cheaper は二重比較。the most cheapest も誤り。「best for you」はお客様の利用状況に基づく提案として扱う。",
+      "examples": [
+        {
+          "id": "U11E1",
+          "en": "The 3-gigabyte tier is cheaper than the unlimited tier.",
+          "ja": "3GBの料金帯は無制限の料金帯より安いです。",
+          "why": "cheaper than。"
+        },
+        {
+          "id": "U11E2",
+          "en": "This option may be more convenient for you.",
+          "ja": "このオプションの方が便利かもしれません。",
+          "why": "more convenient。"
+        },
+        {
+          "id": "U11E3",
+          "en": "Which plan is better for your data usage?",
+          "ja": "利用量に合うのはどちらのプランですか。",
+          "why": "better は good の比較級。"
+        },
+        {
+          "id": "U11E4",
+          "en": "An eSIM can be easier to activate on a compatible phone.",
+          "ja": "対応端末ではeSIMの方が開通しやすい場合があります。",
+          "why": "easier to + 原形。"
+        },
+        {
+          "id": "U11E5",
+          "en": "The highest data tier is more expensive than the lowest tier.",
+          "ja": "利用量が最大の料金帯は最小の料金帯より高額です。",
+          "why": "more expensive than の比較級。"
+        },
+        {
+          "id": "U11E6",
+          "en": "A physical SIM is more suitable for some devices.",
+          "ja": "機種によっては物理SIMの方が適しています。",
+          "why": "more suitable。"
+        },
+        {
+          "id": "U11E7",
+          "en": "Let us compare the total monthly costs.",
+          "ja": "月額の合計費用を比較しましょう。",
+          "why": "compare + 対象。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "chapter": 3,
+      "title": "数量表現：まで・超える・それぞれ",
+      "goal": "up to / more than / each / per",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "料金条件では「以下」「超過」を厳密に言い分ける。up to 3GB は3GBを含み、more than 3GB / over 3GB は3GBを含まない。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "up to + 数量 / more than + 数量 / each + 単数名詞 / per + 単数名詞。「20GBぴったり」と「20GB超過」は異なる。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "プランは段階制なので、20GBを少し超えた場合の説明が特に重要。料金の区切りを英語で正確に確認する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "less than 3GB と up to 3GB を混同しない。3GBちょうどは up to 3GB に含まれる。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "up to 3GB は3GBちょうどを含み、more than 3GB は含まない。20GBちょうどまでは中間料金帯、20GBを1バイトでも超えたら上位帯という区別を英語でも保つ。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "each eligible line は each の後が単数形 line、複数回線全体には eligible lines。per month は月額、per gigabyte はGB当たり。境界条件を厳密に伝えるのは契約説明の重要な技能。"
+        }
+      ],
+      "pattern": "up to + 数量 / more than + 数量 / each + 単数名詞 / per + 単数名詞",
+      "tip": "less than 3GB と up to 3GB を混同しない。3GBちょうどは up to 3GB に含まれる。",
+      "examples": [
+        {
+          "id": "U12E1",
+          "en": "The lowest price tier covers up to 3 gigabytes.",
+          "ja": "最も安い料金帯は3GBまでを対象とします。",
+          "why": "up to は境界値を含む。"
+        },
+        {
+          "id": "U12E2",
+          "en": "If you use more than 3 gigabytes, the next price tier applies.",
+          "ja": "3GBを超えると次の料金帯が適用されます。",
+          "why": "more than は境界値を含まない。"
+        },
+        {
+          "id": "U12E3",
+          "en": "The price changes when you exceed 20 gigabytes.",
+          "ja": "20GBを超えると料金が変わります。",
+          "why": "exceed は超える。"
+        },
+        {
+          "id": "U12E4",
+          "en": "Each eligible family line gets a 110-yen discount.",
+          "ja": "条件を満たす家族の各回線が110円割引されます。",
+          "why": "each + 単数。"
+        },
+        {
+          "id": "U12E5",
+          "en": "One extra gigabyte abroad costs 500 yen.",
+          "ja": "海外での追加高速データ1GBは500円です。",
+          "why": "追加単位と料金。"
+        },
+        {
+          "id": "U12E6",
+          "en": "The fee is charged per month.",
+          "ja": "料金は月ごとに請求されます。",
+          "why": "per month。"
+        },
+        {
+          "id": "U12E7",
+          "en": "The plan has three usage-based price tiers.",
+          "ja": "このプランには使用量に応じた3段階の料金があります。",
+          "why": "usage-based の複合形容詞。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "chapter": 4,
+      "title": "現在進行形：いま手続き中",
+      "goal": "am/is/are + -ing",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "現在進行形は「今まさに行っている途中」の操作や確認を表す。現在形が通常の仕組みを説明するのに対し、進行形は現場の進捗を説明する。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "am/is/are + 動詞ing。「I am checking ...」「We are processing ...」。疑問文は Are you ...?。状態動詞は進行形にしないのが普通。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "待ち時間の理由を説明するとき「いま確認しています」と伝えられる。ただし進捗や完了予定を根拠なく確約しない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "I checking は be動詞不足。I am know は不自然。いま行っている確認行為には checking を使う。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "I am checking ... は今まさに行っている操作。Your phone is downloading ... は端末で進行中の処理。be動詞を落として I checking と言わない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『現在、条件を確認中です』と『キャンペーンの対象です』は異なる。進行形を使うと未確定であることを伝えやすい。操作後は We have confirmed ... のように完了形へ切り替える。"
+        }
+      ],
+      "pattern": "am/is/are + 動詞ing",
+      "tip": "I checking は be動詞不足。I am know は不自然。いま行っている確認行為には checking を使う。",
+      "examples": [
+        {
+          "id": "U13E1",
+          "en": "I am checking the campaign details now.",
+          "ja": "今キャンペーンの詳細を確認しています。",
+          "why": "am + checking。"
+        },
+        {
+          "id": "U13E2",
+          "en": "We are processing your application.",
+          "ja": "お申し込みを処理しています。",
+          "why": "are + processing。"
+        },
+        {
+          "id": "U13E3",
+          "en": "Your phone is downloading the eSIM profile.",
+          "ja": "端末がeSIMのプロファイルをダウンロードしています。",
+          "why": "is + downloading。"
+        },
+        {
+          "id": "U13E4",
+          "en": "I am confirming your eligibility.",
+          "ja": "対象条件を確認しています。",
+          "why": "am + confirming。"
+        },
+        {
+          "id": "U13E5",
+          "en": "The app is showing an error message.",
+          "ja": "アプリにエラーメッセージが表示されています。",
+          "why": "is + showing。"
+        },
+        {
+          "id": "U13E6",
+          "en": "We are waiting for the verification result.",
+          "ja": "本人確認の結果を待っています。",
+          "why": "are + waiting。"
+        },
+        {
+          "id": "U13E7",
+          "en": "Are you using Wi-Fi at the moment?",
+          "ja": "現在Wi-Fiをご利用ですか。",
+          "why": "Are you + -ing。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chapter": 4,
+      "title": "未来表現：次の手順を説明",
+      "goal": "will / be going to",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "will はこれから行うことや予測、be going to は予定・見込みを示す。店頭では「次に何をしますか」「その後何が起きますか」を説明するのに使う。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "We will + 原形。/ You are going to + 原形。soon, next, after that などと組み合わせる。保証のない将来は may / usually などで調整。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "本人確認、開通、請求確定は処理条件が異なるため「必ずすぐ終わる」と断言しない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "will to send は誤り。be going to の be を落とさない。将来のポイント付与を即時と説明しない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "I will explain ... はこれからの案内、We are going to review ... は予定している手順。The final charge will depend on ... は今後の請求額の変動を述べる。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "will を使ってもボーナス付与が保証されるわけではない。条件が不明なら You may receive points later if you qualify. のように may と if で範囲を限定する。"
+        }
+      ],
+      "pattern": "We will + 原形",
+      "tip": "will to send は誤り。be going to の be を落とさない。将来のポイント付与を即時と説明しない。",
+      "examples": [
+        {
+          "id": "U14E1",
+          "en": "I will explain the next step.",
+          "ja": "次の手順をご説明します。",
+          "why": "will + 原形。"
+        },
+        {
+          "id": "U14E2",
+          "en": "We will check your device compatibility first.",
+          "ja": "まず端末の対応状況を確認します。",
+          "why": "未来に行う処理を示す。"
+        },
+        {
+          "id": "U14E3",
+          "en": "You are going to receive a confirmation message.",
+          "ja": "確認メッセージを受け取る予定です。",
+          "why": "are going to + 原形。"
+        },
+        {
+          "id": "U14E4",
+          "en": "The final charge will depend on your usage.",
+          "ja": "最終的な料金は利用量によって決まります。",
+          "why": "will depend on。"
+        },
+        {
+          "id": "U14E5",
+          "en": "I will show you how to use Rakuten Link.",
+          "ja": "Rakuten Linkの使い方をお見せします。",
+          "why": "how to + 動詞。"
+        },
+        {
+          "id": "U14E6",
+          "en": "We are going to review the contract together.",
+          "ja": "一緒に契約内容を確認する予定です。",
+          "why": "予定の going to。"
+        },
+        {
+          "id": "U14E7",
+          "en": "You may receive points later if you qualify.",
+          "ja": "対象なら後日ポイントを受け取れる場合があります。",
+          "why": "未確定なら may。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chapter": 4,
+      "title": "助動詞と義務：必要・必須",
+      "goal": "need to / have to / must",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "need to は必要性、have to は手続き上の必要条件、must は強い義務。契約説明ではルールに基づく必要事項を中立的に伝えることが重要。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "You need to + 原形 / You have to + 原形 / You must + 原形。must の後に to は付けない。必要でない場合は do not need to。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "本人確認書類や楽天IDは手続きの種類・本人属性により必要条件が異なる。条件を確認しながら need to を使う。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "must to は誤り。must not（禁止）と do not have to（不要）は意味が正反対。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "must / have to / need to の後ではそれぞれ動詞の形に注意。must confirm は直接原形、need to verify は to を付ける。do not need to は『不要』で must not の『禁止』とは違う。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "本人確認、楽天ID、同意、MNP番号の準備などを説明するときは何が必要かを個別に伝える。You must buy a phone. のような根拠のない義務を作らない。"
+        }
+      ],
+      "pattern": "You need to + 原形 / You have to + 原形 / You must + 原形",
+      "tip": "must to は誤り。must not（禁止）と do not have to（不要）は意味が正反対。",
+      "examples": [
+        {
+          "id": "U15E1",
+          "en": "You need to verify your identity for the application.",
+          "ja": "申し込みには本人確認が必要です。",
+          "why": "need to verify。"
+        },
+        {
+          "id": "U15E2",
+          "en": "You have to sign in with your Rakuten ID.",
+          "ja": "楽天IDでログインする必要があります。",
+          "why": "have to + 原形。"
+        },
+        {
+          "id": "U15E3",
+          "en": "We must confirm the applicable campaign terms.",
+          "ja": "該当キャンペーンの条件を確認しなければなりません。",
+          "why": "must + 原形。"
+        },
+        {
+          "id": "U15E4",
+          "en": "You do not need to buy a new phone if yours is compatible.",
+          "ja": "今の端末が対応していれば新しい端末を買う必要はありません。",
+          "why": "do not need to は不要。"
+        },
+        {
+          "id": "U15E5",
+          "en": "You need to check the MNP reservation number for an in-store transfer.",
+          "ja": "店頭での乗り換えにはMNP予約番号の確認が必要です。",
+          "why": "in-store は店頭。"
+        },
+        {
+          "id": "U15E6",
+          "en": "You must agree to the terms before submitting.",
+          "ja": "送信前に規約に同意する必要があります。",
+          "why": "must agree。"
+        },
+        {
+          "id": "U15E7",
+          "en": "Please make sure the account name matches your documents.",
+          "ja": "アカウント名が書類と一致しているかご確認ください。",
+          "why": "make sure + 節。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "chapter": 4,
+      "title": "条件文：もし～なら",
+      "goal": "if + 現在形, will/can ...",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "if は条件を提示する接続詞。「もしeSIM対応なら」「条件を満たせば割引が適用される」のように確約の範囲を明示できる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "If + 主語 + 現在形, 主語 + can/will/may + 原形。未来の条件でも if 節では通常 will を使わず現在形。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "お客様が条件を満たすか不明な場合は if を付ける。特典を受け取る時期は後日であることも説明する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "If you will qualify は通常の条件文では不自然。if を落としてポイント付与を保証しない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "If your phone supports eSIM, you can choose it. は条件と結果の2節。未来の出来事であっても通常 if 節は supports の現在形にする。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "If you qualify, the discount may apply. は『条件を満たせば適用される可能性』という意味。特典の適用可否が不明な場合、If you qualify を落として絶対に割引されるように言わない。"
+        }
+      ],
+      "pattern": "If + 主語 + 現在形, 主語 + can/will/may + 原形",
+      "tip": "If you will qualify は通常の条件文では不自然。if を落としてポイント付与を保証しない。",
+      "examples": [
+        {
+          "id": "U16E1",
+          "en": "If your phone supports eSIM, you can choose it.",
+          "ja": "端末がeSIM対応なら選択できます。",
+          "why": "if + 現在形、can。"
+        },
+        {
+          "id": "U16E2",
+          "en": "If you use over 20 gigabytes, the base fee is 3,278 yen.",
+          "ja": "20GB超なら基本料金は3,278円です。",
+          "why": "料金条件の if。"
+        },
+        {
+          "id": "U16E3",
+          "en": "If you qualify, the family discount may apply.",
+          "ja": "対象条件を満たせば家族割が適用される場合があります。",
+          "why": "may apply で慎重に説明。"
+        },
+        {
+          "id": "U16E4",
+          "en": "If you need assistance, please ask me.",
+          "ja": "お困りならお声がけください。",
+          "why": "条件 + 依頼。"
+        },
+        {
+          "id": "U16E5",
+          "en": "If the app fails, we can try another method.",
+          "ja": "アプリがうまく動かなければ別の方法を試せます。",
+          "why": "if + 現在形。"
+        },
+        {
+          "id": "U16E6",
+          "en": "If the transfer is complete, we will test the connection.",
+          "ja": "乗り換えが完了したら通信を確認します。",
+          "why": "未来の完了条件。"
+        },
+        {
+          "id": "U16E7",
+          "en": "If the campaign has ended, the bonus will not apply.",
+          "ja": "キャンペーンが終了していれば特典は適用されません。",
+          "why": "終了を条件として限定。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "chapter": 5,
+      "title": "現在完了：もう済んだ／まだ済んでいない",
+      "goal": "have / has + 過去分詞",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "現在完了は過去の出来事と「今の状態」をつなぐ。手続きの完了や過去の利用経験を確認できる。have/has + 過去分詞。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Have you + 過去分詞 ...? / We have already ... / It has not ... yet. already は「すでに」、yet は否定・疑問で「まだ／もう」。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "「申請済み」と「開通済み」は別の事実。何が完了したかを正確に言う。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "have submitted と submitted の違いに注意。have did は誤り、have done が正しい。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Have you already requested ...? は現在に関係する手続き完了の確認。Your eSIM has not been activated yet. はまだ有効化されていない状態。have / has と過去分詞で形を作る。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "Have you used Rakuten Mobile before? は『過去から今までの利用経験』。Did you use ... last month? は先月と時期を特定した過去形。経験確認はキャンペーンの初回申込条件にも関係する。"
+        }
+      ],
+      "pattern": "Have you + 過去分詞 ...? / We have already ... / It has not ... yet. already は「すでに」、yet は否定・疑問で「まだ／もう」",
+      "tip": "have submitted と submitted の違いに注意。have did は誤り、have done が正しい。",
+      "examples": [
+        {
+          "id": "U17E1",
+          "en": "Have you already requested an MNP reservation number?",
+          "ja": "MNP予約番号はすでに取得済みですか。",
+          "why": "Have you already + 過去分詞。"
+        },
+        {
+          "id": "U17E2",
+          "en": "We have received your application.",
+          "ja": "お申し込みを受け付けました。",
+          "why": "have received で現在の受付状態。"
+        },
+        {
+          "id": "U17E3",
+          "en": "Your eSIM has not been activated yet.",
+          "ja": "eSIMはまだ有効化されていません。",
+          "why": "has not been ... yet。"
+        },
+        {
+          "id": "U17E4",
+          "en": "Have you used Rakuten Mobile before?",
+          "ja": "以前楽天モバイルを使ったことがありますか。",
+          "why": "経験の現在完了。"
+        },
+        {
+          "id": "U17E5",
+          "en": "I have checked the latest campaign page.",
+          "ja": "最新のキャンペーンページを確認しました。",
+          "why": "have checked。"
+        },
+        {
+          "id": "U17E6",
+          "en": "The payment method has been registered.",
+          "ja": "お支払い方法の登録が完了しました。",
+          "why": "has been + 過去分詞。"
+        },
+        {
+          "id": "U17E7",
+          "en": "We have not confirmed your eligibility yet.",
+          "ja": "対象かどうかはまだ確認できていません。",
+          "why": "not ... yet。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "chapter": 5,
+      "title": "過去形：以前の契約や履歴",
+      "goal": "did / was / transferred",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "過去形はすでに終わった具体的な出来事を話す。last month / yesterday / before など過去の時点を伴いやすい。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "動詞の過去形：use→used、pay→paid、go→went。疑問は Did you + 原形? be動詞の過去は was/were。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "以前利用していた会社、前月の請求、前回の来店を確認する。必要以上の個人情報を尋ねない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Did you used は誤り。Did の後は use。過去の料金を現行価格だと誤認させない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Did you use another carrier last month? の did が過去を担うため、一般動詞は use の原形。When did you request ...? も request とする。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "申し込み履歴やSIM不具合の発生時期を聞くとき、earlier / last week / yesterday は過去の時点。記録を確認する前に『以前契約していなかった』と決めつけない。"
+        }
+      ],
+      "pattern": "動詞の過去形：use→used、pay→paid、go→went",
+      "tip": "Did you used は誤り。Did の後は use。過去の料金を現行価格だと誤認させない。",
+      "examples": [
+        {
+          "id": "U18E1",
+          "en": "Did you use another carrier last month?",
+          "ja": "先月は別の携帯会社を使っていましたか。",
+          "why": "Did + 動詞原形。"
+        },
+        {
+          "id": "U18E2",
+          "en": "When did you request the MNP number?",
+          "ja": "いつMNP予約番号を取得しましたか。",
+          "why": "疑問詞 + did。"
+        },
+        {
+          "id": "U18E3",
+          "en": "The phone worked yesterday.",
+          "ja": "端末は昨日動作していました。",
+          "why": "worked は過去。"
+        },
+        {
+          "id": "U18E4",
+          "en": "I checked the account status earlier.",
+          "ja": "先ほどアカウント状態を確認しました。",
+          "why": "checked は過去。"
+        },
+        {
+          "id": "U18E5",
+          "en": "Was the SIM working before the update?",
+          "ja": "更新前はSIMが使えていましたか。",
+          "why": "Was + 主語。"
+        },
+        {
+          "id": "U18E6",
+          "en": "Did you receive the confirmation email?",
+          "ja": "確認メールは届きましたか。",
+          "why": "Did you receive。"
+        },
+        {
+          "id": "U18E7",
+          "en": "The customer changed the payment method last week.",
+          "ja": "お客様は先週支払い方法を変更しました。",
+          "why": "changed は過去。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "chapter": 5,
+      "title": "受動態：手続き・ポイント付与",
+      "goal": "be + 過去分詞",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "受動態は「誰が行ったか」より「何が処理されたか」を中心に言う。サービス説明で使う applied / charged / awarded / verified が重要。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "The fee is charged ... / Points are awarded ... / The ID was verified ...。be動詞の時制と主語の単複を合わせる。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "キャンペーンは「特典が付与される」ではなく「条件達成時に付与される」など条件句を忘れない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Points awarded は be が抜けている。pay / charge は誰に何を請求するかまで言うと誤解が減る。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Points are awarded ... は『ポイントが付与される』という受け身。Your identity must be verified. は must + be + 過去分詞。誰が操作するかより手続きの状態を中心にする。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "will be displayed は『表示される予定』、is displayed は『表示される』。受動態の主語・時制を読み違えると現在の事実と今後の予定が混ざる。ポイントの分割付与は時期を別途確認する。"
+        }
+      ],
+      "pattern": "The fee is charged ... / Points are awarded ... / The ID was verified ...",
+      "tip": "Points awarded は be が抜けている。pay / charge は誰に何を請求するかまで言うと誤解が減る。",
+      "examples": [
+        {
+          "id": "U19E1",
+          "en": "Points are awarded after the conditions are met.",
+          "ja": "条件を満たした後にポイントが付与されます。",
+          "why": "are awarded の受動態。"
+        },
+        {
+          "id": "U19E2",
+          "en": "The monthly fee is based on data usage.",
+          "ja": "月額料金はデータ利用量に基づいています。",
+          "why": "is based on。"
+        },
+        {
+          "id": "U19E3",
+          "en": "Your identity must be verified.",
+          "ja": "本人確認が必要です。",
+          "why": "must be + 過去分詞。"
+        },
+        {
+          "id": "U19E4",
+          "en": "The contract details will be displayed on screen.",
+          "ja": "契約内容は画面に表示されます。",
+          "why": "will be displayed。"
+        },
+        {
+          "id": "U19E5",
+          "en": "Some calls are not covered by the free call service.",
+          "ja": "一部の通話は無料通話の対象外です。",
+          "why": "are not covered by。"
+        },
+        {
+          "id": "U19E6",
+          "en": "The charges are billed monthly.",
+          "ja": "料金は月ごとに請求されます。",
+          "why": "are billed。"
+        },
+        {
+          "id": "U19E7",
+          "en": "The discount is applied only to eligible lines.",
+          "ja": "割引は対象回線にのみ適用されます。",
+          "why": "is applied to。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "chapter": 5,
+      "title": "間接疑問：丁寧に確認する",
+      "goal": "Could you tell me if / what ...",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "直接疑問の What is ...? を「教えていただけますか」の一部にすると、後半は通常の語順に戻る。Could you tell me ...? は受付で役立つ。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Could you tell me + what + 主語 + 動詞 ...? / Do you know + whether + 主語 + 動詞 ...? 文中の疑問節は平叙文の語順。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "お客様の要望や端末仕様を丁寧に確認する場面に適する。難しければ二文に分けてもよい。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Could you tell me what is your carrier? は間接疑問として不自然。what your carrier is にする。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Could you tell me which carrier you use now? では which carrier の後が you use の平叙文語順。直接疑問 Which carrier do you use? から do を外して埋め込む。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "Do you know whether your phone supports eSIM? の whether は『～かどうか』。丁寧な聞き方の中で Does your phone support ...? の疑問文語順をそのまま入れない。"
+        }
+      ],
+      "pattern": "Could you tell me + what + 主語 + 動詞 ...? / Do you know + whether + 主語 + 動詞 ...? 文中の疑問節は平叙文の語順",
+      "tip": "Could you tell me what is your carrier? は間接疑問として不自然。what your carrier is にする。",
+      "examples": [
+        {
+          "id": "U20E1",
+          "en": "Could you tell me which carrier you use now?",
+          "ja": "現在の携帯会社を教えていただけますか。",
+          "why": "間接疑問は you use の順。"
+        },
+        {
+          "id": "U20E2",
+          "en": "Do you know whether your phone supports eSIM?",
+          "ja": "端末がeSIM対応かご存じですか。",
+          "why": "whether + 主語 + 動詞。"
+        },
+        {
+          "id": "U20E3",
+          "en": "Could you tell me how much data you use?",
+          "ja": "使うデータ量を教えていただけますか。",
+          "why": "how much data you use。"
+        },
+        {
+          "id": "U20E4",
+          "en": "May I ask when you requested the MNP number?",
+          "ja": "MNP予約番号を取得した時期を伺ってよろしいですか。",
+          "why": "when + 平叙語順。"
+        },
+        {
+          "id": "U20E5",
+          "en": "I will check whether this option is available.",
+          "ja": "このオプションが利用可能か確認します。",
+          "why": "check whether ...。"
+        },
+        {
+          "id": "U20E6",
+          "en": "Please tell me what error message you see.",
+          "ja": "どのエラーが出ているか教えてください。",
+          "why": "what + 名詞 + 主語 + 動詞。"
+        },
+        {
+          "id": "U20E7",
+          "en": "Could you confirm which plan you selected?",
+          "ja": "選択したプランをご確認いただけますか。",
+          "why": "which plan you selected。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "chapter": 6,
+      "title": "前置詞：日付・時間・場所・費用",
+      "goal": "on / in / at / by / for",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "前置詞は短いが誤解を生みやすい。at は時刻・場所の点、on は日付、in は月や期間、by は期限、for は目的・対象を表す。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "on Monday / in October / at 3 p.m. / by the deadline / for your phone。まとまりで覚えると接客時に迷いにくい。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "締切を言う場合 by を選ぶ。until はある時点まで状態が続く意味で、by はそれまでに完了する意味。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "in Monday や on 3 p.m. に注意。「来月末までに」は by the end of next month。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "on Friday は曜日、in October は月、at three o'clock は時刻、by the deadline は期限までの完了。書類 for identity verification は『用途』。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "by は『遅くとも～までに』、until は『～までずっと』なので開通締切の案内で混同しない。キャンペーンは期限の起点（ログイン日・申込日等）も確認する。"
+        }
+      ],
+      "pattern": "on Monday / in October / at 3 p.m. / by the deadline / for your phone",
+      "tip": "in Monday や on 3 p.m. に注意。「来月末までに」は by the end of next month。",
+      "examples": [
+        {
+          "id": "U21E1",
+          "en": "Please visit us on Friday.",
+          "ja": "金曜日にご来店ください。",
+          "why": "曜日は on。"
+        },
+        {
+          "id": "U21E2",
+          "en": "The campaign conditions may change in October.",
+          "ja": "キャンペーン条件は10月に変更される場合があります。",
+          "why": "月は in。"
+        },
+        {
+          "id": "U21E3",
+          "en": "Your appointment is at three o'clock.",
+          "ja": "ご予約は3時です。",
+          "why": "時刻は at。"
+        },
+        {
+          "id": "U21E4",
+          "en": "Please complete the procedure by the deadline.",
+          "ja": "期限までに手続きを完了してください。",
+          "why": "by は締切。"
+        },
+        {
+          "id": "U21E5",
+          "en": "This document is for identity verification.",
+          "ja": "この書類は本人確認用です。",
+          "why": "for は目的。"
+        },
+        {
+          "id": "U21E6",
+          "en": "We will check the signal inside the store.",
+          "ja": "店内で電波状況を確認します。",
+          "why": "inside は内部。"
+        },
+        {
+          "id": "U21E7",
+          "en": "The final amount appears on the billing screen.",
+          "ja": "最終金額は請求画面に表示されます。",
+          "why": "on the screen。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "chapter": 6,
+      "title": "接続詞：理由と対比を説明",
+      "goal": "because / so / although / but",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "because は原因、so は結果、although は譲歩、but は対比をつなぐ。説明に理由を添えると押し付けになりにくい。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "We need to check because ... / ..., so ... / Although ... , ...。because と so を同じ二節の接続語として重ねない。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "キャンペーンが使えない理由や端末の制約を理由＋代替案で伝える。断るだけで終わらせない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "Because ... so ... を同一文で併用しない。although ... but ... も基本はどちらか一方を接続語として使う。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "because は理由、so は結果、although は逆接。We need to verify ... because ... は手続きの理由を説明する。Although ... , ... は『～だが』という制限を加える。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『データ無制限』でも混雑時の速度制御がある場合、Although the plan offers unlimited data, speed restrictions may apply. が使える。メリットと注意点を同じ説明の中で伝える。"
+        }
+      ],
+      "pattern": "We need to check because ... / ..., so ... / Although ... , ...",
+      "tip": "Because ... so ... を同一文で併用しない。although ... but ... も基本はどちらか一方を接続語として使う。",
+      "examples": [
+        {
+          "id": "U22E1",
+          "en": "We need to verify your ID because this is a contract.",
+          "ja": "契約手続きなので本人確認が必要です。",
+          "why": "because で理由。"
+        },
+        {
+          "id": "U22E2",
+          "en": "Your device supports eSIM, so we can proceed.",
+          "ja": "端末がeSIM対応なので進められます。",
+          "why": "so で結果。"
+        },
+        {
+          "id": "U22E3",
+          "en": "Although the plan offers unlimited data, speed restrictions may apply.",
+          "ja": "データ無制限のプランですが速度制限がかかる場合があります。",
+          "why": "although で譲歩。"
+        },
+        {
+          "id": "U22E4",
+          "en": "This option is useful, but it costs extra.",
+          "ja": "このオプションは便利ですが追加料金がかかります。",
+          "why": "but で対比。"
+        },
+        {
+          "id": "U22E5",
+          "en": "Please keep the app open because activation is in progress.",
+          "ja": "開通手続き中なのでアプリを開いたままにしてください。",
+          "why": "because の理由付け。"
+        },
+        {
+          "id": "U22E6",
+          "en": "The offer has conditions, so please review them carefully.",
+          "ja": "特典には条件があるため注意してご確認ください。",
+          "why": "so は因果。"
+        },
+        {
+          "id": "U22E7",
+          "en": "Although the phone is unlocked, compatibility still needs checking.",
+          "ja": "SIMロックが解除済みでも対応機種か確認が必要です。",
+          "why": "although の譲歩。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "chapter": 6,
+      "title": "before / after / when：順番を説明",
+      "goal": "before + -ing / after + 節",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "手続きは順番が重要。before は「～する前に」、after は「～した後で」、when は「～したとき」。動詞-ing または主語＋動詞の節を続けられる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Before + -ing, ... / After + 主語 + 現在形, ... / When + 主語 + 現在形, ...。未来の順序でも従属節は通常現在形。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "紹介キャンペーンでは「申し込み前にリンクからログイン」の順序が重要。単に「コードを入力」と誤案内しない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "after you will log in ではなく after you log in。before applying と before apply の違いも確認。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "before applying と before you apply はどちらも可能。after / when の後も -ing または主語＋動詞の節を使える。時系列が逆になると紹介キャンペーン対象外になるおそれがある。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "紹介制度では『申込前に紹介リンクからログインする』など順番そのものが要件。before と after の取り違えに注意し、実際の期限は公式ルールを開いて再確認する。"
+        }
+      ],
+      "pattern": "Before + -ing, ... / After + 主語 + 現在形, ... / When + 主語 + 現在形, ...",
+      "tip": "after you will log in ではなく after you log in。before applying と before apply の違いも確認。",
+      "examples": [
+        {
+          "id": "U23E1",
+          "en": "Open the referral link before applying.",
+          "ja": "申し込み前に紹介リンクを開いてください。",
+          "why": "before + -ing。"
+        },
+        {
+          "id": "U23E2",
+          "en": "After you sign in, review the eligibility rules.",
+          "ja": "ログイン後に対象条件をご確認ください。",
+          "why": "after + 現在形。"
+        },
+        {
+          "id": "U23E3",
+          "en": "When activation finishes, test mobile data.",
+          "ja": "開通後にモバイルデータ通信を試してください。",
+          "why": "when + 現在形。"
+        },
+        {
+          "id": "U23E4",
+          "en": "Please save your current settings before changing the SIM.",
+          "ja": "SIM変更前に現在の設定を保存してください。",
+          "why": "before + -ing。"
+        },
+        {
+          "id": "U23E5",
+          "en": "After the payment method is registered, we can continue.",
+          "ja": "支払い方法の登録後に進められます。",
+          "why": "after + 受動態。"
+        },
+        {
+          "id": "U23E6",
+          "en": "Please ask if you have questions while reading the terms.",
+          "ja": "規約を読んでいる間に質問があればお尋ねください。",
+          "why": "while + -ing相当の節。"
+        },
+        {
+          "id": "U23E7",
+          "en": "We check compatibility before starting the transfer.",
+          "ja": "乗り換え開始前に対応機種を確認します。",
+          "why": "before + -ing。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "chapter": 6,
+      "title": "either / both / neither：選択肢の整理",
+      "goal": "either A or B / both A and B",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "either A or B は二者択一、both A and B は両方、neither A nor B はどちらも～ない。SIMや支払い方法を整理する場面で便利。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "either + A + or + B / both + A + and + B / neither + A + nor + B。並列する要素の形をそろえる。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "どちらでも選択できるかは事実確認が必要。「両方利用可能」と「どちらか選ぶ」は別の意味。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "either A and B は誤り。both を使って二者択一を表現しない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "either A or B はどちらか一方、both A and B は両方、neither A nor B はどちらも～ない。選択肢と必要書類の複数条件で意味を取り違えない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "Either method may work depending on your device. は条件次第でどちらかが使えるということ。『両方必須』と誤解されないよう、料金明細で必要なサービスと任意選択を分ける。"
+        }
+      ],
+      "pattern": "either + A + or + B / both + A + and + B / neither + A + nor + B",
+      "tip": "either A and B は誤り。both を使って二者択一を表現しない。",
+      "examples": [
+        {
+          "id": "U24E1",
+          "en": "You can choose either a physical SIM or an eSIM.",
+          "ja": "物理SIMまたはeSIMのどちらかを選べます。",
+          "why": "either ... or。"
+        },
+        {
+          "id": "U24E2",
+          "en": "Both plans include access to Rakuten Link.",
+          "ja": "両プランともRakuten Linkを利用できます。",
+          "why": "both は両方。"
+        },
+        {
+          "id": "U24E3",
+          "en": "We need both your Rakuten ID and payment details.",
+          "ja": "楽天IDと支払い情報の両方が必要です。",
+          "why": "both ... and。"
+        },
+        {
+          "id": "U24E4",
+          "en": "Either method may work depending on your device.",
+          "ja": "端末によってはどちらの方法でも使える場合があります。",
+          "why": "either method。"
+        },
+        {
+          "id": "U24E5",
+          "en": "Neither option should be added without your consent.",
+          "ja": "同意なくどちらのオプションも追加すべきではありません。",
+          "why": "neither は否定。"
+        },
+        {
+          "id": "U24E6",
+          "en": "You can review either option before deciding.",
+          "ja": "決める前にどちらのオプションも確認できます。",
+          "why": "either option。"
+        },
+        {
+          "id": "U24E7",
+          "en": "Both the price and the conditions matter.",
+          "ja": "価格と条件の両方が重要です。",
+          "why": "both ... and。"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "chapter": 7,
+      "title": "紹介：関係代名詞と説明の追加",
+      "goal": "a customer who / a link that",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "who は人、that/which は物事を追加説明する関係代名詞。「紹介を受けた人」「条件を満たすリンク」を一文で説明できる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "a customer who qualifies ... / a link that you receive ...。関係節が直前の名詞を修飾する。関係節内の動詞の主語に注意。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "紹介制度はリンク・QRコード利用が中心。特定の入力欄に数値コードを入れる方式だと決めつけない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "which は通常人の主語には使わない。関係節の意味を取り違えると特典対象者を誤案内する。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "A customer who meets the conditions の who は人、a link that you should open の that は物を後ろから説明する関係代名詞。主語と述語の位置を意識する。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "紹介する人（referrer）と紹介された人（referred customer）の役割を分ける。The QR code that the referrer shares ... の that 以下はどのQRコードかを特定する説明で、特典を保証するものではない。"
+        }
+      ],
+      "pattern": "a customer who qualifies ... / a link that you receive ...",
+      "tip": "which は通常人の主語には使わない。関係節の意味を取り違えると特典対象者を誤案内する。",
+      "examples": [
+        {
+          "id": "U25E1",
+          "en": "A customer who meets the conditions may receive points.",
+          "ja": "条件を満たすお客様はポイントを受け取れる場合があります。",
+          "why": "who で customer を説明。"
+        },
+        {
+          "id": "U25E2",
+          "en": "This is the referral link that you should open first.",
+          "ja": "こちらが最初に開く紹介リンクです。",
+          "why": "that で link を説明。"
+        },
+        {
+          "id": "U25E3",
+          "en": "The QR code that the referrer shares leads to the referral page.",
+          "ja": "紹介者が共有するQRコードから紹介ページへ進めます。",
+          "why": "that で QR code を説明。"
+        },
+        {
+          "id": "U25E4",
+          "en": "Customers who have already applied may not qualify.",
+          "ja": "すでに申し込んだ方は対象外となる場合があります。",
+          "why": "who 節で対象を限定。"
+        },
+        {
+          "id": "U25E5",
+          "en": "The campaign page that we checked lists the conditions.",
+          "ja": "確認したキャンペーンページに条件が載っています。",
+          "why": "that ... checked。"
+        },
+        {
+          "id": "U25E6",
+          "en": "People who use Rakuten Link must follow the campaign rules.",
+          "ja": "Rakuten Linkを使う方もキャンペーン規約に従う必要があります。",
+          "why": "who use の複数主語。"
+        },
+        {
+          "id": "U25E7",
+          "en": "This is the document that explains the point schedule.",
+          "ja": "こちらがポイント付与時期を説明する書類です。",
+          "why": "that explains ...。"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "chapter": 7,
+      "title": "if / unless：対象・対象外を伝える",
+      "goal": "if / unless / only if",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "unless は「～でない限り」、only if は「～の場合に限り」。キャンペーン条件を詳しく説明する際に有用だが、条件の追加・省略はしない。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "You may qualify if ... / You may not qualify unless ... / ... only if ...。unless は if not の意味に近いが、二重否定に注意。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "特典の適用対象は申込経路・申込時期・初回契約かどうかなど複数条件があり得る。確認してから説明する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "unless you do not ... は二重否定になりやすい。「unless は～しない限り」を一度日本語で確認。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "only if は『～の場合に限り』、unless は『～でない限り』。You may not qualify unless ... と You may qualify if ... は否定の位置を読み違えやすい。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "申込前後の順序、Rakuten Linkの条件、他特典との併用など、各要件が満たされる必要がある。『必ず付与される』ではなく The bonus applies only if all conditions are met. と述べる。"
+        }
+      ],
+      "pattern": "You may qualify if ... / You may not qualify unless ... / ... only if ...",
+      "tip": "unless you do not ... は二重否定になりやすい。「unless は～しない限り」を一度日本語で確認。",
+      "examples": [
+        {
+          "id": "U26E1",
+          "en": "You may qualify if you meet every requirement.",
+          "ja": "すべての条件を満たせば対象となる場合があります。",
+          "why": "if で必要条件。"
+        },
+        {
+          "id": "U26E2",
+          "en": "You may not qualify unless you use the referral process correctly.",
+          "ja": "紹介手順を正しく使わないと対象外となる場合があります。",
+          "why": "unless は～しない限り。"
+        },
+        {
+          "id": "U26E3",
+          "en": "The bonus applies only if all conditions are met.",
+          "ja": "特典はすべての条件を満たした場合に限り適用されます。",
+          "why": "only if。"
+        },
+        {
+          "id": "U26E4",
+          "en": "Unless the page confirms it, I cannot promise the bonus.",
+          "ja": "公式ページで確認できなければ特典はお約束できません。",
+          "why": "unless の使い方。"
+        },
+        {
+          "id": "U26E5",
+          "en": "If you applied before opening the link, check the rules carefully.",
+          "ja": "リンクを開く前に申し込んだ場合は規約をよく確認してください。",
+          "why": "if + 過去形。"
+        },
+        {
+          "id": "U26E6",
+          "en": "You can join the offer only if your contract is eligible.",
+          "ja": "契約が対象である場合に限り特典に参加できます。",
+          "why": "only if。"
+        },
+        {
+          "id": "U26E7",
+          "en": "Unless the deadline is extended, the stated date applies.",
+          "ja": "期限が延長されない限り記載日が適用されます。",
+          "why": "unless の例外条件。"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "chapter": 7,
+      "title": "不確実性：may / might / subject to",
+      "goal": "断定と可能性を分ける",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "キャンペーンの可否、通信品質、開通時刻など断定できない事項には may / might / subject to を使う。can は一般的に可能、will は比較的強い将来の確信。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "It may ... / It might ... / It is subject to + 名詞。may と might の後は動詞原形。subject to は条件・制約がかかることを示す。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "「必ず付与される」「どこでもつながる」といった断定を避ける一方、分かっている基本料金は明確に言い切る。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "may to apply は誤り。subject to conditions を「確定」と訳さない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "may は可能性、might はさらに控えめな可能性、subject to は『～を条件とする』。may not は『～ない場合がある』で、常に禁止とは限らない。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "根拠なく『絶対に特典が受け取れます』と保証しない。ただし料金表で確認済みの金額まで全部 may にする必要はない。確実な部分と審査・条件に左右される部分を分けて説明する。"
+        }
+      ],
+      "pattern": "It may ... / It might ... / It is subject to + 名詞",
+      "tip": "may to apply は誤り。subject to conditions を「確定」と訳さない。",
+      "examples": [
+        {
+          "id": "U27E1",
+          "en": "The campaign may change without prior notice.",
+          "ja": "キャンペーンは予告なく変更される場合があります。",
+          "why": "may + 原形。"
+        },
+        {
+          "id": "U27E2",
+          "en": "Your eligibility is subject to the official rules.",
+          "ja": "適用可否は公式規約に従います。",
+          "why": "subject to ...。"
+        },
+        {
+          "id": "U27E3",
+          "en": "The connection speed may be restricted at busy times.",
+          "ja": "混雑時には速度が制限される場合があります。",
+          "why": "may be + 過去分詞。"
+        },
+        {
+          "id": "U27E4",
+          "en": "Point awards might take several months.",
+          "ja": "ポイント付与まで数か月かかる可能性があります。",
+          "why": "might + 原形。"
+        },
+        {
+          "id": "U27E5",
+          "en": "The offer may not be combined with another promotion.",
+          "ja": "別の特典と併用できない場合があります。",
+          "why": "may not の不確実性。"
+        },
+        {
+          "id": "U27E6",
+          "en": "We cannot confirm the bonus until the conditions are checked.",
+          "ja": "条件確認までは特典を確約できません。",
+          "why": "cannot confirm until。"
+        },
+        {
+          "id": "U27E7",
+          "en": "Availability is subject to device compatibility.",
+          "ja": "利用可否は端末の対応状況によります。",
+          "why": "subject to + 名詞。"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "chapter": 7,
+      "title": "割引：be eligible for / apply to",
+      "goal": "対象条件を正確に述べる",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "eligible は「条件を満たして対象になる」、apply は「規則・割引が適用される」。人が eligible、割引が applies という主語の違いを意識する。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "be eligible for + 特典 / a discount applies to + 対象 / qualify for + 特典。「対象か確認します」は check your eligibility。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "家族割、こども割、青春割、シニアプログラムは適用方法や対象年齢が異なる。割引とポイント還元も区別。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "You are apply は誤り。eligible for と apply to の前置詞を混同しない。シニア制度のポイント還元を料金値引きと言わない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Customers are eligible for a discount は『お客様が対象』、The discount applies to eligible lines は『割引が回線に適用』。誰が主語になるかを確認する。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "年齢条件が合っていても、グループ登録、別途申込、エントリー、併用条件を満たす必要がある場合がある。割引・ポイント還元・抽選特典を同じ月額の値引きとして扱わない。"
+        }
+      ],
+      "pattern": "be eligible for + 特典 / a discount applies to + 対象 / qualify for + 特典",
+      "tip": "You are apply は誤り。eligible for と apply to の前置詞を混同しない。シニア制度のポイント還元を料金値引きと言わない。",
+      "examples": [
+        {
+          "id": "U28E1",
+          "en": "You may be eligible for the family discount.",
+          "ja": "家族割の対象となる場合があります。",
+          "why": "eligible for + 特典。"
+        },
+        {
+          "id": "U28E2",
+          "en": "The family discount applies to eligible lines.",
+          "ja": "家族割は対象回線に適用されます。",
+          "why": "applies to + 対象。"
+        },
+        {
+          "id": "U28E3",
+          "en": "Let me check your eligibility for this offer.",
+          "ja": "この特典の対象か確認いたします。",
+          "why": "check your eligibility。"
+        },
+        {
+          "id": "U28E4",
+          "en": "The youth discount is for customers aged 13 to 22.",
+          "ja": "青春割は13歳から22歳が対象です。",
+          "why": "aged 13 to 22。"
+        },
+        {
+          "id": "U28E5",
+          "en": "Some senior benefits are awarded as points.",
+          "ja": "シニア向け特典の一部はポイントで進呈されます。",
+          "why": "awarded as points。"
+        },
+        {
+          "id": "U28E6",
+          "en": "This offer requires an entry or separate application.",
+          "ja": "この特典にはエントリーまたは別途申し込みが必要です。",
+          "why": "requires + 名詞。"
+        },
+        {
+          "id": "U28E7",
+          "en": "Please verify whether the family group is registered.",
+          "ja": "家族グループが登録済みか確認してください。",
+          "why": "whether で可否を問う。"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "chapter": 8,
+      "title": "オプション：費用・有無・比較",
+      "goal": "optional / additional / included",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "オプション案内では included（含まれる）と optional（任意）を明確に分ける。additional は追加費用、free trial は無料期間であって永続的無料とは限らない。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "This option costs ... / It is optional. / It is included in the plan. / A separate fee applies. 明細に見せながら伝える。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "15分標準通話かけ放題とRakuten Linkの無料通話は異なる仕組み。通常電話アプリで使う場合を説明する。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「free」は後続課金や条件を確認せず使わない。無料通話には対象外番号がある。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "optional は任意、included はプランに含まれる、additional は追加、excluded は対象外。1,100 yen per month は月額であり、無料期間の終了後も続く負担に注意する。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "Rakuten Linkの対象国内通話無料と、標準電話アプリの15分かけ放題は別。無料になる発信経路・対象番号を確認し、不要なオプションを勝手に申し込まない。"
+        }
+      ],
+      "pattern": "This option costs ... / It is optional. / It is included in the plan. / A separate fee applies. 明細に見せながら伝える",
+      "tip": "「free」は後続課金や条件を確認せず使わない。無料通話には対象外番号がある。",
+      "examples": [
+        {
+          "id": "U29E1",
+          "en": "The 15-minute standard calling option costs 1,100 yen per month.",
+          "ja": "15分（標準）通話かけ放題は月額1,100円です。",
+          "why": "サービス名＋費用。"
+        },
+        {
+          "id": "U29E2",
+          "en": "This option is optional, not mandatory.",
+          "ja": "このオプションは任意で、必須ではありません。",
+          "why": "optional と mandatory。"
+        },
+        {
+          "id": "U29E3",
+          "en": "Rakuten Link is included in the plan.",
+          "ja": "Rakuten Linkはプランに含まれています。",
+          "why": "included in ...。"
+        },
+        {
+          "id": "U29E4",
+          "en": "The first month may be free under the offer conditions.",
+          "ja": "条件によって初回1か月が無料となる場合があります。",
+          "why": "may be free。"
+        },
+        {
+          "id": "U29E5",
+          "en": "Some numbers are excluded from free calls.",
+          "ja": "一部の番号は無料通話の対象外です。",
+          "why": "be excluded from。"
+        },
+        {
+          "id": "U29E6",
+          "en": "The standard dialer normally costs 22 yen per 30 seconds.",
+          "ja": "標準電話アプリは通常30秒22円です。",
+          "why": "per 30 seconds。"
+        },
+        {
+          "id": "U29E7",
+          "en": "Would you like to compare the calling options?",
+          "ja": "通話オプションを比較されますか。",
+          "why": "Would you like to ...。"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "chapter": 8,
+      "title": "海外ローミング：対象地域と制限",
+      "goal": "included / once / after / additional",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "海外ローミングは対象地域・端末・データ上限などを明示して説明する。国内のデータ無制限を海外にも無条件で適用すると誤案内になる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "Up to 2GB of high-speed roaming data is included. / After 2GB, speed is reduced. / You can add ... for ...。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "対象地域では月2GBまでの高速データがプラン料金に含まれ、超過後は低速。追加1GBあたり500円の高速データチャージがある。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「海外でも無制限の高速通信」は誤り。国際通話やSMSの料金は別途条件を確認。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "Up to 2GB of high-speed roaming data is included. は上限つきの基本枠。After 2GB, the speed is reduced. は超過後の状態。1GB for 500 yen は追加チャージの価格。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "日本国内の高速データ無制限と海外での高速ローミング上限を混同しない。渡航国、端末、国際通話/SMS、追加データ購入は別々に確認する。"
+        }
+      ],
+      "pattern": "Up to 2GB of high-speed roaming data is included. / After 2GB, speed is reduced. / You can add ... for ...",
+      "tip": "「海外でも無制限の高速通信」は誤り。国際通話やSMSの料金は別途条件を確認。",
+      "examples": [
+        {
+          "id": "U30E1",
+          "en": "Up to 2 gigabytes of high-speed roaming data is included.",
+          "ja": "海外での高速ローミングデータは2GBまで含まれます。",
+          "why": "up to 2 gigabytes。"
+        },
+        {
+          "id": "U30E2",
+          "en": "After 2 gigabytes, the roaming speed is reduced.",
+          "ja": "2GBを超えるとローミング速度が低下します。",
+          "why": "after + 数量。"
+        },
+        {
+          "id": "U30E3",
+          "en": "You can add one gigabyte for 500 yen.",
+          "ja": "500円で1GBの高速データを追加できます。",
+          "why": "add ... for ...。"
+        },
+        {
+          "id": "U30E4",
+          "en": "Please check whether your destination is supported.",
+          "ja": "渡航先が対象地域かご確認ください。",
+          "why": "whether ... is supported。"
+        },
+        {
+          "id": "U30E5",
+          "en": "International calls may have separate charges.",
+          "ja": "国際通話には別途料金がかかる場合があります。",
+          "why": "may have ...。"
+        },
+        {
+          "id": "U30E6",
+          "en": "Please check device compatibility before traveling.",
+          "ja": "渡航前に端末の対応状況をご確認ください。",
+          "why": "before + -ing。"
+        },
+        {
+          "id": "U30E7",
+          "en": "The domestic unlimited-data tier does not mean unlimited high-speed roaming.",
+          "ja": "国内の無制限料金帯でも海外高速ローミングが無制限になるわけではありません。",
+          "why": "does not mean ...。"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "chapter": 8,
+      "title": "費用の内訳：単純現在と受動態",
+      "goal": "base fee / option fee / total",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "月額基本料金と端末代、オプション代、通話料を分ける。The total includes ... では内訳、is billed ... では請求方法を示せる。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "The base fee is ... / The total includes ... / An additional charge may apply. 請求確定前は estimate（見積額）を使う。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "税込額・請求月・割引とポイント還元の違いに注意して説明する。値引きとポイント還元は同じではない。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「実質1,100円」は請求額1,100円と限らない。還元されるポイントを金銭の即時値引きと説明しない。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "base monthly fee は基本料金、optional service fee は追加オプション、device installment は端末の分割代金。The total includes ... は内訳、may differ は請求時の差の可能性を示す。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "『実質○円』がポイント還元込みの場合、請求額そのものではない。見積もりは確定請求ではないので estimate と bill を区別し、合計と条件をお客様と一緒に確認する。"
+        }
+      ],
+      "pattern": "The base fee is ... / The total includes ... / An additional charge may apply. 請求確定前は estimate（見積額）を使う",
+      "tip": "「実質1,100円」は請求額1,100円と限らない。還元されるポイントを金銭の即時値引きと説明しない。",
+      "examples": [
+        {
+          "id": "U31E1",
+          "en": "The base monthly fee depends on your data usage.",
+          "ja": "基本月額料金はデータ使用量によって変わります。",
+          "why": "depends on。"
+        },
+        {
+          "id": "U31E2",
+          "en": "The estimate includes this optional service.",
+          "ja": "この見積額にはオプションサービスが含まれます。",
+          "why": "includes。"
+        },
+        {
+          "id": "U31E3",
+          "en": "Device installment payments are separate from the plan fee.",
+          "ja": "端末の分割払いはプラン料金とは別です。",
+          "why": "separate from。"
+        },
+        {
+          "id": "U31E4",
+          "en": "A charge for standard calls may appear on your bill.",
+          "ja": "標準通話料が請求に含まれる場合があります。",
+          "why": "may appear。"
+        },
+        {
+          "id": "U31E5",
+          "en": "The discounted amount and the point rewards are different.",
+          "ja": "割引額とポイント還元は異なります。",
+          "why": "different。"
+        },
+        {
+          "id": "U31E6",
+          "en": "Please review the total before confirming the contract.",
+          "ja": "契約確定前に合計額をご確認ください。",
+          "why": "before + -ing。"
+        },
+        {
+          "id": "U31E7",
+          "en": "The final billing amount may differ from this estimate.",
+          "ja": "最終請求額は見積もりと異なる場合があります。",
+          "why": "may differ from。"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "chapter": 8,
+      "title": "トラブル対応：問題の特定と提案",
+      "goal": "seem / try -ing / let us",
+      "sections": [
+        {
+          "heading": "しくみと意味",
+          "text": "不具合対応は原因を決めつけず、現象を聞いて仮説を示す。It seems ... は断定を避け、Let us try ... は一緒に操作することを表す。"
+        },
+        {
+          "heading": "作り方・語順",
+          "text": "It seems that + 節 / Let us + 原形 / Try + -ing / Could you tell me ...?。確認→原因の切り分け→次の対応を分ける。"
+        },
+        {
+          "heading": "実際の店頭での使い分け",
+          "text": "設定変更前に同意を取り、データ消失の恐れがある操作は十分な説明が必要。通信エリア確認やSIM設定を順番に進める。"
+        },
+        {
+          "heading": "よくある間違い・確認ポイント",
+          "text": "「This will definitely fix it」と保証しない。try to restart と try restarting はニュアンスが少し異なる。"
+        },
+        {
+          "heading": "文のしくみをもう一段深く理解する",
+          "text": "It seems that ... は現象からの推測。Could you tell me when ...? は発生時期の確認。Let us check ... は次の操作の提案、Please try restarting ... は試す行為を表す。"
+        },
+        {
+          "heading": "店頭で誤解を防ぐ応用",
+          "text": "原因確認の前に故障・SIM不良と断定しない。端末設定を変更する際は許可を取り、初期化のようなデータ消失リスクを伴う操作は適切な説明と手順が必要。必ず直ると約束しない。"
+        }
+      ],
+      "pattern": "It seems that + 節 / Let us + 原形 / Try + -ing / Could you tell me ...?",
+      "tip": "「This will definitely fix it」と保証しない。try to restart と try restarting はニュアンスが少し異なる。",
+      "examples": [
+        {
+          "id": "U32E1",
+          "en": "It seems that the phone is not connecting to mobile data.",
+          "ja": "端末がモバイルデータに接続できていないようです。",
+          "why": "It seems that ...。"
+        },
+        {
+          "id": "U32E2",
+          "en": "Could you tell me when the issue started?",
+          "ja": "いつから問題が起きているか教えていただけますか。",
+          "why": "間接疑問。"
+        },
+        {
+          "id": "U32E3",
+          "en": "Let us check the mobile data setting first.",
+          "ja": "まずモバイルデータ設定を確認しましょう。",
+          "why": "Let us + 原形。"
+        },
+        {
+          "id": "U32E4",
+          "en": "Please try restarting the phone.",
+          "ja": "端末の再起動をお試しください。",
+          "why": "try + -ing。"
+        },
+        {
+          "id": "U32E5",
+          "en": "We may need to check the APN settings.",
+          "ja": "APN設定を確認する必要があるかもしれません。",
+          "why": "may need to。"
+        },
+        {
+          "id": "U32E6",
+          "en": "I cannot promise that this will fix the issue.",
+          "ja": "これで必ず直るとはお約束できません。",
+          "why": "cannot promise that ...。"
+        },
+        {
+          "id": "U32E7",
+          "en": "If the problem continues, we will review the next steps.",
+          "ja": "問題が続く場合は次の対応をご案内します。",
+          "why": "if 条件。"
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "S1",
+      "title": "来店・要件ヒアリング",
+      "tag": "受付",
+      "lines": [
+        [
+          "staff",
+          "Welcome to Rakuten Mobile. How can I help you today?",
+          "楽天モバイルへようこそ。本日はどのようなご用件ですか。"
+        ],
+        [
+          "customer",
+          "I would like to switch from another carrier.",
+          "他社から乗り換えたいです。"
+        ],
+        [
+          "staff",
+          "Would you like to keep your current phone number?",
+          "今の電話番号をそのまま使いたいですか。"
+        ],
+        [
+          "customer",
+          "Yes, please.",
+          "はい、お願いします。"
+        ],
+        [
+          "staff",
+          "I will explain the transfer procedure and required documents.",
+          "乗り換え手順と必要書類をご説明します。"
+        ]
+      ]
+    },
+    {
+      "id": "S2",
+      "title": "基本料金の3段階",
+      "tag": "料金",
+      "lines": [
+        [
+          "customer",
+          "How much is the monthly fee?",
+          "月額料金はいくらですか。"
+        ],
+        [
+          "staff",
+          "It depends on how much data you use each month.",
+          "毎月のデータ利用量で変わります。"
+        ],
+        [
+          "staff",
+          "Up to 3GB is 1,078 yen; over 3GB up to 20GB is 2,178 yen.",
+          "3GBまでは1,078円、3GB超から20GBまでは2,178円です。"
+        ],
+        [
+          "staff",
+          "Over 20GB is 3,278 yen. All these prices include tax.",
+          "20GB超は3,278円です。いずれも税込みです。"
+        ],
+        [
+          "customer",
+          "Are options included?",
+          "オプションは含まれますか。"
+        ],
+        [
+          "staff",
+          "Optional services and other charges may be added separately.",
+          "任意オプション等は別途料金が加算される場合があります。"
+        ]
+      ]
+    },
+    {
+      "id": "S3",
+      "title": "MNP・持ち物確認",
+      "tag": "契約",
+      "lines": [
+        [
+          "customer",
+          "Can I keep my current number?",
+          "今の番号を維持できますか。"
+        ],
+        [
+          "staff",
+          "Yes. This process is called MNP.",
+          "はい。MNPという手続きです。"
+        ],
+        [
+          "staff",
+          "For an in-store transfer, please check your MNP reservation number.",
+          "店頭での乗り換えではMNP予約番号をご用意ください。"
+        ],
+        [
+          "staff",
+          "You will also need an accepted ID, your Rakuten ID and payment information.",
+          "利用可能な本人確認書類、楽天ID、支払情報も必要です。"
+        ],
+        [
+          "customer",
+          "Does the document type matter?",
+          "書類の種類は関係ありますか。"
+        ],
+        [
+          "staff",
+          "Yes. The accepted documents and procedures depend on your situation.",
+          "はい。利用できる書類と手続きは状況によって異なります。"
+        ]
+      ]
+    },
+    {
+      "id": "S4",
+      "title": "物理SIMとeSIM",
+      "tag": "契約",
+      "lines": [
+        [
+          "staff",
+          "Would you like a physical SIM or an eSIM?",
+          "物理SIMとeSIMのどちらをご希望ですか。"
+        ],
+        [
+          "customer",
+          "What is the difference?",
+          "どう違いますか。"
+        ],
+        [
+          "staff",
+          "A physical SIM is a removable card. An eSIM is built into a compatible phone.",
+          "物理SIMは取り外せるカードで、eSIMは対応端末に内蔵される仕組みです。"
+        ],
+        [
+          "staff",
+          "May I check whether your phone supports eSIM?",
+          "eSIM対応か確認してもよろしいですか。"
+        ],
+        [
+          "customer",
+          "Sure.",
+          "もちろんです。"
+        ],
+        [
+          "staff",
+          "Thank you. We will check the supported devices before proceeding.",
+          "ありがとうございます。進む前に対応端末を確認します。"
+        ]
+      ]
+    },
+    {
+      "id": "S5",
+      "title": "Rakuten Linkと通話",
+      "tag": "オプション",
+      "lines": [
+        [
+          "customer",
+          "Are phone calls free?",
+          "通話は無料ですか。"
+        ],
+        [
+          "staff",
+          "Eligible domestic calls are free when you use Rakuten Link.",
+          "Rakuten Linkを利用した対象国内通話は無料です。"
+        ],
+        [
+          "staff",
+          "Some numbers are excluded, such as certain service numbers.",
+          "一部の特番など対象外番号があります。"
+        ],
+        [
+          "customer",
+          "What if I use the regular phone app?",
+          "通常の電話アプリならどうなりますか。"
+        ],
+        [
+          "staff",
+          "The standard rate is 22 yen per 30 seconds unless an applicable option covers the call.",
+          "該当するオプションがない場合、標準料金は30秒22円です。"
+        ]
+      ]
+    },
+    {
+      "id": "S6",
+      "title": "15分標準通話オプション",
+      "tag": "オプション",
+      "lines": [
+        [
+          "staff",
+          "There is an optional 15-minute standard calling service.",
+          "15分の標準通話オプションがあります。"
+        ],
+        [
+          "customer",
+          "How much does it cost?",
+          "いくらですか。"
+        ],
+        [
+          "staff",
+          "It costs 1,100 yen per month, including tax.",
+          "月額1,100円（税込）です。"
+        ],
+        [
+          "staff",
+          "It covers eligible domestic calls of up to 15 minutes each through the standard dialer.",
+          "標準電話アプリで1回15分以内の対象国内通話をカバーします。"
+        ],
+        [
+          "staff",
+          "The first month may be free under the applicable conditions.",
+          "条件により初回1か月が無料となる場合があります。"
+        ],
+        [
+          "customer",
+          "I would like to compare it with Rakuten Link.",
+          "Rakuten Linkと比較したいです。"
+        ]
+      ]
+    },
+    {
+      "id": "S7",
+      "title": "紹介リンクとQRコード",
+      "tag": "紹介",
+      "lines": [
+        [
+          "customer",
+          "I have a referral code. How do I use it?",
+          "紹介コードがあります。どう使いますか。"
+        ],
+        [
+          "staff",
+          "Let us check whether you mean a referral link or a QR code.",
+          "紹介リンクまたはQRコードのことか確認しましょう。"
+        ],
+        [
+          "staff",
+          "The official referral process uses a link or QR code and a Rakuten account sign-in.",
+          "公式紹介制度ではリンクやQRコードと楽天会員ログインを利用します。"
+        ],
+        [
+          "staff",
+          "Please open the referral link and sign in before applying.",
+          "申し込み前に紹介リンクからログインしてください。"
+        ],
+        [
+          "customer",
+          "Will I receive points immediately?",
+          "ポイントはすぐにもらえますか。"
+        ],
+        [
+          "staff",
+          "No. Points are awarded later in installments only if all conditions are met.",
+          "いいえ。すべての条件を満たした場合に後日分割で付与されます。"
+        ]
+      ]
+    },
+    {
+      "id": "S8",
+      "title": "紹介特典の細かい条件",
+      "tag": "紹介",
+      "lines": [
+        [
+          "customer",
+          "How many points can I receive?",
+          "何ポイントもらえますか。"
+        ],
+        [
+          "staff",
+          "The number of points depends on the current campaign and your application route.",
+          "ポイント数は現行キャンペーンと申込区分によります。"
+        ],
+        [
+          "staff",
+          "A first-time MNP application and a new-number application may have different rewards.",
+          "初回MNPと新規電話番号の申し込みでは特典が異なる場合があります。"
+        ],
+        [
+          "staff",
+          "The referral campaign also requires a qualifying Rakuten Link call.",
+          "紹介キャンペーンには所定のRakuten Link通話も必要です。"
+        ],
+        [
+          "customer",
+          "Can you guarantee that I will get the points?",
+          "必ずポイントがもらえると約束できますか。"
+        ],
+        [
+          "staff",
+          "I can explain the rules, but I cannot guarantee rewards before eligibility is confirmed.",
+          "規約はご説明できますが、対象確認前に付与は確約できません。"
+        ]
+      ]
+    },
+    {
+      "id": "S9",
+      "title": "家族割と年齢別特典",
+      "tag": "割引",
+      "lines": [
+        [
+          "customer",
+          "Is there a discount for families?",
+          "家族割はありますか。"
+        ],
+        [
+          "staff",
+          "Eligible family lines can receive a 110-yen monthly discount.",
+          "対象の家族回線は月額110円の割引を受けられます。"
+        ],
+        [
+          "staff",
+          "A family group must be created or joined under the program rules.",
+          "制度に従って家族グループを作成または参加する必要があります。"
+        ],
+        [
+          "customer",
+          "What about children or seniors?",
+          "子どもやシニア向けはどうですか。"
+        ],
+        [
+          "staff",
+          "There are separate age-based programs. Some provide discounts and others provide points.",
+          "別の年齢別制度もあります。料金割引のものとポイント還元のものがあります。"
+        ],
+        [
+          "staff",
+          "Let us check your eligibility and application method.",
+          "対象条件と申込方法を確認しましょう。"
+        ]
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "海外での利用",
+      "tag": "海外",
+      "lines": [
+        [
+          "customer",
+          "Can I use Rakuten Mobile overseas?",
+          "海外でも使えますか。"
+        ],
+        [
+          "staff",
+          "In supported destinations, up to 2GB of high-speed roaming data is included each month.",
+          "対象地域では高速ローミングデータが月2GBまで含まれます。"
+        ],
+        [
+          "customer",
+          "What happens after 2GB?",
+          "2GBを超えるとどうなりますか。"
+        ],
+        [
+          "staff",
+          "The connection becomes slower. You can purchase extra high-speed data for 500 yen per gigabyte.",
+          "低速になります。高速データは1GBあたり500円で追加できます。"
+        ],
+        [
+          "staff",
+          "Please check the country, device and call charges before your trip.",
+          "渡航前に国・端末・通話料金をご確認ください。"
+        ]
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "契約事務手数料の例外",
+      "tag": "契約",
+      "lines": [
+        [
+          "customer",
+          "Is there an administration fee?",
+          "契約事務手数料はありますか。"
+        ],
+        [
+          "staff",
+          "For the first four cumulative lines under the same name, the sign-up administration fee is generally zero.",
+          "同一名義の累計4回線目までは通常、契約事務手数料が無料です。"
+        ],
+        [
+          "staff",
+          "From the fifth cumulative line, a 3,850-yen fee per line applies under the current rules.",
+          "現在の規定では累計5回線目から1回線あたり3,850円かかります。"
+        ],
+        [
+          "customer",
+          "Does a canceled line count?",
+          "解約済みの回線も数えますか。"
+        ],
+        [
+          "staff",
+          "Yes, past lines count toward the cumulative total under the defined period.",
+          "はい。規定の期間内に契約した解約済み回線も累計に含まれます。"
+        ]
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "通信不良・丁寧な対応",
+      "tag": "サポート",
+      "lines": [
+        [
+          "customer",
+          "My mobile data is not working.",
+          "モバイルデータ通信が使えません。"
+        ],
+        [
+          "staff",
+          "I am sorry for the inconvenience. When did the problem start?",
+          "ご不便をおかけして申し訳ありません。いつから問題が発生しましたか。"
+        ],
+        [
+          "customer",
+          "It started this morning.",
+          "今朝からです。"
+        ],
+        [
+          "staff",
+          "May I check the network settings with your permission?",
+          "ご同意のもとネットワーク設定を確認してもよろしいですか。"
+        ],
+        [
+          "customer",
+          "Yes.",
+          "はい。"
+        ],
+        [
+          "staff",
+          "Thank you. We will check the settings first and explain the next steps.",
+          "ありがとうございます。まず設定を確認し、次の対応をご案内します。"
+        ]
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "来店予約・見積もり・エントリー特典",
+      "tag": "店頭キャンペーン",
+      "lines": [
+        [
+          "customer",
+          "I booked an appointment. Is there a store promotion?",
+          "来店予約をしました。店舗のキャンペーンはありますか。"
+        ],
+        [
+          "staff",
+          "There is a promotion for eligible customers who make a reservation, request an estimate and complete the required entry.",
+          "来店予約・お見積もり・エントリーなどの条件を満たすお客様向けのキャンペーンがあります。"
+        ],
+        [
+          "customer",
+          "Does everyone receive 2,000 points?",
+          "全員が2,000ポイントもらえますか。"
+        ],
+        [
+          "staff",
+          "No. The current promotion is a prize draw, so the number of points may vary.",
+          "いいえ。現行キャンペーンは抽選なのでポイント数は異なる場合があります。"
+        ],
+        [
+          "staff",
+          "Please scan the in-store QR code and enter using your Rakuten ID and reservation number, subject to the official rules.",
+          "公式条件に従って、店頭のQRコードから楽天IDと来店予約番号を使ってエントリーしてください。"
+        ],
+        [
+          "customer",
+          "When are the points awarded?",
+          "ポイントはいつ付与されますか。"
+        ],
+        [
+          "staff",
+          "They are awarded later if all the conditions are verified. Let us review the current campaign page together.",
+          "すべての条件が確認された場合に後日付与されます。現行のキャンペーンページを一緒に確認しましょう。"
+        ]
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "留守番電話と最強通話パック",
+      "tag": "有料オプション",
+      "lines": [
+        [
+          "customer",
+          "Do you offer voicemail?",
+          "留守番電話はありますか。"
+        ],
+        [
+          "staff",
+          "Yes. The voicemail option costs 330 yen per month, including tax.",
+          "はい。留守番電話オプションは月額330円（税込）です。"
+        ],
+        [
+          "customer",
+          "Is voicemail included in my basic plan?",
+          "基本プランに含まれていますか。"
+        ],
+        [
+          "staff",
+          "No. It is a separate paid option. A first-month-free offer may apply to eligible first-time sign-ups.",
+          "いいえ。別料金の有料オプションです。初回申込者には条件付きで最初の1か月が無料となる場合があります。"
+        ],
+        [
+          "customer",
+          "Can I add it later?",
+          "後から追加できますか。"
+        ],
+        [
+          "staff",
+          "Yes, eligible customers can manage options through my Rakuten Mobile. Let us check the current conditions.",
+          "はい。対象のお客様はmy 楽天モバイルからオプションの追加・変更ができます。現在の条件を確認しましょう。"
+        ]
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "故障・紛失時の端末保証",
+      "tag": "有料オプション",
+      "lines": [
+        [
+          "customer",
+          "Can I get insurance for my phone?",
+          "スマートフォンの保証はありますか。"
+        ],
+        [
+          "staff",
+          "There are device-protection options, and availability depends on the device and purchase route.",
+          "端末保証オプションがありますが、対象となるかは機種や購入経路によります。"
+        ],
+        [
+          "customer",
+          "Is the monthly price the same for every phone?",
+          "月額料金はどの機種でも同じですか。"
+        ],
+        [
+          "staff",
+          "No. For the current device replacement plan, monthly fees depend on the eligible device price.",
+          "いいえ。現行のスマホ交換保証では対象端末の価格などによって月額料金が異なります。"
+        ],
+        [
+          "staff",
+          "A separate charge may apply when you request a replacement.",
+          "交換を申し込む際に別途自己負担金が発生する場合があります。"
+        ],
+        [
+          "customer",
+          "Can I enroll at any time?",
+          "いつでも加入できますか。"
+        ],
+        [
+          "staff",
+          "Enrollment rules depend on the product. I will check the official terms before we proceed.",
+          "加入時期の条件は商品によって異なります。手続き前に公式規約を確認します。"
+        ]
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "プラン料金・通話・手数料",
+      "url": "https://network.mobile.rakuten.co.jp/fee/saikyo-plan/detail/"
+    },
+    {
+      "label": "紹介キャンペーン（公式・条件確認）",
+      "url": "https://network.mobile.rakuten.co.jp/campaign/referral/"
+    },
+    {
+      "label": "キャンペーン一覧",
+      "url": "https://network.mobile.rakuten.co.jp/campaign/"
+    },
+    {
+      "label": "契約・乗り換え申し込みガイド",
+      "url": "https://network.mobile.rakuten.co.jp/guide/procedure/"
+    },
+    {
+      "label": "15分標準通話かけ放題",
+      "url": "https://network.mobile.rakuten.co.jp/service/standard-free-call/"
+    },
+    {
+      "label": "海外ローミング",
+      "url": "https://network.mobile.rakuten.co.jp/service/international-roaming/"
+    },
+    {
+      "label": "オプションサービス",
+      "url": "https://network.mobile.rakuten.co.jp/service/"
+    },
+    {
+      "label": "ショップ来店予約・見積もりキャンペーン",
+      "url": "https://network.mobile.rakuten.co.jp/campaign/shop-weekday-reservation/"
+    },
+    {
+      "label": "留守番電話",
+      "url": "https://network.mobile.rakuten.co.jp/service/voice-mail/"
+    },
+    {
+      "label": "スマホ交換保証プラス ＆ 家電補償",
+      "url": "https://network.mobile.rakuten.co.jp/service/replacement-warranty-plus-appliances/"
+    }
+  ],
+  "facts": [
+    {
+      "tag": "料金",
+      "title": "Rakuten最強プラン（通常料金・税込）",
+      "body": "3GBまで1,078円／月、3GB超～20GBまで2,178円／月、20GB超は3,278円／月。その他の通話料・オプション料金等は別途発生する場合があります。",
+      "source": 0
+    },
+    {
+      "tag": "料金",
+      "title": "Rakuten最強U-NEXT",
+      "body": "税込4,378円／月。基本プランの3段階料金と混同せず、動画作品の追加料金等にも注意。",
+      "source": 0
+    },
+    {
+      "tag": "割引",
+      "title": "家族割",
+      "body": "対象回線は月110円の値引き。グループ作成・参加と適用条件を確認。",
+      "source": 0
+    },
+    {
+      "tag": "割引",
+      "title": "年齢別の特典",
+      "body": "12歳以下のこども割、13～22歳の青春割、65歳以上のシニアプログラム。割引かポイント還元か、申込方法と条件は制度ごとに確認。",
+      "source": 0
+    },
+    {
+      "tag": "通話",
+      "title": "Rakuten Linkの国内通話",
+      "body": "Rakuten Linkを利用した対象国内通話は無料。一部対象外番号あり。標準電話アプリは原則22円／30秒。",
+      "source": 0
+    },
+    {
+      "tag": "オプション",
+      "title": "15分（標準）通話かけ放題",
+      "body": "税込1,100円／月。標準電話アプリで1回15分以内の対象国内通話。初回1か月無料キャンペーンには条件あり。日割り対象外。",
+      "source": 4
+    },
+    {
+      "tag": "オプション",
+      "title": "留守番電話",
+      "body": "税込330円／月。初回1か月無料の特典は初回申し込み等の条件あり。Rakuten Link等からの再生方法、1417での再生に通話料が発生する場合がある点を案内する。",
+      "source": 8
+    },
+    {
+      "tag": "オプション",
+      "title": "端末保証・交換オプション",
+      "body": "スマホ交換保証プラス＆家電補償の現行月額料金は対象の製品価格や製品区分等によって異なり、交換時の自己負担金もあり。加入できるタイミングや対象範囲を確認。旧「スマホ交換保証プラス」は新規受付終了のため混同しない。",
+      "source": 9
+    },
+    {
+      "tag": "海外",
+      "title": "海外ローミング",
+      "body": "対象国・端末で高速通信月2GBまでプラン料金内。超過後は原則最大128kbps。高速データ追加は1GBあたり500円。",
+      "source": 5
+    },
+    {
+      "tag": "紹介",
+      "title": "紹介は「数値コード入力」と決めつけない",
+      "body": "公式の紹介リンク・QRコードから楽天IDでログインする流れを確認。申込前のログイン、所定期間の開通、Rakuten Linkによる10秒以上の発信通話等の条件。キャンペーンコード1784は紹介施策の管理識別子で、紹介リンクの代わりに契約画面へ入力するコードとは限らない。",
+      "source": 1
+    },
+    {
+      "tag": "紹介",
+      "title": "紹介特典のポイント付与",
+      "body": "後日・分割で付与、対象条件あり。2026年10月確認の公式案内では紹介者7,000pt・初回MNP被紹介者13,000pt（新規番号12,000pt）など。キャンペーンは変更されるため必ず現行条件を確認。",
+      "source": 1
+    },
+    {
+      "tag": "キャンペーン",
+      "title": "来店予約・店頭見積もり特典（2026年10月開始）",
+      "body": "ショップ来店予約、店頭でのお見積もり、来店時のQR読み取りとエントリーなどの条件を満たすと抽選で最大2,000ポイント。店頭で本人がキャンペーン参加を申告し、所定の期限内に来店・エントリーが必要。来店予約番号なども必要で、過去の来店特典参加等の除外条件にも注意。",
+      "source": 7
+    },
+    {
+      "tag": "契約",
+      "title": "MNPと持ち物",
+      "body": "店頭のMNPでは原則予約番号が必要。本人確認書類、楽天ID・パスワード、支払い手段など。国籍・年齢などにより必要書類は異なる。",
+      "source": 3
+    },
+    {
+      "tag": "契約",
+      "title": "契約事務手数料の例外",
+      "body": "同一名義の累計4回線目までは無料。2025年11月19日以降、累計5回線目以上は1回線3,850円（税込）。解約済み回線も規定に従って累計に含む。",
+      "source": 0
+    },
+    {
+      "tag": "その他",
+      "title": "速度と通信品質",
+      "body": "データ無制限でも混雑時等の速度制御があり得る。対応エリア・建物内の受信・対応機種は個別に確認。",
+      "source": 0
+    },
+    {
+      "tag": "その他",
+      "title": "データタイプ新規受付停止",
+      "body": "Rakuten最強プラン（データタイプ）は2026年3月5日から新規受付を一時停止。通常プランと混同して勧めない。",
+      "source": 0
+    }
+  ]
+}
