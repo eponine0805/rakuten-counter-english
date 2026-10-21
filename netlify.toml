@@ -1,6 +1,12 @@
 [build]
   publish = "web"
-
+  command = "python3 scripts/build_course.py"
+[build.environment]
+  PYTHON_VERSION = "3.11"
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "no-cache"
 [[headers]]
   for = "/app.js"
   [headers.values]
@@ -9,3 +15,11 @@
   for = "/data/*"
   [headers.values]
     Cache-Control = "no-cache"
+[[headers]]
+  for = "/sw.js"
+  [headers.values]
+    Cache-Control = "no-cache"
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200

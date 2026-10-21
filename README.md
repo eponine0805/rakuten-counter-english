@@ -1,41 +1,82 @@
-# Counter English — 楽天モバイルスタッフ向け英文法
+# Counter English — 楽天モバイルスタッフ向け接客英文法アプリ
 
-楽天モバイルでの接客英語を練習するための**非公式・独立した英語学習Webアプリ**です。フランス語文法アプリとは別のリポジトリです。
+楽天モバイル店舗で外国語話者のお客様に対応するための、**非公式・独立した英語学習用Webアプリ**です。既存のフランス語文法アプリとは完全に別のコードベースです。アプリは **Netlify で公開可能な静的サイト**として構築されています。
 
 ## 学習内容
 
-- 8章32単元。be動詞から丁寧な依頼、料金比較、条件文、受動態、間接疑問まで
-- 単元ごとに文法講義6節、解説つきの接客例文7件、理解確認20問
-- 合計224例文・640問。合格ラインは20問中16問
-- 出題範囲・問題数の指定、誤答復習、進捗保存、バックアップと復元
-- 契約、MNP、料金、SIM/eSIM、Rakuten Link、オプション、紹介、家族割、海外、端末保証等に関する15の会話シーン
-- 英文検索とお気に入り。ブラウザの英語音声読み上げ（0.65〜1.1倍速）
-- 料金・キャンペーン等の公式情報を確認できる画面
+- **8章・32単元**：be動詞・疑問文・丁寧な依頼から、条件文・受動態・複雑なキャンペーンの説明まで。
+- **単元ごとに6節の文法解説**：仕組み → 語順 → 店頭での使い分け → よくある間違い → 文の分解 → 誤解を防ぐ応用。
+- **224の実務英文と日本語訳・解説**。全例文が店舗業務に関連し、音声読み上げに対応。
+- **単元ごとに20問、全640問の固定設問プール**：文法ルール2問／英→日6問／日→英6問／語句並べ替え6問。単元テストは16/20問以上で合格。
+- **範囲指定テスト**：開始単元・終了単元・問題数・全範囲指定。
+- **誤答復習、例文検索・お気に入り、成績保存とJSONバックアップ／復元**。
+- **接客ロールプレイ15場面**：来店受付、料金3段階、MNP・本人確認、SIM、Rakuten Link、15分通話、紹介リンクとポイント条件、家族割、海外ローミング、契約事務手数料、障害対応、店舗予約特典、留守番電話、端末保証。
+- **公式情報の確認画面**：16項目の調査メモと10本の楽天モバイル公式リンク。
 
-## Netlify 公開（GitHub連携）
+## 使用方法
 
-1. Netlifyで Add new project → Import an existing project → GitHub
-2. GitHubリポジトリ eponine0805/rakuten-counter-english を選択
-3. Base directory はリポジトリ直下、Publish directory は web、Build command は空欄
-4. Deploy site で公開。ルートの netlify.toml にも公開先を設定済み
+文法を学ぶ → 単元を選ぶ → 解説6節・例文7つを読む → **20問テスト**に進む → 間違えた問題は「復習」で繰り返す。実際の英語でのやりとりは「接客会話」、必要な言い回しの検索は「例文集」、料金の再確認は「料金・公式情報」を使います。
 
-HTML / CSS / JavaScript の静的アプリで、npm install、APIキー、有料API、データベースは不要です。
+## 公開方法 A — Netlify Drop（もっとも簡単）
 
-## ローカルで動かす
+別添の **`counter-english-netlify-drop.zip`** をそのまま Netlify に手動デプロイしてください。ZIP のルートに `index.html` があります。ファイルはすでに構築済みなのでビルド設定やAPIキーは不要です。
 
-Pythonがあればリポジトリのルートで python3 -m http.server 8000 -d web を実行し、ブラウザで http://localhost:8000 を開きます。直接 index.html をファイルとして開くとJSON読み込みがブロックされる場合があります。
+1. [Netlify Drop](https://app.netlify.com/drop) を開く。
+2. `counter-english-netlify-drop.zip` を選んでアップロード（ZIPアップロードに対応しないUIの場合は展開した `web` フォルダを投入）。
+3. 公開された Netlify URL を開いて利用。
 
-## ファイル
+## 公開方法 B — 完全に新しいGitHubリポジトリからNetlifyへ
 
-- web/index.html: 画面の土台
-- web/app.js: 文法講義・クイズ・復習・例文・接客会話・音声
-- web/style.css: PC・モバイルのスタイル
-- web/data/course.json: 32単元の講義、224例文、15接客会話、公式情報
-- web/sw.js: オフラインキャッシュ
-- docs/RESEARCH.md: 公的条件の確認メモと参照リンク
+現在のGitHub接続からは新しいリポジトリの**作成操作はできない**ため、新規リポジトリを自動作成／公開していません。既存のフランス語リポジトリも一切変更していません。
 
-元の制作ソースZIPは別途作成済みです。こちらのリポジトリにはNetlifyで公開するための静的Webアプリを格納しています。
+1. [GitHubの新規リポジトリ作成](https://github.com/new) から `rakuten-counter-english` などの**別リポジトリ**を作成する（README・.gitignoreの自動初期化は不要）。
+2. `counter-english-source.zip` を展開し、そのフォルダを Git に登録して新規リポジトリに push する。
+3. Netlify → **Add new project / Import an existing project** → GitHub → 新規リポジトリを選ぶ。
+4. ルートの `netlify.toml` が自動適用されます。
 
-## 免責・学習記録
+```sh
+cd rakuten-counter-english
+git init -b main
+git add .
+git commit -m "Initial Rakuten Mobile counter English app"
+git remote add origin https://github.com/YOUR_ACCOUNT/rakuten-counter-english.git
+git push -u origin main
+```
 
-独立した非公式教材であり、楽天モバイルの公式研修資料ではありません。教材の事実確認は2026年10月21日時点です。実際の契約・価格・割引適用・紹介特典を保証するものではありません。学習データは端末のlocalStorageに保存され、バックアップ用JSONを利用できます。端末により音声品質・速度が異なります。
+### Netlifyのビルド設定
+
+| 設定 | 値 |
+| --- | --- |
+| Base directory | リポジトリのルート |
+| Build command | `python3 scripts/build_course.py` |
+| Publish directory | `web` |
+| APIキー・秘密情報 | 不要 |
+| フレームワーク | なし（HTML/CSS/JS） |
+
+## 自分で教材を更新する
+
+- `scripts/build_course.py`：32単元の構成、例文、会話、公式情報。
+- `scripts/extended_lessons.py`：各単元の詳細解説。
+- `web/app.js`：テスト・復習・音声・画面遷移。
+- `web/style.css`：UIスタイル。
+
+教材を更新したら次のコマンドで `web/data/course.json` を再生成します。
+
+```sh
+python3 scripts/build_course.py
+python3 scripts/check_course.py
+```
+
+既存の学習記録は端末内の `localStorage` に保存されます。端末を変更する場合は「復習」のバックアップ機能をお使いください。認証・決済・個人情報の収集やユーザー登録機能はありません。
+
+## 読み上げについて
+
+ブラウザの `SpeechSynthesis` 機能を使い、英語音声を 0.65 / 0.75 / 0.78 / 0.85 / 1.0 / 1.1 倍速で再生します。米国英語／英国英語切り替えに対応。**音質・発音速度・利用可能な音声は端末・ブラウザ依存**です。録音済み音声ファイルは同梱していません。外部AI・有料APIへの通信はありません。
+
+## 情報の正確性・免責
+
+**事実調査日：2026年10月21日。** 料金、キャンペーン、端末保証、通話、海外サービスは変更・終了する可能性があります。店頭で契約内容を確約するための公式マニュアルではありません。
+
+紹介者から共有された **紹介リンク／QRコード経由のログイン**と、楽天モバイル公式ページに記載される**キャンペーン識別コード**は同じものではありません。受付時に「番号を入力すれば適用」と断定しない設計です。特典は利用者の適用条件、エントリー有無、申込順序、期間、併用ルール等に依存します。
+
+データの事実確認メモと参照先は [docs/RESEARCH.md](docs/RESEARCH.md) に収録しました。実際の契約時には必ずリンク先の**最新の公式規約**と社内ルールを確認してください。

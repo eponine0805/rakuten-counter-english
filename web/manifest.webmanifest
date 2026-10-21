@@ -1,16 +1,1 @@
-{
-  "name": "Counter English — Rakuten Mobile Staff Practice",
-  "short_name": "Counter English",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#fcfaf7",
-  "theme_color": "#bb263e",
-  "icons": [
-    {
-      "src": "./icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"Counter English — Mobile Staff English","short_name":"Counter English","description":"楽天モバイル店頭接客に特化した英語文法・会話学習アプリ（非公式）","start_url":"./","scope":"./","display":"standalone","lang":"ja","background_color":"#fcfaf7","theme_color":"#fcfaf7","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
