@@ -1,0 +1,2074 @@
+{
+  "version": 2,
+  "description": "英語が初めての人のための24レッスン。数字は原則練習用。料金・キャンペーン条件は公式で確認。",
+  "phases": [
+    {
+      "id": 1,
+      "title": "英語の最初の一歩",
+      "goal": "アルファベット・数字・単語の順番を知る"
+    },
+    {
+      "id": 2,
+      "title": "最初の短い英文",
+      "goal": "主語・be動詞・名詞から一文を作る"
+    },
+    {
+      "id": 3,
+      "title": "お客様とやりとり",
+      "goal": "質問・否定・できることを伝える"
+    },
+    {
+      "id": 4,
+      "title": "丁寧にお願いする",
+      "goal": "本人確認や希望の聞き取りを伝える"
+    },
+    {
+      "id": 5,
+      "title": "料金とプラン",
+      "goal": "金額・データ量・割引を正確に表現する"
+    },
+    {
+      "id": 6,
+      "title": "契約を案内する",
+      "goal": "SIM・手続き・トラブルを説明する"
+    }
+  ],
+  "units": [
+    {
+      "id": 1,
+      "phase": 1,
+      "title": "アルファベットと略語",
+      "goal": "SIM・ID・QRの文字を見分ける",
+      "explain": [
+        "英語は A〜Z の26文字を組み合わせて書きます。まずは店頭にある短い表記を「見て分かる」ことを目指します。読み書きが得意でなくても大丈夫です。",
+        "SIM は「シム」、eSIM は「イーシム」と呼ぶことが多い表記です。ID は「アイディー」、QR は「キューアール」と一文字ずつ読みます。発音ボタンで必ず耳でも確かめましょう。",
+        "文の終わりの . は「ここで文が終わり」、? は質問です。大文字は文の最初や固有名詞にも使います。完璧な発音はあとからで構いません。"
+      ],
+      "vocab": [
+        {
+          "en": "SIM",
+          "ja": "SIMカード"
+        },
+        {
+          "en": "eSIM",
+          "ja": "内蔵型SIM"
+        },
+        {
+          "en": "ID",
+          "ja": "本人確認書類・ID"
+        },
+        {
+          "en": "QR code",
+          "ja": "QRコード"
+        },
+        {
+          "en": "phone",
+          "ja": "電話"
+        },
+        {
+          "en": "plan",
+          "ja": "プラン"
+        }
+      ],
+      "pattern": "This is + 名詞 = これは〜です",
+      "parts": [
+        {
+          "en": "This",
+          "ja": "これは"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "a SIM card.",
+          "ja": "SIMカード"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B01E1",
+          "en": "This is a SIM card.",
+          "ja": "これはSIMカードです。",
+          "why": "最初は This is をひとかたまりで覚えよう。"
+        },
+        {
+          "id": "B01E2",
+          "en": "This is an eSIM.",
+          "ja": "これはeSIMです。",
+          "why": "eSIM は音が「イー」で始まるので an。"
+        },
+        {
+          "id": "B01E3",
+          "en": "This is a QR code.",
+          "ja": "これはQRコードです。",
+          "why": "QR は文字を1つずつ読む略語。"
+        },
+        {
+          "id": "B01E4",
+          "en": "This is my ID.",
+          "ja": "これは私の本人確認書類です。",
+          "why": "my は「私の」。"
+        },
+        {
+          "id": "B01E5",
+          "en": "This is the plan.",
+          "ja": "こちらがそのプランです。",
+          "why": "the は相手と共有している対象に使う。"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "phase": 1,
+      "title": "1から1000までの数字",
+      "goal": "料金とデータ量の読み方を知る",
+      "explain": [
+        "数字は料金説明の基本です。まず one=1、two=2、three=3、ten=10、twenty=20、hundred=100、thousand=1000 を音と一緒に覚えます。",
+        "英語の数字は大きい単位から読みます。例: 2,000 = two thousand、2,500 = two thousand five hundred。yen は複数になっても yens にはしません。",
+        "GB は gigabytes（ギガバイツ）と読むことができます。料金や特典は変更があるので、ここでは「金額の言い方」を先に練習します。"
+      ],
+      "vocab": [
+        {
+          "en": "one",
+          "ja": "1"
+        },
+        {
+          "en": "two",
+          "ja": "2"
+        },
+        {
+          "en": "three",
+          "ja": "3"
+        },
+        {
+          "en": "ten",
+          "ja": "10"
+        },
+        {
+          "en": "twenty",
+          "ja": "20"
+        },
+        {
+          "en": "hundred",
+          "ja": "100"
+        },
+        {
+          "en": "thousand",
+          "ja": "1000"
+        },
+        {
+          "en": "yen",
+          "ja": "円"
+        },
+        {
+          "en": "gigabyte",
+          "ja": "ギガバイト"
+        }
+      ],
+      "pattern": "数字 + yen / gigabytes = 金額・データ量",
+      "parts": [
+        {
+          "en": "Two",
+          "ja": "2"
+        },
+        {
+          "en": "gigabytes",
+          "ja": "ギガバイト"
+        },
+        {
+          "en": "are available.",
+          "ja": "利用できます"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B02E1",
+          "en": "One gigabyte is enough.",
+          "ja": "1ギガバイトで十分です。",
+          "why": "one は1。"
+        },
+        {
+          "id": "B02E2",
+          "en": "Two gigabytes are available.",
+          "ja": "2ギガバイト利用できます。",
+          "why": "two の後は gigabytes と複数。"
+        },
+        {
+          "id": "B02E3",
+          "en": "The fee is one thousand yen.",
+          "ja": "料金は1,000円です。",
+          "why": "thousand は1000。"
+        },
+        {
+          "id": "B02E4",
+          "en": "The fee is two thousand yen.",
+          "ja": "料金は2,000円です。",
+          "why": "2,000 を音読しよう。"
+        },
+        {
+          "id": "B02E5",
+          "en": "Twenty gigabytes is a lot of data.",
+          "ja": "20ギガバイトは多くのデータ量です。",
+          "why": "数字と単位をセットで読む。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "phase": 1,
+      "title": "英語の語順",
+      "goal": "誰が・どうする・何を の順番を理解する",
+      "explain": [
+        "日本語は「このプランを / 私は / おすすめします」のように順番を入れ替えられます。しかし英語は基本的に「誰が → どうする → 何を」の順番です。",
+        "I recommend this plan. は I（私は）+ recommend（すすめる）+ this plan（このプラン）。単語を一個ずつ暗記するより、この並びを真似ると応用できます。",
+        "最初は長文を作らず、I check / You choose / We explain のような2語から増やします。"
+      ],
+      "vocab": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "you",
+          "ja": "あなたは"
+        },
+        {
+          "en": "we",
+          "ja": "私たちは"
+        },
+        {
+          "en": "check",
+          "ja": "確認する"
+        },
+        {
+          "en": "recommend",
+          "ja": "おすすめする"
+        },
+        {
+          "en": "need",
+          "ja": "必要とする"
+        },
+        {
+          "en": "plan",
+          "ja": "プラン"
+        }
+      ],
+      "pattern": "誰が + どうする + 何を",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "recommend",
+          "ja": "おすすめする"
+        },
+        {
+          "en": "this plan.",
+          "ja": "このプランを"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B03E1",
+          "en": "I recommend this plan.",
+          "ja": "私はこのプランをおすすめします。",
+          "why": "誰が→どうする→何を。"
+        },
+        {
+          "id": "B03E2",
+          "en": "I check your ID.",
+          "ja": "私は本人確認書類を確認します。",
+          "why": "I + check + your ID。"
+        },
+        {
+          "id": "B03E3",
+          "en": "You choose the SIM.",
+          "ja": "あなたがSIMを選びます。",
+          "why": "You が文の主人公。"
+        },
+        {
+          "id": "B03E4",
+          "en": "We explain the fee.",
+          "ja": "私たちが料金を説明します。",
+          "why": "We は「私たちは」。"
+        },
+        {
+          "id": "B03E5",
+          "en": "I need your name.",
+          "ja": "お名前が必要です。",
+          "why": "直訳は「私はあなたの名前を必要とする」。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "phase": 1,
+      "title": "最初のあいさつ",
+      "goal": "短い決まり文句で受付を始める",
+      "explain": [
+        "全部の文法が分からなくても、まずは店頭で使える短い表現をひとつずつ覚えましょう。Hello は「こんにちは」、Welcome は「ようこそ」。",
+        "How can I help you? は「どのようなご用件でしょうか」。疑問文の詳しい形は後の単元で学ぶので、ここではひとかたまりで練習します。",
+        "聞き取れなかったら Sorry, one more time, please. のように聞き直してよいです。誤案内を避けるために確認するのは大切です。"
+      ],
+      "vocab": [
+        {
+          "en": "hello",
+          "ja": "こんにちは"
+        },
+        {
+          "en": "welcome",
+          "ja": "ようこそ"
+        },
+        {
+          "en": "thank you",
+          "ja": "ありがとうございます"
+        },
+        {
+          "en": "sorry",
+          "ja": "すみません"
+        },
+        {
+          "en": "please",
+          "ja": "お願いします"
+        },
+        {
+          "en": "help",
+          "ja": "お手伝い"
+        }
+      ],
+      "pattern": "あいさつ + 短い質問",
+      "parts": [
+        {
+          "en": "Hello.",
+          "ja": "こんにちは"
+        },
+        {
+          "en": "Welcome",
+          "ja": "ようこそ"
+        },
+        {
+          "en": "to Rakuten Mobile.",
+          "ja": "楽天モバイルへ"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B04E1",
+          "en": "Hello.",
+          "ja": "こんにちは。",
+          "why": "最初の一言。"
+        },
+        {
+          "id": "B04E2",
+          "en": "Welcome to Rakuten Mobile.",
+          "ja": "楽天モバイルへようこそ。",
+          "why": "Welcome to で「〜へようこそ」。"
+        },
+        {
+          "id": "B04E3",
+          "en": "How can I help you?",
+          "ja": "どのようなご用件でしょうか。",
+          "why": "まずは丸ごと覚える接客フレーズ。"
+        },
+        {
+          "id": "B04E4",
+          "en": "Thank you for waiting.",
+          "ja": "お待ちいただきありがとうございます。",
+          "why": "for waiting で「お待ちいただいたことに」。"
+        },
+        {
+          "id": "B04E5",
+          "en": "One more time, please.",
+          "ja": "もう一度お願いします。",
+          "why": "聞き直しに使う。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "phase": 2,
+      "title": "I・you・we・it",
+      "goal": "文の主人公を選ぶ",
+      "explain": [
+        "英語の主語とは「誰の話なのか」を示す言葉です。I=私、you=あなた、we=私たち、it=それ。まずこの4つを区別します。",
+        "日本語では「確認します」とだけ言っても通じますが、英語では I check のように主語を入れるのが基本です。",
+        "it はすでに話題にしたSIMやプランなどを指すのに便利です。「それは〜です」と繰り返さず言えます。"
+      ],
+      "vocab": [
+        {
+          "en": "I",
+          "ja": "私"
+        },
+        {
+          "en": "you",
+          "ja": "あなた"
+        },
+        {
+          "en": "we",
+          "ja": "私たち"
+        },
+        {
+          "en": "it",
+          "ja": "それ"
+        },
+        {
+          "en": "my",
+          "ja": "私の"
+        },
+        {
+          "en": "your",
+          "ja": "あなたの"
+        },
+        {
+          "en": "this",
+          "ja": "これ"
+        }
+      ],
+      "pattern": "I / you / we / it + 動詞",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "have",
+          "ja": "持っています"
+        },
+        {
+          "en": "the SIM.",
+          "ja": "SIMを"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B05E1",
+          "en": "I have the SIM.",
+          "ja": "私はSIMを持っています。",
+          "why": "I は「私は」。"
+        },
+        {
+          "id": "B05E2",
+          "en": "You have a phone.",
+          "ja": "あなたは電話を持っています。",
+          "why": "You は「あなたは」。"
+        },
+        {
+          "id": "B05E3",
+          "en": "We have the details.",
+          "ja": "私たちは詳細情報を持っています。",
+          "why": "We は「私たちは」。"
+        },
+        {
+          "id": "B05E4",
+          "en": "It has a number.",
+          "ja": "それには番号があります。",
+          "why": "It を主語にすると has。"
+        },
+        {
+          "id": "B05E5",
+          "en": "This is your plan.",
+          "ja": "こちらがお客様のプランです。",
+          "why": "your は「あなたの」。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "phase": 2,
+      "title": "am・is・are",
+      "goal": "「〜です」を初めて作る",
+      "explain": [
+        "be動詞は「〜です」「〜の状態です」と言うときの動詞です。I には am、you/we には are、it/this には is を使います。",
+        "I am ready. = 私は準備できています。This is free. = これは無料です。日本語の「です」をそのまま一語に当てはめず、主語とセットで考えます。",
+        "疑問文にするときは Is this ...? のように is を先に出します。今日はまず「主語 + be動詞」を自分で言えることがゴールです。"
+      ],
+      "vocab": [
+        {
+          "en": "am",
+          "ja": "です（Iと）"
+        },
+        {
+          "en": "is",
+          "ja": "です（it/thisと）"
+        },
+        {
+          "en": "are",
+          "ja": "です（you/weと）"
+        },
+        {
+          "en": "ready",
+          "ja": "準備ができた"
+        },
+        {
+          "en": "free",
+          "ja": "無料"
+        },
+        {
+          "en": "available",
+          "ja": "利用できる"
+        }
+      ],
+      "pattern": "主語 + am / is / are + 説明",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "am",
+          "ja": "です"
+        },
+        {
+          "en": "ready.",
+          "ja": "準備できた"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B06E1",
+          "en": "I am ready.",
+          "ja": "私は準備できています。",
+          "why": "I の後は am。"
+        },
+        {
+          "id": "B06E2",
+          "en": "This is free.",
+          "ja": "これは無料です。",
+          "why": "This の後は is。"
+        },
+        {
+          "id": "B06E3",
+          "en": "You are ready.",
+          "ja": "準備できていますね。",
+          "why": "You の後は are。"
+        },
+        {
+          "id": "B06E4",
+          "en": "We are here to help.",
+          "ja": "私たちがお手伝いします。",
+          "why": "We の後は are。"
+        },
+        {
+          "id": "B06E5",
+          "en": "The SIM is available.",
+          "ja": "そのSIMは利用できます。",
+          "why": "単数のSIMには is。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "phase": 2,
+      "title": "this・that・these",
+      "goal": "目の前のものを指して案内する",
+      "explain": [
+        "this は「これ」、that は「あれ」、these は「これら」です。SIMカードを指さして This is ... と言うだけでも接客が始められます。",
+        "these の後には複数の物を置き、These are ... となります。This are や These is にならないようにします。",
+        "this plan（このプラン）のように名詞とくっつけても使えます。"
+      ],
+      "vocab": [
+        {
+          "en": "this",
+          "ja": "これ"
+        },
+        {
+          "en": "that",
+          "ja": "あれ"
+        },
+        {
+          "en": "these",
+          "ja": "これら"
+        },
+        {
+          "en": "card",
+          "ja": "カード"
+        },
+        {
+          "en": "option",
+          "ja": "オプション"
+        },
+        {
+          "en": "device",
+          "ja": "端末"
+        }
+      ],
+      "pattern": "This is ... / These are ...",
+      "parts": [
+        {
+          "en": "This",
+          "ja": "これは"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "your SIM.",
+          "ja": "お客様のSIM"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B07E1",
+          "en": "This is your SIM.",
+          "ja": "こちらがお客様のSIMです。",
+          "why": "一つの物は This is。"
+        },
+        {
+          "id": "B07E2",
+          "en": "That is the counter.",
+          "ja": "あちらがカウンターです。",
+          "why": "離れた物は That。"
+        },
+        {
+          "id": "B07E3",
+          "en": "These are the options.",
+          "ja": "こちらがオプションです。",
+          "why": "複数は These are。"
+        },
+        {
+          "id": "B07E4",
+          "en": "This plan is simple.",
+          "ja": "このプランはシンプルです。",
+          "why": "This + 名詞でも使える。"
+        },
+        {
+          "id": "B07E5",
+          "en": "That device is compatible.",
+          "ja": "あちらの端末は対応しています。",
+          "why": "That + 名詞。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "phase": 2,
+      "title": "a・an・the と複数形",
+      "goal": "SIMが1枚か複数かを区別する",
+      "explain": [
+        "英語では数えられる物が1つのとき a / an をつけることが多いです。a SIM、an eSIM のように「音」で選びます。",
+        "2つ以上なら two SIM cards のように名詞を複数形にします。card → cards。数の話では最後の s を意識します。",
+        "the は「話し手と聞き手が分かっている、その〜」のように使います。無理に全部訳さなくても構いません。"
+      ],
+      "vocab": [
+        {
+          "en": "a",
+          "ja": "ひとつの"
+        },
+        {
+          "en": "an",
+          "ja": "ひとつの（母音の音の前）"
+        },
+        {
+          "en": "the",
+          "ja": "その"
+        },
+        {
+          "en": "card",
+          "ja": "カード"
+        },
+        {
+          "en": "number",
+          "ja": "番号"
+        },
+        {
+          "en": "two",
+          "ja": "2"
+        },
+        {
+          "en": "three",
+          "ja": "3"
+        }
+      ],
+      "pattern": "a / an + 単数 / 数字 + 複数",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "have",
+          "ja": "持っています"
+        },
+        {
+          "en": "a SIM card.",
+          "ja": "SIMカードを1枚"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B08E1",
+          "en": "I have a SIM card.",
+          "ja": "私はSIMカードを1枚持っています。",
+          "why": "一つのcardには a。"
+        },
+        {
+          "id": "B08E2",
+          "en": "This is an eSIM.",
+          "ja": "これはeSIMです。",
+          "why": "イーで始まる音なので an。"
+        },
+        {
+          "id": "B08E3",
+          "en": "You have two numbers.",
+          "ja": "番号を2つお持ちです。",
+          "why": "two の後は numbers。"
+        },
+        {
+          "id": "B08E4",
+          "en": "We have three options.",
+          "ja": "オプションが3種類あります。",
+          "why": "three の後も複数形。"
+        },
+        {
+          "id": "B08E5",
+          "en": "The SIM is ready.",
+          "ja": "そのSIMは準備できています。",
+          "why": "特定のSIMなので the。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "phase": 3,
+      "title": "Yes / No の答え方",
+      "goal": "質問を理解して一言で答える",
+      "explain": [
+        "Yes は「はい」、No は「いいえ」です。ただし英語の Yes/No は「相手の質問が正しいか」に対して答えます。",
+        "Is this your phone? = これはお客様の電話ですか。Yes, it is. = はい、そうです。No, it is not. = いいえ、違います。",
+        "お客様のYes/Noだけでは契約条件が曖昧なときは、必ず具体的に確認しましょう。"
+      ],
+      "vocab": [
+        {
+          "en": "yes",
+          "ja": "はい"
+        },
+        {
+          "en": "no",
+          "ja": "いいえ"
+        },
+        {
+          "en": "is",
+          "ja": "ですか"
+        },
+        {
+          "en": "it",
+          "ja": "それ"
+        },
+        {
+          "en": "not",
+          "ja": "〜ではない"
+        },
+        {
+          "en": "correct",
+          "ja": "正しい"
+        }
+      ],
+      "pattern": "Is this ...? → Yes, it is.",
+      "parts": [
+        {
+          "en": "Is",
+          "ja": "ですか"
+        },
+        {
+          "en": "this",
+          "ja": "これは"
+        },
+        {
+          "en": "your phone?",
+          "ja": "お客様の電話"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B09E1",
+          "en": "Is this your phone?",
+          "ja": "これはお客様の電話ですか。",
+          "why": "Is を先頭に置くと質問。"
+        },
+        {
+          "id": "B09E2",
+          "en": "Yes, it is.",
+          "ja": "はい、そうです。",
+          "why": "Is this? に対する答え。"
+        },
+        {
+          "id": "B09E3",
+          "en": "No, it is not.",
+          "ja": "いいえ、違います。",
+          "why": "否定の答え。"
+        },
+        {
+          "id": "B09E4",
+          "en": "Is this correct?",
+          "ja": "こちらで正しいですか。",
+          "why": "情報の確認に使う。"
+        },
+        {
+          "id": "B09E5",
+          "en": "Yes, that is correct.",
+          "ja": "はい、そのとおりです。",
+          "why": "that is correct は確認の答え。"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "phase": 3,
+      "title": "not / do not",
+      "goal": "「〜ではない」を伝える",
+      "explain": [
+        "not は「〜ではありません」。be動詞の文は is not / are not の形で否定します。",
+        "一般動詞なら I do not know. = 私は分かりません。英語で正確に答えられない場合は、推測せずに確認します。",
+        "not free（無料ではない）と free（無料）は意味が反対です。料金案内では not を必ず聞き取る練習が必要です。"
+      ],
+      "vocab": [
+        {
+          "en": "not",
+          "ja": "〜ではない"
+        },
+        {
+          "en": "know",
+          "ja": "知っている"
+        },
+        {
+          "en": "free",
+          "ja": "無料"
+        },
+        {
+          "en": "included",
+          "ja": "含まれる"
+        },
+        {
+          "en": "available",
+          "ja": "利用可能"
+        },
+        {
+          "en": "yet",
+          "ja": "まだ"
+        }
+      ],
+      "pattern": "is not / do not + 動詞",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "do not know",
+          "ja": "分かりません"
+        },
+        {
+          "en": "yet.",
+          "ja": "まだ"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B10E1",
+          "en": "I do not know yet.",
+          "ja": "まだ分かりません。",
+          "why": "do not know で「知らない」。"
+        },
+        {
+          "id": "B10E2",
+          "en": "This option is not free.",
+          "ja": "このオプションは無料ではありません。",
+          "why": "not の有無が料金説明の要。"
+        },
+        {
+          "id": "B10E3",
+          "en": "The SIM is not ready.",
+          "ja": "SIMはまだ準備できていません。",
+          "why": "is not で否定。"
+        },
+        {
+          "id": "B10E4",
+          "en": "This fee is not included.",
+          "ja": "この料金は含まれていません。",
+          "why": "included と not に注意。"
+        },
+        {
+          "id": "B10E5",
+          "en": "We do not need it.",
+          "ja": "それは必要ありません。",
+          "why": "一般動詞の否定は do not。"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "phase": 3,
+      "title": "what・how much",
+      "goal": "何ですか・いくらですかを聞く",
+      "explain": [
+        "What は「何」、How much は「いくら」。料金や希望を聞くための基本の疑問詞です。",
+        "What is this? = これは何ですか。How much is it? = いくらですか。短い語順のパターンをセットで覚えます。",
+        "How many は数を聞くときに使います。How many lines? は「回線はいくつですか」です。"
+      ],
+      "vocab": [
+        {
+          "en": "what",
+          "ja": "何"
+        },
+        {
+          "en": "how much",
+          "ja": "いくら"
+        },
+        {
+          "en": "how many",
+          "ja": "何個"
+        },
+        {
+          "en": "line",
+          "ja": "回線"
+        },
+        {
+          "en": "price",
+          "ja": "価格"
+        },
+        {
+          "en": "need",
+          "ja": "必要"
+        }
+      ],
+      "pattern": "What is ...? / How much is ...?",
+      "parts": [
+        {
+          "en": "How much",
+          "ja": "いくら"
+        },
+        {
+          "en": "is",
+          "ja": "ですか"
+        },
+        {
+          "en": "this plan?",
+          "ja": "このプランは"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B11E1",
+          "en": "How much is this plan?",
+          "ja": "このプランはいくらですか。",
+          "why": "How much は金額。"
+        },
+        {
+          "id": "B11E2",
+          "en": "What is this?",
+          "ja": "これは何ですか。",
+          "why": "What is は「何ですか」。"
+        },
+        {
+          "id": "B11E3",
+          "en": "How many lines do you need?",
+          "ja": "何回線必要ですか。",
+          "why": "How many は数えられる物の数。"
+        },
+        {
+          "id": "B11E4",
+          "en": "What is your name?",
+          "ja": "お名前は何ですか。",
+          "why": "What is your ...? と置き換えられる。"
+        },
+        {
+          "id": "B11E5",
+          "en": "How much data do you use?",
+          "ja": "データはどれくらい使いますか。",
+          "why": "data量には How much。"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "phase": 3,
+      "title": "can / cannot",
+      "goal": "できること・できないことを伝える",
+      "explain": [
+        "can は「〜できます」。can のあとに動詞の原形を置きます。I can check. = 確認できます。",
+        "cannot は「できません」。I cannot confirm yet. = まだ確認できません。確証がないときは「できる」と言い切らないようにします。",
+        "Can I ...? は「〜してもよいですか」と許可を求められる便利な形です。"
+      ],
+      "vocab": [
+        {
+          "en": "can",
+          "ja": "できる"
+        },
+        {
+          "en": "cannot",
+          "ja": "できない"
+        },
+        {
+          "en": "check",
+          "ja": "確認する"
+        },
+        {
+          "en": "use",
+          "ja": "使う"
+        },
+        {
+          "en": "scan",
+          "ja": "読み取る"
+        },
+        {
+          "en": "confirm",
+          "ja": "確かめる"
+        }
+      ],
+      "pattern": "主語 + can + 動詞の原形",
+      "parts": [
+        {
+          "en": "I",
+          "ja": "私は"
+        },
+        {
+          "en": "can check",
+          "ja": "確認できます"
+        },
+        {
+          "en": "your SIM.",
+          "ja": "お客様のSIMを"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B12E1",
+          "en": "I can check your SIM.",
+          "ja": "お客様のSIMを確認できます。",
+          "why": "can のあとに check。"
+        },
+        {
+          "id": "B12E2",
+          "en": "Can I check your ID?",
+          "ja": "本人確認書類を確認してもよいですか。",
+          "why": "Can I は許可の質問。"
+        },
+        {
+          "id": "B12E3",
+          "en": "You can use this phone.",
+          "ja": "この電話を使えます。",
+          "why": "You can use。"
+        },
+        {
+          "id": "B12E4",
+          "en": "We cannot confirm it yet.",
+          "ja": "まだ確認できません。",
+          "why": "cannot で不可能。"
+        },
+        {
+          "id": "B12E5",
+          "en": "Can you scan this code?",
+          "ja": "このコードを読み取れますか。",
+          "why": "Can you は可能かを聞く。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "phase": 4,
+      "title": "please / could you",
+      "goal": "失礼のないお願いをする",
+      "explain": [
+        "Please + 動詞 は「〜してください」。Please wait. = お待ちください。最初は短い形を使えば十分です。",
+        "Could you ...? は「〜していただけますか」の丁寧な依頼。Could you show me your ID? とすると本人確認のお願いになります。",
+        "丁寧な表現でも、個人情報を扱う際は実際の店頭ルールに従ってください。"
+      ],
+      "vocab": [
+        {
+          "en": "please",
+          "ja": "お願いします"
+        },
+        {
+          "en": "could you",
+          "ja": "〜していただけますか"
+        },
+        {
+          "en": "wait",
+          "ja": "待つ"
+        },
+        {
+          "en": "show",
+          "ja": "見せる"
+        },
+        {
+          "en": "sign",
+          "ja": "署名する"
+        },
+        {
+          "en": "here",
+          "ja": "ここ"
+        }
+      ],
+      "pattern": "Please + 動詞 / Could you + 動詞?",
+      "parts": [
+        {
+          "en": "Could you",
+          "ja": "していただけますか"
+        },
+        {
+          "en": "show me",
+          "ja": "私に見せる"
+        },
+        {
+          "en": "your ID?",
+          "ja": "本人確認書類を"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B13E1",
+          "en": "Please wait here.",
+          "ja": "こちらでお待ちください。",
+          "why": "Please wait。"
+        },
+        {
+          "id": "B13E2",
+          "en": "Could you show me your ID?",
+          "ja": "本人確認書類を見せていただけますか。",
+          "why": "Could you は丁寧。"
+        },
+        {
+          "id": "B13E3",
+          "en": "Please sign here.",
+          "ja": "ここにご署名ください。",
+          "why": "sign は署名する。"
+        },
+        {
+          "id": "B13E4",
+          "en": "Could you repeat that?",
+          "ja": "もう一度おっしゃっていただけますか。",
+          "why": "聞き直しも丁寧に。"
+        },
+        {
+          "id": "B13E5",
+          "en": "Please check this name.",
+          "ja": "このお名前をご確認ください。",
+          "why": "Please + 原形。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "phase": 4,
+      "title": "would like / want",
+      "goal": "お客様の希望を聞き取る",
+      "explain": [
+        "want は「欲しい・したい」です。I want an eSIM. = eSIMが欲しい。",
+        "would like は want より丁寧です。Would you like an eSIM? = eSIMをご希望ですか。",
+        "「契約したい」のように動作を言うときは would like to + 動詞。Would you like to keep your number? が便利です。"
+      ],
+      "vocab": [
+        {
+          "en": "want",
+          "ja": "欲しい"
+        },
+        {
+          "en": "would like",
+          "ja": "希望する"
+        },
+        {
+          "en": "keep",
+          "ja": "維持する"
+        },
+        {
+          "en": "change",
+          "ja": "変更する"
+        },
+        {
+          "en": "number",
+          "ja": "番号"
+        },
+        {
+          "en": "eSIM",
+          "ja": "eSIM"
+        }
+      ],
+      "pattern": "Would you like + 名詞? / to + 動詞?",
+      "parts": [
+        {
+          "en": "Would you like",
+          "ja": "ご希望ですか"
+        },
+        {
+          "en": "an eSIM?",
+          "ja": "eSIMを"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B14E1",
+          "en": "Would you like an eSIM?",
+          "ja": "eSIMをご希望ですか。",
+          "why": "相手の希望を丁寧に聞く。"
+        },
+        {
+          "id": "B14E2",
+          "en": "I want a SIM card.",
+          "ja": "SIMカードが欲しいです。",
+          "why": "want は欲しい。"
+        },
+        {
+          "id": "B14E3",
+          "en": "Would you like to keep your number?",
+          "ja": "今の電話番号を引き継ぎたいですか。",
+          "why": "would like to の後は動詞。"
+        },
+        {
+          "id": "B14E4",
+          "en": "Do you want to change plans?",
+          "ja": "プラン変更をご希望ですか。",
+          "why": "Do you want to で希望を聞く。"
+        },
+        {
+          "id": "B14E5",
+          "en": "I would like to check first.",
+          "ja": "まず確認したいです。",
+          "why": "丁寧な自分の希望。"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "phase": 4,
+      "title": "need / have to",
+      "goal": "必要なものを伝える",
+      "explain": [
+        "need は「必要とする」です。We need your ID. = 本人確認書類が必要です。",
+        "need to + 動詞 なら「〜する必要があります」。You need to confirm your details. の形です。",
+        "have to も「〜しなければならない」ですが、実際の必要書類や手続き条件は最新の公式情報・社内手順で確認してください。"
+      ],
+      "vocab": [
+        {
+          "en": "need",
+          "ja": "必要"
+        },
+        {
+          "en": "need to",
+          "ja": "〜する必要"
+        },
+        {
+          "en": "have to",
+          "ja": "〜しなければならない"
+        },
+        {
+          "en": "confirm",
+          "ja": "確認する"
+        },
+        {
+          "en": "details",
+          "ja": "詳細"
+        },
+        {
+          "en": "document",
+          "ja": "書類"
+        }
+      ],
+      "pattern": "need + 名詞 / need to + 動詞",
+      "parts": [
+        {
+          "en": "We",
+          "ja": "私たちは"
+        },
+        {
+          "en": "need",
+          "ja": "必要です"
+        },
+        {
+          "en": "your ID.",
+          "ja": "本人確認書類が"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B15E1",
+          "en": "We need your ID.",
+          "ja": "本人確認書類が必要です。",
+          "why": "need の後は物。"
+        },
+        {
+          "id": "B15E2",
+          "en": "You need to confirm your details.",
+          "ja": "ご自身の情報を確認する必要があります。",
+          "why": "need to の後は動詞。"
+        },
+        {
+          "id": "B15E3",
+          "en": "We need your signature.",
+          "ja": "ご署名が必要です。",
+          "why": "signature は署名。"
+        },
+        {
+          "id": "B15E4",
+          "en": "Please check the document.",
+          "ja": "書類をご確認ください。",
+          "why": "Please check で丁寧な指示。"
+        },
+        {
+          "id": "B15E5",
+          "en": "Do I have to sign here?",
+          "ja": "ここに署名する必要がありますか。",
+          "why": "have to の疑問形。"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "phase": 4,
+      "title": "名前・番号・本人確認",
+      "goal": "聞き取った情報を確認する",
+      "explain": [
+        "name=名前、address=住所、phone number=電話番号。聞き取った情報をそのまま書き留めず、相手に復唱して確認します。",
+        "Could you spell your name? は「お名前のつづりを教えていただけますか」。spell はアルファベットで言うことです。",
+        "正確に聞き取れないときは確認をお願いするのが安全です。本人確認の方法は公式の受付ルールに従います。"
+      ],
+      "vocab": [
+        {
+          "en": "name",
+          "ja": "名前"
+        },
+        {
+          "en": "spell",
+          "ja": "つづりを言う"
+        },
+        {
+          "en": "address",
+          "ja": "住所"
+        },
+        {
+          "en": "phone number",
+          "ja": "電話番号"
+        },
+        {
+          "en": "confirm",
+          "ja": "確認する"
+        },
+        {
+          "en": "again",
+          "ja": "もう一度"
+        }
+      ],
+      "pattern": "Could you + 動詞 + 対象?",
+      "parts": [
+        {
+          "en": "Could you",
+          "ja": "していただけますか"
+        },
+        {
+          "en": "spell",
+          "ja": "つづりを言う"
+        },
+        {
+          "en": "your name?",
+          "ja": "お名前を"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B16E1",
+          "en": "Could you spell your name?",
+          "ja": "お名前のつづりを教えていただけますか。",
+          "why": "spell を使う。"
+        },
+        {
+          "id": "B16E2",
+          "en": "What is your phone number?",
+          "ja": "電話番号を教えていただけますか。",
+          "why": "What is your ...? の形。"
+        },
+        {
+          "id": "B16E3",
+          "en": "Could you confirm your address?",
+          "ja": "ご住所を確認していただけますか。",
+          "why": "confirm は確認。"
+        },
+        {
+          "id": "B16E4",
+          "en": "Please say the number again.",
+          "ja": "番号をもう一度おっしゃってください。",
+          "why": "again はもう一度。"
+        },
+        {
+          "id": "B16E5",
+          "en": "Is this your full name?",
+          "ja": "こちらがフルネームですか。",
+          "why": "Is this で確認する。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "phase": 5,
+      "title": "料金を英語で読む",
+      "goal": "yen と金額を一文で伝える",
+      "explain": [
+        "金額は The price is ... yen. の形で言えます。声に出して区切り、桁数を誤らないことを優先します。",
+        "1,000 は one thousand、2,500 は two thousand five hundred。円は yen で、語尾に s を付けません。",
+        "ここに示す金額は読み上げの練習用の例で、契約時の料金表とは限りません。実際の案内では最新表示額を読み上げます。"
+      ],
+      "vocab": [
+        {
+          "en": "price",
+          "ja": "価格"
+        },
+        {
+          "en": "fee",
+          "ja": "料金"
+        },
+        {
+          "en": "yen",
+          "ja": "円"
+        },
+        {
+          "en": "thousand",
+          "ja": "千"
+        },
+        {
+          "en": "hundred",
+          "ja": "百"
+        },
+        {
+          "en": "total",
+          "ja": "合計"
+        },
+        {
+          "en": "estimate",
+          "ja": "見積もり"
+        }
+      ],
+      "pattern": "The price is + 金額 + yen.",
+      "parts": [
+        {
+          "en": "The price",
+          "ja": "料金は"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "two thousand yen.",
+          "ja": "2,000円"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B17E1",
+          "en": "The price is two thousand yen.",
+          "ja": "料金は2,000円です。",
+          "why": "練習用の金額。"
+        },
+        {
+          "id": "B17E2",
+          "en": "The fee is one thousand yen.",
+          "ja": "料金は1,000円です。",
+          "why": "練習用の金額。"
+        },
+        {
+          "id": "B17E3",
+          "en": "The total is three thousand yen.",
+          "ja": "合計は3,000円です。",
+          "why": "total は合計。"
+        },
+        {
+          "id": "B17E4",
+          "en": "This is an estimate.",
+          "ja": "こちらはお見積もりです。",
+          "why": "estimate は見積もり。"
+        },
+        {
+          "id": "B17E5",
+          "en": "The device costs five thousand yen.",
+          "ja": "端末は5,000円です。",
+          "why": "costs は費用がかかる。"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "phase": 5,
+      "title": "月額・税込・追加料金",
+      "goal": "per month / including tax を言う",
+      "explain": [
+        "per month は「1か月あたり」、including tax は「税込み」。数字の直後に付け加えるだけで料金説明が正確になります。",
+        "A monthly fee は月額料金、an extra fee は追加料金。free（無料）と included（料金に含まれる）は意味が同じとは限りません。",
+        "月額以外の手数料や端末代金も別々に案内する必要があります。どの金額なのか名詞を明示して伝えます。"
+      ],
+      "vocab": [
+        {
+          "en": "per month",
+          "ja": "月額"
+        },
+        {
+          "en": "including tax",
+          "ja": "税込み"
+        },
+        {
+          "en": "monthly",
+          "ja": "毎月の"
+        },
+        {
+          "en": "extra",
+          "ja": "追加の"
+        },
+        {
+          "en": "fee",
+          "ja": "料金"
+        },
+        {
+          "en": "included",
+          "ja": "含まれる"
+        }
+      ],
+      "pattern": "金額 + yen + per month",
+      "parts": [
+        {
+          "en": "This",
+          "ja": "これは"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "a monthly fee.",
+          "ja": "月額料金"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B18E1",
+          "en": "This is a monthly fee.",
+          "ja": "これは月額料金です。",
+          "why": "monthly fee で月額料金。"
+        },
+        {
+          "id": "B18E2",
+          "en": "The price includes tax.",
+          "ja": "その価格には税金が含まれます。",
+          "why": "includes tax で税込。"
+        },
+        {
+          "id": "B18E3",
+          "en": "There is an extra fee.",
+          "ja": "追加料金があります。",
+          "why": "extra fee に注意。"
+        },
+        {
+          "id": "B18E4",
+          "en": "This option has a monthly fee.",
+          "ja": "このオプションには月額料金があります。",
+          "why": "月額の対象を明確にする。"
+        },
+        {
+          "id": "B18E5",
+          "en": "The device price is separate.",
+          "ja": "端末代金は別です。",
+          "why": "separate は別。"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "phase": 5,
+      "title": "データ量と通信",
+      "goal": "GB・up to・over を伝える",
+      "explain": [
+        "データ量は gigabytes（GB）で表します。up to 3GB は「3GBまで（3GBを含む）」。over 3GB は「3GBを超える」です。",
+        "英語の up to と over は境界が異なります。3GBちょうどの扱いが変わるので、数字の前後も注意して読みます。",
+        "国内と海外のデータ条件は違う場合があります。境界の意味と、どのサービスの数字かをはっきり伝えましょう。"
+      ],
+      "vocab": [
+        {
+          "en": "data",
+          "ja": "データ"
+        },
+        {
+          "en": "gigabyte",
+          "ja": "ギガバイト"
+        },
+        {
+          "en": "up to",
+          "ja": "〜まで"
+        },
+        {
+          "en": "over",
+          "ja": "〜を超えて"
+        },
+        {
+          "en": "use",
+          "ja": "使う"
+        },
+        {
+          "en": "speed",
+          "ja": "速度"
+        }
+      ],
+      "pattern": "up to + 数字 / over + 数字",
+      "parts": [
+        {
+          "en": "Up to",
+          "ja": "まで"
+        },
+        {
+          "en": "three gigabytes",
+          "ja": "3ギガバイト"
+        },
+        {
+          "en": "is included.",
+          "ja": "含まれます"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B19E1",
+          "en": "Up to three gigabytes is included.",
+          "ja": "3ギガバイトまで含まれます。",
+          "why": "上限を表す英語の練習文。"
+        },
+        {
+          "id": "B19E2",
+          "en": "You can use data here.",
+          "ja": "ここでデータ通信が使えます。",
+          "why": "can use で使用可能。"
+        },
+        {
+          "id": "B19E3",
+          "en": "This is over three gigabytes.",
+          "ja": "これは3ギガバイトを超えています。",
+          "why": "over は超える。"
+        },
+        {
+          "id": "B19E4",
+          "en": "How much data do you use?",
+          "ja": "データをどのくらい使いますか。",
+          "why": "how much data。"
+        },
+        {
+          "id": "B19E5",
+          "en": "The data speed may change.",
+          "ja": "データ通信速度は変わる場合があります。",
+          "why": "may は可能性。"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "phase": 5,
+      "title": "割引・ポイント・紹介",
+      "goal": "確約せず条件を確認する",
+      "explain": [
+        "discount は割引、points はポイント、referral は紹介を表します。ポイント還元は料金からの直接割引と同じではありません。",
+        "may は「〜する場合があります」。You may be eligible. は「対象になる可能性があります」で、確実に適用されるとは約束しません。",
+        "紹介キャンペーンではリンク/QRコード、エントリー、利用条件などを必ず公式画面で確認します。金額や条件を古いまま断定しないことが重要です。"
+      ],
+      "vocab": [
+        {
+          "en": "discount",
+          "ja": "割引"
+        },
+        {
+          "en": "points",
+          "ja": "ポイント"
+        },
+        {
+          "en": "referral",
+          "ja": "紹介"
+        },
+        {
+          "en": "campaign",
+          "ja": "キャンペーン"
+        },
+        {
+          "en": "eligible",
+          "ja": "対象となる"
+        },
+        {
+          "en": "link",
+          "ja": "リンク"
+        }
+      ],
+      "pattern": "You may be eligible for ...",
+      "parts": [
+        {
+          "en": "You",
+          "ja": "お客様は"
+        },
+        {
+          "en": "may be eligible for",
+          "ja": "対象になる場合があります"
+        },
+        {
+          "en": "a discount.",
+          "ja": "割引の"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B20E1",
+          "en": "You may be eligible for a discount.",
+          "ja": "割引の対象になる場合があります。",
+          "why": "確約ではない。"
+        },
+        {
+          "id": "B20E2",
+          "en": "This campaign has conditions.",
+          "ja": "このキャンペーンには条件があります。",
+          "why": "条件を確認する。"
+        },
+        {
+          "id": "B20E3",
+          "en": "Please open the referral link.",
+          "ja": "紹介リンクを開いてください。",
+          "why": "リンクを使う紹介の案内。"
+        },
+        {
+          "id": "B20E4",
+          "en": "The points are not a bill discount.",
+          "ja": "ポイントは請求額の割引ではありません。",
+          "why": "ポイントと値引きは別。"
+        },
+        {
+          "id": "B20E5",
+          "en": "We will check the conditions.",
+          "ja": "条件を確認いたします。",
+          "why": "確認前に断定しない。"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "phase": 6,
+      "title": "契約の流れ",
+      "goal": "最初・次・最後を案内する",
+      "explain": [
+        "手続きの順番は First（最初に）、Next（次に）、Finally（最後に）で表せます。",
+        "First, we check your ID. のように「順番を表す言葉 + 短い一文」で話せば分かりやすくなります。",
+        "説明と実際の契約内容が一致するか、重要な条件は書面や公式画面で確認しましょう。"
+      ],
+      "vocab": [
+        {
+          "en": "first",
+          "ja": "最初に"
+        },
+        {
+          "en": "next",
+          "ja": "次に"
+        },
+        {
+          "en": "finally",
+          "ja": "最後に"
+        },
+        {
+          "en": "apply",
+          "ja": "申し込む"
+        },
+        {
+          "en": "confirm",
+          "ja": "確認する"
+        },
+        {
+          "en": "finish",
+          "ja": "完了する"
+        }
+      ],
+      "pattern": "First / Next / Finally + 短い一文",
+      "parts": [
+        {
+          "en": "First,",
+          "ja": "最初に"
+        },
+        {
+          "en": "we check",
+          "ja": "確認します"
+        },
+        {
+          "en": "your ID.",
+          "ja": "本人確認書類を"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B21E1",
+          "en": "First, we check your ID.",
+          "ja": "最初に本人確認書類を確認します。",
+          "why": "First で順序。"
+        },
+        {
+          "id": "B21E2",
+          "en": "Next, we explain the plan.",
+          "ja": "次にプランを説明します。",
+          "why": "Next は次に。"
+        },
+        {
+          "id": "B21E3",
+          "en": "Please confirm your details.",
+          "ja": "ご自身の情報をご確認ください。",
+          "why": "確認の依頼。"
+        },
+        {
+          "id": "B21E4",
+          "en": "Finally, we check the result.",
+          "ja": "最後に結果を確認します。",
+          "why": "Finally は最後。"
+        },
+        {
+          "id": "B21E5",
+          "en": "We can start the application.",
+          "ja": "申し込みを始められます。",
+          "why": "start the application。"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "phase": 6,
+      "title": "SIMとeSIM",
+      "goal": "2つの違いを短く説明する",
+      "explain": [
+        "SIM card は物理カード、eSIM は端末に組み込まれたSIMです。お客様の端末が対応するか確認が必要です。",
+        "physical は「物理的な」、digital は「デジタルの」、compatible は「対応している」。難しい語なので一度に全部覚える必要はありません。",
+        "This phone supports eSIM. という文は端末が対応すると確認できた場合にのみ使います。"
+      ],
+      "vocab": [
+        {
+          "en": "SIM card",
+          "ja": "SIMカード"
+        },
+        {
+          "en": "eSIM",
+          "ja": "eSIM"
+        },
+        {
+          "en": "physical",
+          "ja": "物理的な"
+        },
+        {
+          "en": "digital",
+          "ja": "デジタルの"
+        },
+        {
+          "en": "compatible",
+          "ja": "対応した"
+        },
+        {
+          "en": "support",
+          "ja": "対応する"
+        }
+      ],
+      "pattern": "This is ... / It supports ...",
+      "parts": [
+        {
+          "en": "An eSIM",
+          "ja": "内蔵SIMは"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "digital.",
+          "ja": "デジタルの"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B22E1",
+          "en": "An eSIM is digital.",
+          "ja": "eSIMはデジタル式です。",
+          "why": "an eSIM で始める。"
+        },
+        {
+          "id": "B22E2",
+          "en": "A SIM card is physical.",
+          "ja": "SIMカードは物理的なカードです。",
+          "why": "physical は物理的な。"
+        },
+        {
+          "id": "B22E3",
+          "en": "This phone supports eSIM.",
+          "ja": "この電話はeSIMに対応しています。",
+          "why": "対応確認後に使う。"
+        },
+        {
+          "id": "B22E4",
+          "en": "We need to check compatibility.",
+          "ja": "対応状況を確認する必要があります。",
+          "why": "確認前は断定しない。"
+        },
+        {
+          "id": "B22E5",
+          "en": "You can choose a SIM card.",
+          "ja": "SIMカードを選べます。",
+          "why": "can choose は選べる。"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "phase": 6,
+      "title": "MNPと開通",
+      "goal": "番号引き継ぎと状況を説明する",
+      "explain": [
+        "MNP は今の電話番号を他社から引き継ぐ手続きです。keep your number は「番号を維持する」という日常的な言い方です。",
+        "activation は開通、complete は完了、in progress は進行中。進捗が不明なときに完了したとは言いません。",
+        "必要なMNP手続きは契約方法や状況によって異なるので、店頭の公式手順に従って確認してください。"
+      ],
+      "vocab": [
+        {
+          "en": "MNP",
+          "ja": "番号乗り換え"
+        },
+        {
+          "en": "keep",
+          "ja": "維持する"
+        },
+        {
+          "en": "number",
+          "ja": "番号"
+        },
+        {
+          "en": "activation",
+          "ja": "開通"
+        },
+        {
+          "en": "complete",
+          "ja": "完了"
+        },
+        {
+          "en": "in progress",
+          "ja": "進行中"
+        }
+      ],
+      "pattern": "The ... is + 状態",
+      "parts": [
+        {
+          "en": "The activation",
+          "ja": "開通手続きは"
+        },
+        {
+          "en": "is",
+          "ja": "です"
+        },
+        {
+          "en": "in progress.",
+          "ja": "進行中"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B23E1",
+          "en": "The activation is in progress.",
+          "ja": "開通手続きは進行中です。",
+          "why": "in progress は進行中。"
+        },
+        {
+          "id": "B23E2",
+          "en": "Would you like to keep your number?",
+          "ja": "電話番号を引き継ぎたいですか。",
+          "why": "番号引き継ぎの希望確認。"
+        },
+        {
+          "id": "B23E3",
+          "en": "We will check the MNP process.",
+          "ja": "MNP手続きを確認します。",
+          "why": "状況を確認する言い方。"
+        },
+        {
+          "id": "B23E4",
+          "en": "The application is not complete yet.",
+          "ja": "申し込みはまだ完了していません。",
+          "why": "not complete yet。"
+        },
+        {
+          "id": "B23E5",
+          "en": "The activation is complete.",
+          "ja": "開通が完了しました。",
+          "why": "確認が取れた場合のみ使う。"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "phase": 6,
+      "title": "最初の接客ロールプレイ",
+      "goal": "受付から確認までつなげる",
+      "explain": [
+        "ここまでの短文をつなげて、外国人のお客様への最初のご案内を練習します。長く話すより、短く話して確認することを優先しましょう。",
+        "Hello → How can I help you? → Would you like ...? → Let me check. の順番で接客を組み立てられます。",
+        "料金・割引・契約可否は「今は確認中です」と伝えられれば十分です。正式な説明は最新の公式画面や社内ルールに従ってください。"
+      ],
+      "vocab": [
+        {
+          "en": "hello",
+          "ja": "こんにちは"
+        },
+        {
+          "en": "help",
+          "ja": "お手伝い"
+        },
+        {
+          "en": "would like",
+          "ja": "希望する"
+        },
+        {
+          "en": "check",
+          "ja": "確認する"
+        },
+        {
+          "en": "please",
+          "ja": "お願いします"
+        },
+        {
+          "en": "thank you",
+          "ja": "ありがとう"
+        }
+      ],
+      "pattern": "あいさつ → 要望確認 → 確認 → お礼",
+      "parts": [
+        {
+          "en": "Hello.",
+          "ja": "こんにちは"
+        },
+        {
+          "en": "How can I help you?",
+          "ja": "ご用件は何でしょうか"
+        }
+      ],
+      "examples": [
+        {
+          "id": "B24E1",
+          "en": "Hello. How can I help you?",
+          "ja": "こんにちは。ご用件をお伺いします。",
+          "why": "短いあいさつと質問。"
+        },
+        {
+          "id": "B24E2",
+          "en": "Would you like an eSIM?",
+          "ja": "eSIMをご希望ですか。",
+          "why": "希望を聞く。"
+        },
+        {
+          "id": "B24E3",
+          "en": "Let me check the conditions.",
+          "ja": "条件を確認いたします。",
+          "why": "Let me check は確認します。"
+        },
+        {
+          "id": "B24E4",
+          "en": "Please wait a moment.",
+          "ja": "少々お待ちください。",
+          "why": "一度区切って確認。"
+        },
+        {
+          "id": "B24E5",
+          "en": "Thank you for waiting.",
+          "ja": "お待ちいただきありがとうございます。",
+          "why": "最後まで丁寧に。"
+        }
+      ]
+    }
+  ]
+}

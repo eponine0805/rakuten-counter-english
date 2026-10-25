@@ -1,6 +1,6 @@
 [build]
   publish = "web"
-  command = "python3 scripts/build_course.py"
+  command = "python3 scripts/build_course.py && python3 scripts/build_beginner.py && python3 scripts/check_beginner.py"
 [build.environment]
   PYTHON_VERSION = "3.11"
 [[headers]]

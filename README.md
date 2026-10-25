@@ -2,6 +2,14 @@
 
 楽天モバイル店舗で外国語話者のお客様に対応するための、**非公式・独立した英語学習用Webアプリ**です。既存のフランス語文法アプリとは完全に別のコードベースです。アプリは **Netlify で公開可能な静的サイト**として構築されています。
 
+## はじめての英語（追加された入門コース）
+
+- **英語ゼロからの24課／6段階**：アルファベット・数字・英語の語順から、自己紹介、be動詞、疑問文、料金案内、契約、MNPまで段階的に進めます。
+- 1課ずつ「**単語を音で聞く → 日本語で文法を理解 → 英文を語句ごとに分解 → 例文を読む → やさしい12問練習**」の小さな画面に分けています。
+- **入門120例文、288練習問題**：意味選択4問＋英文選択4問＋語順4問／課。解答後に日本語の解説と英語音声を表示。ヒント・誤答の個別練習にも対応。
+- **学習履歴は維持**：以前の32単元の成績を消さず、入門の進捗を同じバックアップに保存できます。
+- 24課のあとで既存の32単元に進めます。**合計56単元・344例文・928問**。
+
 ## 学習内容
 
 - **8章・32単元**：be動詞・疑問文・丁寧な依頼から、条件文・受動態・複雑なキャンペーンの説明まで。
@@ -15,7 +23,7 @@
 
 ## 使用方法
 
-文法を学ぶ → 単元を選ぶ → 解説6節・例文7つを読む → **20問テスト**に進む → 間違えた問題は「復習」で繰り返す。実際の英語でのやりとりは「接客会話」、必要な言い回しの検索は「例文集」、料金の再確認は「料金・公式情報」を使います。
+「ゼロから入門」を開く → 1課目から単語と語順を覚える → 入門24課を終えたら「文法を学ぶ」 → 単元を選ぶ → 解説6節・例文7つを読む → **20問テスト**に進む → 間違えた問題は「復習」で繰り返す。実際の英語でのやりとりは「接客会話」、必要な言い回しの検索は「例文集」、料金の再確認は「料金・公式情報」を使います。
 
 ## 公開方法 A — Netlify Drop（もっとも簡単）
 
@@ -27,13 +35,21 @@
 
 ## 公開方法 B — 完全に新しいGitHubリポジトリからNetlifyへ
 
-このGitHubリポジトリは **[eponine0805/rakuten-counter-english](https://github.com/eponine0805/rakuten-counter-english)** として作成済みで、アプリのソース一式を `main` ブランチに登録しています。既存のフランス語リポジトリは変更していません。**Netlifyでの本番公開はまだ行っていません。**
+現在のGitHub接続からは新しいリポジトリの**作成操作はできない**ため、新規リポジトリを自動作成／公開していません。既存のフランス語リポジトリも一切変更していません。
 
-1. [Netlify](https://app.netlify.com/) で **Add new project → Import an existing project** を選択。
-2. GitHubを連携し、`eponine0805/rakuten-counter-english` リポジトリを指定。
-3. ルートの `netlify.toml`（Python 3.11で教材生成、公開フォルダ `web`）が自動適用されることを確認。
-4. **Deploy** を押して公開し、生成されたNetlify URLで動作を確認します。
+1. [GitHubの新規リポジトリ作成](https://github.com/new) から `rakuten-counter-english` などの**別リポジトリ**を作成する（README・.gitignoreの自動初期化は不要）。
+2. `counter-english-source.zip` を展開し、そのフォルダを Git に登録して新規リポジトリに push する。
+3. Netlify → **Add new project / Import an existing project** → GitHub → 新規リポジトリを選ぶ。
+4. ルートの `netlify.toml` が自動適用されます。
 
+```sh
+cd rakuten-counter-english
+git init -b main
+git add .
+git commit -m "Initial Rakuten Mobile counter English app"
+git remote add origin https://github.com/YOUR_ACCOUNT/rakuten-counter-english.git
+git push -u origin main
+```
 
 ### Netlifyのビルド設定
 
@@ -47,6 +63,7 @@
 
 ## 自分で教材を更新する
 
+- `scripts/build_beginner.py`：英語ゼロ向け24課の独自解説・語彙・練習例文。
 - `scripts/build_course.py`：32単元の構成、例文、会話、公式情報。
 - `scripts/extended_lessons.py`：各単元の詳細解説。
 - `web/app.js`：テスト・復習・音声・画面遷移。

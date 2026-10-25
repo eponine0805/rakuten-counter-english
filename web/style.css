@@ -3,3 +3,32 @@
 @media (max-width:700px){.app-shell{padding:0 15px}.topbar{padding:15px 0 10px}.brand strong{font-size:20px}.brand small{font-size:7.8px}.brand-mark{width:41px;height:41px;line-height:35px;font-size:24px}.top-meta{display:block;text-align:right}.top-stats{display:block;margin-top:3px;font-size:10px}.unofficial{font-size:10px;padding:3px 7px}.tab{padding:12px 14px;font-size:12px}main{padding-top:21px}.hero{padding:20px;border-radius:18px}.hero:after{font-size:65px}.stats{gap:7px}.stat{padding:13px 11px}.stat strong{font-size:21px}.stat small{font-size:10px}.panel{padding:15px}.unitRow{padding:11px 0}.unitRow b{font-size:12px}.chapterGoal{font-size:11px}.foot{display:block}.foot span{display:block}.formGrid,.infoGrid{grid-template-columns:1fr}.quizPrompt{padding:17px}.fact{grid-template-columns:1fr;gap:7px}.footerCTA{bottom:5px}.sceneLine{max-width:98%}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 
 @media(max-width:700px){.navtabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;overflow:visible}.navtabs .tab{white-space:normal;padding:10px 3px;font-size:11px;line-height:1.3;border-bottom-width:2px;border-radius:7px 7px 0 0}.navtabs .tab.active{background:var(--red-soft)}}
+
+/* Beginner-first progression: one small step per screen, large tactile targets. */
+.beginner-hero{background:linear-gradient(135deg,#fff,#f0f8f6);border-color:#d7e8df}
+.beginner-hero:after{content:'A B C';font-size:85px;color:rgba(24,128,95,.045)}
+.beginner-h2{font-size:clamp(19px,4vw,23px);letter-spacing:-.03em;margin:12px 0}
+.beginner-par{font-size:14px;line-height:2.05;color:#38383f;margin:13px 0}
+.beginner-intro{margin:15px 0}
+.beginner-steps{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:5px;margin:18px 0 20px}
+.beginner-step{font-size:12px;text-align:center;color:#7e7d7e;background:#f1efed;border:1px solid #efeeeb;border-radius:8px;padding:12px 4px}
+.beginner-step.here{font-weight:900;color:#fff;background:#b7273e;border-color:#b7273e}
+.beginner-step.passed{color:#275c49;background:#e9f5ee;border-color:#cde9d8}
+.vocab-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
+.vocab-card{padding:16px;border:1px solid #e5e1df;border-radius:14px;background:#fff;display:flex;align-items:flex-start;flex-direction:column;gap:5px;min-width:0}
+.vocab-card strong{font-size:19px;overflow-wrap:anywhere;line-height:1.5}.vocab-card span{font-size:12px;color:#606268}.vocab-card .btn{margin-top:auto}
+.alphabet-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;margin-top:15px}
+.letter{font-size:21px;font-weight:850;border:1px solid #e7dddd;background:#fff;border-radius:9px;min-height:55px;display:grid;justify-items:center;align-content:center;line-height:1.3}
+.letter span{font-size:10px;color:#b12d43}
+.beginner-pattern{margin-top:24px;background:#f5f6f4;border-radius:12px;padding:18px}
+.beginner-pattern small{display:block;color:#726f75;margin-bottom:7px}
+.beginner-pattern strong{font-size:17px;line-height:1.6}
+.beginner-parts{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.word-part{background:#fff3f4;border:1px solid #e9d5d8;border-radius:12px;padding:12px 15px;display:grid;gap:6px;min-width:92px}
+.word-part:nth-child(even){background:#e9f4f4;border-color:#d4e6e5}
+.word-part b{font-size:17px;overflow-wrap:anywhere}.word-part small{color:#595b62;font-size:12px}
+.beginner-example .exampleEn{font-size:19px}.beginner-example .exampleJa{margin:10px 0}
+.beginner-hint{background:#faf7f5;padding:12px;border-radius:11px;margin:12px 0}
+.beginner-done{background:#e3f3e9!important;color:#287052!important}
+.beginner-footer{z-index:5}
+@media(max-width:700px){.vocab-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.vocab-card{padding:13px}.alphabet-grid{grid-template-columns:repeat(5,minmax(0,1fr))}.letter{min-height:58px}.beginner-step{font-size:10px;padding:10px 3px}.beginner-pattern strong{font-size:15px}.beginner-footer .btn{padding:10px 12px}.beginner-example .exampleEn{font-size:17px}}
