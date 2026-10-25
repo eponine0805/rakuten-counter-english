@@ -32,3 +32,13 @@
 .beginner-done{background:#e3f3e9!important;color:#287052!important}
 .beginner-footer{z-index:5}
 @media(max-width:700px){.vocab-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.vocab-card{padding:13px}.alphabet-grid{grid-template-columns:repeat(5,minmax(0,1fr))}.letter{min-height:58px}.beginner-step{font-size:10px;padding:10px 3px}.beginner-pattern strong{font-size:15px}.beginner-footer .btn{padding:10px 12px}.beginner-example .exampleEn{font-size:17px}}
+
+/* Per-sentence roleplay answers: retain the reader's scroll position. */
+.sceneAnswerUnit{margin-top:10px}
+.sceneAnswerUnit+.sceneAnswerUnit{border-top:1px dashed #ead9dc;padding-top:10px}
+.scenePrompt{font-size:12px;color:#89676f;margin:8px 0}
+.sceneReveal{min-height:38px;text-align:left;white-space:normal}
+.sceneAnswer{margin-top:10px}
+.sceneAnswer[hidden]{display:none!important}
+.sceneAnswer .en{line-height:1.65;overflow-wrap:anywhere}
+.sceneAnswer .ja{line-height:1.7}
