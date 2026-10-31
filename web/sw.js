@@ -1,4 +1,4 @@
-const CACHE='counter-english-v4.0.0';
+const CACHE='counter-english-v4.1.0';
 const ASSETS=['./','./index.html','./style.css','./app.js','./data/course.json','./data/beginner.json','./data/chunks.json','./data/practice.json','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
