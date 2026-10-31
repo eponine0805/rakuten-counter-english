@@ -42,3 +42,11 @@
 .sceneAnswer[hidden]{display:none!important}
 .sceneAnswer .en{line-height:1.65;overflow-wrap:anywhere}
 .sceneAnswer .ja{line-height:1.7}
+
+/* Ready-to-use expression cards */
+.chunkGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.chunkCard{min-width:0;padding:16px 18px}
+.chunkCard h3{font-size:20px;line-height:1.4;margin:8px 0;font-weight:850;overflow-wrap:anywhere}
+.chunkSample{font-size:14px;font-weight:750;margin-top:13px;line-height:1.7}
+.chunkCard .exampleJa{font-size:13px}
+@media(max-width:700px){.chunkGrid{grid-template-columns:1fr}.chunkCard{padding:15px}.chunkCard h3{font-size:19px}}

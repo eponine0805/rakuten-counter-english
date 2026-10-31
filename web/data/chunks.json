@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "description": "接客で使う2語以上の定型表現を意味と例文ごと覚える。料金・特典は必ず公式条件を確認。",
+  "chunks": [
+    {
+      "id": "C001",
+      "unit": 1,
+      "en": "This is",
+      "ja": "こちらは〜です",
+      "sample": "This is the Rakuten SAIKYO Plan.",
+      "sampleJa": "こちらが楽天最強プランです。"
+    },
+    {
+      "id": "C002",
+      "unit": 1,
+      "en": "be compatible with",
+      "ja": "〜に対応している",
+      "sample": "This phone is compatible with this SIM.",
+      "sampleJa": "この端末はこのSIMに対応しています。"
+    },
+    {
+      "id": "C003",
+      "unit": 2,
+      "en": "be based on",
+      "ja": "〜に基づいて決まる",
+      "sample": "The fee is based on your data usage.",
+      "sampleJa": "料金はデータ使用量に基づいて決まります。"
+    },
+    {
+      "id": "C004",
+      "unit": 2,
+      "en": "accept credit cards",
+      "ja": "クレジットカード払いを受け付ける",
+      "sample": "We accept credit cards for payment.",
+      "sampleJa": "クレジットカード払いを受け付けています。"
+    },
+    {
+      "id": "C005",
+      "unit": 3,
+      "en": "keep your phone number",
+      "ja": "電話番号をそのまま使う",
+      "sample": "Do you want to keep your phone number?",
+      "sampleJa": "電話番号をそのまま使いたいですか。"
+    },
+    {
+      "id": "C006",
+      "unit": 3,
+      "en": "more than",
+      "ja": "〜より多く",
+      "sample": "Do you use more than 20 gigabytes a month?",
+      "sampleJa": "月20GBを超えて使いますか。"
+    },
+    {
+      "id": "C007",
+      "unit": 4,
+      "en": "what brings you to",
+      "ja": "〜にはどんなご用件で",
+      "sample": "What brings you to the store today?",
+      "sampleJa": "今日はどのようなご用件でご来店ですか。"
+    },
+    {
+      "id": "C008",
+      "unit": 4,
+      "en": "how much data",
+      "ja": "どのくらいのデータ量",
+      "sample": "How much data do you use?",
+      "sampleJa": "データをどのくらい使いますか。"
+    },
+    {
+      "id": "C009",
+      "unit": 5,
+      "en": "check your data usage",
+      "ja": "データ使用量を確認する",
+      "sample": "You can check your data usage in the app.",
+      "sampleJa": "アプリでデータ使用量を確認できます。"
+    },
+    {
+      "id": "C010",
+      "unit": 5,
+      "en": "keep your current number",
+      "ja": "今の電話番号を引き継ぐ",
+      "sample": "You can keep your current number with MNP.",
+      "sampleJa": "MNPで今の番号を引き継げます。"
+    },
+    {
+      "id": "C011",
+      "unit": 6,
+      "en": "Could you show me",
+      "ja": "見せていただけますか",
+      "sample": "Could you show me a valid ID, please?",
+      "sampleJa": "有効な本人確認書類を見せていただけますか。"
+    },
+    {
+      "id": "C012",
+      "unit": 6,
+      "en": "May I check",
+      "ja": "確認してもよろしいですか",
+      "sample": "May I check the model of your phone?",
+      "sampleJa": "端末の機種を確認してもよろしいですか。"
+    },
+    {
+      "id": "C013",
+      "unit": 7,
+      "en": "Would you like to",
+      "ja": "〜をご希望ですか",
+      "sample": "Would you like to keep your current number?",
+      "sampleJa": "今の電話番号を引き継ぎたいですか。"
+    },
+    {
+      "id": "C014",
+      "unit": 7,
+      "en": "Would you prefer",
+      "ja": "どちらを希望されますか",
+      "sample": "Would you prefer a SIM card or an eSIM?",
+      "sampleJa": "SIMカードとeSIMのどちらをご希望ですか。"
+    },
+    {
+      "id": "C015",
+      "unit": 8,
+      "en": "Let me explain",
+      "ja": "説明させてください",
+      "sample": "Let me explain the three price tiers.",
+      "sampleJa": "3段階の料金についてご説明します。"
+    },
+    {
+      "id": "C016",
+      "unit": 8,
+      "en": "Please tap",
+      "ja": "〜をタップしてください",
+      "sample": "Please tap the next button on the screen.",
+      "sampleJa": "画面の「次へ」をタップしてください。"
+    },
+    {
+      "id": "C017",
+      "unit": 9,
+      "en": "up to",
+      "ja": "〜まで（含む）",
+      "sample": "Up to 3 gigabytes is the first price tier.",
+      "sampleJa": "3GBまでが最初の料金段階です。"
+    },
+    {
+      "id": "C018",
+      "unit": 9,
+      "en": "per month",
+      "ja": "月あたり",
+      "sample": "The monthly fee is 1,078 yen per month for up to 3GB.",
+      "sampleJa": "3GBまでは月額1,078円です。"
+    },
+    {
+      "id": "C019",
+      "unit": 10,
+      "en": "a physical SIM",
+      "ja": "物理SIM",
+      "sample": "You can choose a physical SIM card.",
+      "sampleJa": "物理SIMカードを選べます。"
+    },
+    {
+      "id": "C020",
+      "unit": 10,
+      "en": "does not require",
+      "ja": "〜を必要としない",
+      "sample": "An eSIM does not require a removable card.",
+      "sampleJa": "eSIMは取り外せるカードを必要としません。"
+    },
+    {
+      "id": "C021",
+      "unit": 11,
+      "en": "cheaper than",
+      "ja": "〜より安い",
+      "sample": "This tier is cheaper than the unlimited tier.",
+      "sampleJa": "この段階の料金は無制限の段階より安いです。"
+    },
+    {
+      "id": "C022",
+      "unit": 11,
+      "en": "more convenient for",
+      "ja": "〜にとってより便利",
+      "sample": "This option may be more convenient for you.",
+      "sampleJa": "このオプションの方がお客様には便利かもしれません。"
+    },
+    {
+      "id": "C023",
+      "unit": 12,
+      "en": "more than 3GB",
+      "ja": "3GBを超えて",
+      "sample": "If you use more than 3GB, the next tier applies.",
+      "sampleJa": "3GBを超えると次の料金段階が適用されます。"
+    },
+    {
+      "id": "C024",
+      "unit": 12,
+      "en": "each month",
+      "ja": "毎月",
+      "sample": "We check your data usage each month.",
+      "sampleJa": "毎月のデータ使用量を確認します。"
+    },
+    {
+      "id": "C025",
+      "unit": 13,
+      "en": "be processing",
+      "ja": "手続き中である",
+      "sample": "We are processing your application.",
+      "sampleJa": "現在お申し込みを処理しています。"
+    },
+    {
+      "id": "C026",
+      "unit": 13,
+      "en": "right now",
+      "ja": "今この時点で",
+      "sample": "I am checking your application right now.",
+      "sampleJa": "ただいまお申し込みを確認しています。"
+    },
+    {
+      "id": "C027",
+      "unit": 14,
+      "en": "the next step",
+      "ja": "次の手順",
+      "sample": "I will explain the next step.",
+      "sampleJa": "次の手順をご説明します。"
+    },
+    {
+      "id": "C028",
+      "unit": 14,
+      "en": "check your device",
+      "ja": "端末を確認する",
+      "sample": "We will check your device first.",
+      "sampleJa": "最初に端末を確認します。"
+    },
+    {
+      "id": "C029",
+      "unit": 15,
+      "en": "need to",
+      "ja": "〜する必要がある",
+      "sample": "You need to verify your identity.",
+      "sampleJa": "本人確認をする必要があります。"
+    },
+    {
+      "id": "C030",
+      "unit": 15,
+      "en": "sign in with",
+      "ja": "〜でログインする",
+      "sample": "Please sign in with your Rakuten ID.",
+      "sampleJa": "楽天IDでログインしてください。"
+    },
+    {
+      "id": "C031",
+      "unit": 16,
+      "en": "if your phone supports",
+      "ja": "端末が〜に対応しているなら",
+      "sample": "If your phone supports eSIM, you can choose it.",
+      "sampleJa": "お使いの端末がeSIM対応なら選択できます。"
+    },
+    {
+      "id": "C032",
+      "unit": 16,
+      "en": "in that case",
+      "ja": "その場合は",
+      "sample": "In that case, we can check the next step.",
+      "sampleJa": "その場合は次の手順を確認できます。"
+    },
+    {
+      "id": "C033",
+      "unit": 17,
+      "en": "have already",
+      "ja": "すでに〜している",
+      "sample": "Have you already requested an MNP number?",
+      "sampleJa": "すでにMNP予約番号を取得しましたか。"
+    },
+    {
+      "id": "C034",
+      "unit": 17,
+      "en": "not yet",
+      "ja": "まだ〜していない",
+      "sample": "The application is not complete yet.",
+      "sampleJa": "お申し込みはまだ完了していません。"
+    },
+    {
+      "id": "C035",
+      "unit": 18,
+      "en": "last month",
+      "ja": "先月",
+      "sample": "Did you use another carrier last month?",
+      "sampleJa": "先月は別の通信会社を利用していましたか。"
+    },
+    {
+      "id": "C036",
+      "unit": 18,
+      "en": "when did you",
+      "ja": "いつ〜しましたか",
+      "sample": "When did you request the MNP number?",
+      "sampleJa": "MNP予約番号はいつ取得しましたか。"
+    },
+    {
+      "id": "C037",
+      "unit": 19,
+      "en": "be awarded",
+      "ja": "付与される",
+      "sample": "Points are awarded after the conditions are met.",
+      "sampleJa": "条件を満たすとポイントが付与されます。"
+    },
+    {
+      "id": "C038",
+      "unit": 19,
+      "en": "after the conditions are met",
+      "ja": "条件を満たした後に",
+      "sample": "Points are awarded after the conditions are met.",
+      "sampleJa": "条件を満たした後にポイントが付与されます。"
+    },
+    {
+      "id": "C039",
+      "unit": 20,
+      "en": "Could you tell me",
+      "ja": "教えていただけますか",
+      "sample": "Could you tell me which carrier you use now?",
+      "sampleJa": "現在お使いの通信会社を教えていただけますか。"
+    },
+    {
+      "id": "C040",
+      "unit": 20,
+      "en": "whether your phone supports",
+      "ja": "端末が対応しているかどうか",
+      "sample": "We will check whether your phone supports eSIM.",
+      "sampleJa": "端末がeSIMに対応しているか確認します。"
+    },
+    {
+      "id": "C041",
+      "unit": 21,
+      "en": "on Friday",
+      "ja": "金曜日に",
+      "sample": "Please visit us on Friday.",
+      "sampleJa": "金曜日にご来店ください。"
+    },
+    {
+      "id": "C042",
+      "unit": 21,
+      "en": "by the deadline",
+      "ja": "期限までに",
+      "sample": "Please complete the application by the deadline.",
+      "sampleJa": "期限までにお申し込みを完了してください。"
+    },
+    {
+      "id": "C043",
+      "unit": 22,
+      "en": "because of",
+      "ja": "〜のために",
+      "sample": "The procedure may take longer because of verification.",
+      "sampleJa": "確認のため手続きに時間がかかる場合があります。"
+    },
+    {
+      "id": "C044",
+      "unit": 22,
+      "en": "so we can",
+      "ja": "そうすれば私たちは〜できる",
+      "sample": "Please show your ID so we can check it.",
+      "sampleJa": "確認できるよう本人確認書類をご提示ください。"
+    },
+    {
+      "id": "C045",
+      "unit": 23,
+      "en": "before applying",
+      "ja": "申し込む前に",
+      "sample": "Open the referral link before applying.",
+      "sampleJa": "お申し込み前に紹介リンクを開いてください。"
+    },
+    {
+      "id": "C046",
+      "unit": 23,
+      "en": "after you sign in",
+      "ja": "ログインした後で",
+      "sample": "After you sign in, check the conditions.",
+      "sampleJa": "ログイン後に条件をご確認ください。"
+    },
+    {
+      "id": "C047",
+      "unit": 24,
+      "en": "either A or B",
+      "ja": "AかBのどちらか",
+      "sample": "You can choose either a physical SIM or an eSIM.",
+      "sampleJa": "物理SIMかeSIMのどちらかを選べます。"
+    },
+    {
+      "id": "C048",
+      "unit": 24,
+      "en": "both options",
+      "ja": "両方の選択肢",
+      "sample": "Both options are available for eligible devices.",
+      "sampleJa": "対象端末ではどちらの選択肢も利用できます。"
+    },
+    {
+      "id": "C049",
+      "unit": 25,
+      "en": "meet the conditions",
+      "ja": "条件を満たす",
+      "sample": "You may receive points if you meet the conditions.",
+      "sampleJa": "条件を満たせばポイントを受け取れる場合があります。"
+    },
+    {
+      "id": "C050",
+      "unit": 25,
+      "en": "referral link",
+      "ja": "紹介リンク",
+      "sample": "Please open the referral link first.",
+      "sampleJa": "最初に紹介リンクを開いてください。"
+    },
+    {
+      "id": "C051",
+      "unit": 26,
+      "en": "qualify for",
+      "ja": "〜の対象になる",
+      "sample": "You may qualify for the campaign.",
+      "sampleJa": "キャンペーンの対象になる場合があります。"
+    },
+    {
+      "id": "C052",
+      "unit": 26,
+      "en": "unless you",
+      "ja": "〜しない限り",
+      "sample": "You may not qualify unless you meet the requirements.",
+      "sampleJa": "要件を満たさない限り対象外となる場合があります。"
+    },
+    {
+      "id": "C053",
+      "unit": 27,
+      "en": "subject to",
+      "ja": "〜を条件とする",
+      "sample": "Your eligibility is subject to the official rules.",
+      "sampleJa": "対象可否は公式条件に従います。"
+    },
+    {
+      "id": "C054",
+      "unit": 27,
+      "en": "without prior notice",
+      "ja": "予告なしに",
+      "sample": "The campaign may change without prior notice.",
+      "sampleJa": "キャンペーンは予告なく変更される場合があります。"
+    },
+    {
+      "id": "C055",
+      "unit": 28,
+      "en": "be eligible for",
+      "ja": "〜の対象となる",
+      "sample": "You may be eligible for the family discount.",
+      "sampleJa": "家族割の対象となる場合があります。"
+    },
+    {
+      "id": "C056",
+      "unit": 28,
+      "en": "apply to",
+      "ja": "〜に適用される",
+      "sample": "The discount applies to eligible lines.",
+      "sampleJa": "割引は対象回線に適用されます。"
+    },
+    {
+      "id": "C057",
+      "unit": 29,
+      "en": "cost per month",
+      "ja": "月額〜かかる",
+      "sample": "This calling option costs 1,100 yen per month.",
+      "sampleJa": "この通話オプションは月額1,100円です。"
+    },
+    {
+      "id": "C058",
+      "unit": 29,
+      "en": "optional service",
+      "ja": "任意の追加サービス",
+      "sample": "This is an optional service.",
+      "sampleJa": "こちらは任意の追加サービスです。"
+    },
+    {
+      "id": "C059",
+      "unit": 30,
+      "en": "roaming data",
+      "ja": "海外ローミングのデータ通信",
+      "sample": "Roaming data is available in supported countries.",
+      "sampleJa": "対象国では海外ローミングデータを利用できます。"
+    },
+    {
+      "id": "C060",
+      "unit": 30,
+      "en": "be reduced",
+      "ja": "低下・制限される",
+      "sample": "After the limit, the roaming speed is reduced.",
+      "sampleJa": "上限を超えるとローミング速度が制限されます。"
+    },
+    {
+      "id": "C061",
+      "unit": 31,
+      "en": "depend on",
+      "ja": "〜によって決まる・異なる",
+      "sample": "The monthly fee depends on your data usage.",
+      "sampleJa": "月額料金はデータ使用量によって変わります。"
+    },
+    {
+      "id": "C062",
+      "unit": 31,
+      "en": "be included in",
+      "ja": "〜に含まれる",
+      "sample": "This service may be included in your plan.",
+      "sampleJa": "このサービスはプランに含まれる場合があります。"
+    },
+    {
+      "id": "C063",
+      "unit": 32,
+      "en": "It seems that",
+      "ja": "〜のようです",
+      "sample": "It seems that mobile data is not working.",
+      "sampleJa": "モバイルデータ通信が動作していないようです。"
+    },
+    {
+      "id": "C064",
+      "unit": 32,
+      "en": "try restarting",
+      "ja": "再起動してみる",
+      "sample": "Please try restarting your phone.",
+      "sampleJa": "端末の再起動をお試しください。"
+    }
+  ]
+}
