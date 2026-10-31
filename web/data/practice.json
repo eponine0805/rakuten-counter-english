@@ -1,0 +1,1926 @@
+{
+  "version": 4,
+  "purpose": "Additional distinct, authored retail-English question examples",
+  "items": [
+    {
+      "id": "U01D01",
+      "unit": 1,
+      "en": "This is your contract summary.",
+      "ja": "こちらが契約内容の概要です。"
+    },
+    {
+      "id": "U01D02",
+      "unit": 1,
+      "en": "I am here to help you.",
+      "ja": "お手続きをお手伝いします。"
+    },
+    {
+      "id": "U01D03",
+      "unit": 1,
+      "en": "The eSIM is ready to use.",
+      "ja": "eSIMは使用できる状態です。"
+    },
+    {
+      "id": "U01D04",
+      "unit": 1,
+      "en": "Your ID is on the counter.",
+      "ja": "本人確認書類はカウンターの上にあります。"
+    },
+    {
+      "id": "U01D05",
+      "unit": 1,
+      "en": "These details are important.",
+      "ja": "これらの詳細は重要です。"
+    },
+    {
+      "id": "U01D06",
+      "unit": 1,
+      "en": "The number is correct.",
+      "ja": "電話番号に間違いありません。"
+    },
+    {
+      "id": "U01D07",
+      "unit": 1,
+      "en": "Is the screen easy to read?",
+      "ja": "画面は見やすいですか。"
+    },
+    {
+      "id": "U01D08",
+      "unit": 1,
+      "en": "This is not an additional charge.",
+      "ja": "これは追加料金ではありません。"
+    },
+    {
+      "id": "U01D09",
+      "unit": 1,
+      "en": "Your account is active now.",
+      "ja": "お客様のアカウントは現在有効です。"
+    },
+    {
+      "id": "U01D10",
+      "unit": 1,
+      "en": "The SIM is not included in the box.",
+      "ja": "SIMは箱に同梱されていません。"
+    },
+    {
+      "id": "U02D01",
+      "unit": 2,
+      "en": "We check the application together.",
+      "ja": "一緒に申し込み内容を確認します。"
+    },
+    {
+      "id": "U02D02",
+      "unit": 2,
+      "en": "You receive a confirmation message.",
+      "ja": "確認メッセージが届きます。"
+    },
+    {
+      "id": "U02D03",
+      "unit": 2,
+      "en": "This plan includes access to Rakuten Link.",
+      "ja": "このプランではRakuten Linkを利用できます。"
+    },
+    {
+      "id": "U02D04",
+      "unit": 2,
+      "en": "I explain the options before you decide.",
+      "ja": "決めていただく前にオプションを説明します。"
+    },
+    {
+      "id": "U02D05",
+      "unit": 2,
+      "en": "We support both SIM types.",
+      "ja": "どちらのSIM方式にも対応しています。"
+    },
+    {
+      "id": "U02D06",
+      "unit": 2,
+      "en": "Your phone uses an eSIM.",
+      "ja": "お使いの端末はeSIMを使用します。"
+    },
+    {
+      "id": "U02D07",
+      "unit": 2,
+      "en": "You select the payment method.",
+      "ja": "お支払い方法を選択します。"
+    },
+    {
+      "id": "U02D08",
+      "unit": 2,
+      "en": "I need your permission to continue.",
+      "ja": "手続きを続けるにはお客様の同意が必要です。"
+    },
+    {
+      "id": "U02D09",
+      "unit": 2,
+      "en": "We contact you if anything changes.",
+      "ja": "変更があればお客様に連絡します。"
+    },
+    {
+      "id": "U02D10",
+      "unit": 2,
+      "en": "You receive the details by email.",
+      "ja": "詳細はメールで届きます。"
+    },
+    {
+      "id": "U03D01",
+      "unit": 3,
+      "en": "Do you have another phone with you?",
+      "ja": "ほかの電話もお持ちですか。"
+    },
+    {
+      "id": "U03D02",
+      "unit": 3,
+      "en": "Does your current SIM still work?",
+      "ja": "現在のSIMはまだ使えますか。"
+    },
+    {
+      "id": "U03D03",
+      "unit": 3,
+      "en": "Do you want a printed estimate?",
+      "ja": "紙のお見積もりをご希望ですか。"
+    },
+    {
+      "id": "U03D04",
+      "unit": 3,
+      "en": "Do you use Wi-Fi at home?",
+      "ja": "自宅ではWi-Fiを使いますか。"
+    },
+    {
+      "id": "U03D05",
+      "unit": 3,
+      "en": "Does the app show an error?",
+      "ja": "アプリにエラーが表示されますか。"
+    },
+    {
+      "id": "U03D06",
+      "unit": 3,
+      "en": "Do you know your Rakuten ID?",
+      "ja": "楽天IDをご存じですか。"
+    },
+    {
+      "id": "U03D07",
+      "unit": 3,
+      "en": "Does the device have a SIM slot?",
+      "ja": "端末にSIMスロットはありますか。"
+    },
+    {
+      "id": "U03D08",
+      "unit": 3,
+      "en": "Do you need an explanation in English?",
+      "ja": "英語での説明が必要ですか。"
+    },
+    {
+      "id": "U03D09",
+      "unit": 3,
+      "en": "Do you have a payment card?",
+      "ja": "お支払い用のカードはお持ちですか。"
+    },
+    {
+      "id": "U03D10",
+      "unit": 3,
+      "en": "Does the phone connect to mobile data?",
+      "ja": "その端末はモバイルデータ通信につながりますか。"
+    },
+    {
+      "id": "U04D01",
+      "unit": 4,
+      "en": "Which carrier are you using now?",
+      "ja": "現在どの通信会社をお使いですか。"
+    },
+    {
+      "id": "U04D02",
+      "unit": 4,
+      "en": "What would you like to do today?",
+      "ja": "今日はどのようなお手続きをご希望ですか。"
+    },
+    {
+      "id": "U04D03",
+      "unit": 4,
+      "en": "How often do you call abroad?",
+      "ja": "海外にはどのくらい頻繁に電話しますか。"
+    },
+    {
+      "id": "U04D04",
+      "unit": 4,
+      "en": "Which phone model do you have?",
+      "ja": "お使いの端末の機種は何ですか。"
+    },
+    {
+      "id": "U04D05",
+      "unit": 4,
+      "en": "How many devices will you use?",
+      "ja": "何台の端末を使用しますか。"
+    },
+    {
+      "id": "U04D06",
+      "unit": 4,
+      "en": "When would you like to activate the SIM?",
+      "ja": "いつSIMを開通させたいですか。"
+    },
+    {
+      "id": "U04D07",
+      "unit": 4,
+      "en": "Why would you like to switch carriers?",
+      "ja": "通信会社を変更したい理由は何ですか。"
+    },
+    {
+      "id": "U04D08",
+      "unit": 4,
+      "en": "How do you usually pay your bill?",
+      "ja": "普段どのように料金を支払っていますか。"
+    },
+    {
+      "id": "U04D09",
+      "unit": 4,
+      "en": "Which part would you like me to explain?",
+      "ja": "どの部分を説明してほしいですか。"
+    },
+    {
+      "id": "U04D10",
+      "unit": 4,
+      "en": "Where did you find this campaign?",
+      "ja": "このキャンペーンをどこで知りましたか。"
+    },
+    {
+      "id": "U05D01",
+      "unit": 5,
+      "en": "We can check compatibility here.",
+      "ja": "こちらで対応状況を確認できます。"
+    },
+    {
+      "id": "U05D02",
+      "unit": 5,
+      "en": "You can review the details later.",
+      "ja": "詳細は後で確認できます。"
+    },
+    {
+      "id": "U05D03",
+      "unit": 5,
+      "en": "Can I check your phone settings?",
+      "ja": "端末の設定を確認してもよろしいですか。"
+    },
+    {
+      "id": "U05D04",
+      "unit": 5,
+      "en": "You cannot use this eSIM on every device.",
+      "ja": "このeSIMはすべての端末で使えるわけではありません。"
+    },
+    {
+      "id": "U05D05",
+      "unit": 5,
+      "en": "We can compare the monthly estimates.",
+      "ja": "月額見積もりを比較できます。"
+    },
+    {
+      "id": "U05D06",
+      "unit": 5,
+      "en": "Can you see the verification screen?",
+      "ja": "認証画面は見えていますか。"
+    },
+    {
+      "id": "U05D07",
+      "unit": 5,
+      "en": "You can ask questions at any time.",
+      "ja": "いつでもご質問ください。"
+    },
+    {
+      "id": "U05D08",
+      "unit": 5,
+      "en": "I can walk you through the steps.",
+      "ja": "手順を順番にご案内できます。"
+    },
+    {
+      "id": "U05D09",
+      "unit": 5,
+      "en": "We cannot promise campaign points in advance.",
+      "ja": "キャンペーンのポイントを事前に確約することはできません。"
+    },
+    {
+      "id": "U05D10",
+      "unit": 5,
+      "en": "Can you try opening the app again?",
+      "ja": "もう一度アプリを開いていただけますか。"
+    },
+    {
+      "id": "U06D01",
+      "unit": 6,
+      "en": "Could you spell your last name?",
+      "ja": "名字のつづりを教えていただけますか。"
+    },
+    {
+      "id": "U06D02",
+      "unit": 6,
+      "en": "May I see the confirmation email?",
+      "ja": "確認メールを拝見してもよろしいですか。"
+    },
+    {
+      "id": "U06D03",
+      "unit": 6,
+      "en": "Could you scroll down a little?",
+      "ja": "少し下にスクロールしていただけますか。"
+    },
+    {
+      "id": "U06D04",
+      "unit": 6,
+      "en": "May I ask for your postal code?",
+      "ja": "郵便番号を伺ってもよろしいですか。"
+    },
+    {
+      "id": "U06D05",
+      "unit": 6,
+      "en": "Could you enter your password privately?",
+      "ja": "パスワードはお客様ご自身で入力いただけますか。"
+    },
+    {
+      "id": "U06D06",
+      "unit": 6,
+      "en": "May I show you the estimate?",
+      "ja": "見積もりをお見せしてもよろしいですか。"
+    },
+    {
+      "id": "U06D07",
+      "unit": 6,
+      "en": "Could you check the spelling of your name?",
+      "ja": "お名前のつづりをご確認いただけますか。"
+    },
+    {
+      "id": "U06D08",
+      "unit": 6,
+      "en": "May I confirm the date of birth?",
+      "ja": "生年月日を確認してもよろしいですか。"
+    },
+    {
+      "id": "U06D09",
+      "unit": 6,
+      "en": "Could you open your email inbox?",
+      "ja": "メールの受信箱を開いていただけますか。"
+    },
+    {
+      "id": "U06D10",
+      "unit": 6,
+      "en": "May I check the device compatibility list?",
+      "ja": "端末の対応一覧を確認してもよろしいですか。"
+    },
+    {
+      "id": "U07D01",
+      "unit": 7,
+      "en": "Would you like to start today?",
+      "ja": "本日お手続きを始めますか。"
+    },
+    {
+      "id": "U07D02",
+      "unit": 7,
+      "en": "Would you like a larger data allowance?",
+      "ja": "より多くのデータ通信量をご希望ですか。"
+    },
+    {
+      "id": "U07D03",
+      "unit": 7,
+      "en": "Would you like me to repeat that?",
+      "ja": "もう一度説明しましょうか。"
+    },
+    {
+      "id": "U07D04",
+      "unit": 7,
+      "en": "Would you prefer to pay by card?",
+      "ja": "カード払いをご希望ですか。"
+    },
+    {
+      "id": "U07D05",
+      "unit": 7,
+      "en": "Would you like to review the fees first?",
+      "ja": "先に料金を確認しますか。"
+    },
+    {
+      "id": "U07D06",
+      "unit": 7,
+      "en": "Would you like to check another device?",
+      "ja": "ほかの端末も確認したいですか。"
+    },
+    {
+      "id": "U07D07",
+      "unit": 7,
+      "en": "Would you like to keep this document?",
+      "ja": "この書類をお持ち帰りになりますか。"
+    },
+    {
+      "id": "U07D08",
+      "unit": 7,
+      "en": "Would you like help with activation?",
+      "ja": "開通のお手伝いをご希望ですか。"
+    },
+    {
+      "id": "U07D09",
+      "unit": 7,
+      "en": "Would you prefer a digital receipt?",
+      "ja": "電子領収書をご希望ですか。"
+    },
+    {
+      "id": "U07D10",
+      "unit": 7,
+      "en": "Would you like some time to decide?",
+      "ja": "ご検討のお時間が必要ですか。"
+    },
+    {
+      "id": "U08D01",
+      "unit": 8,
+      "en": "Please open the settings menu.",
+      "ja": "設定メニューを開いてください。"
+    },
+    {
+      "id": "U08D02",
+      "unit": 8,
+      "en": "Let me check the current offer.",
+      "ja": "現在の特典を確認します。"
+    },
+    {
+      "id": "U08D03",
+      "unit": 8,
+      "en": "Please enter the code shown on your screen.",
+      "ja": "画面に表示されたコードを入力してください。"
+    },
+    {
+      "id": "U08D04",
+      "unit": 8,
+      "en": "Let me help you with the next step.",
+      "ja": "次の手順をお手伝いします。"
+    },
+    {
+      "id": "U08D05",
+      "unit": 8,
+      "en": "Please read this section carefully.",
+      "ja": "この部分をよくお読みください。"
+    },
+    {
+      "id": "U08D06",
+      "unit": 8,
+      "en": "Let me confirm your preferred SIM type.",
+      "ja": "ご希望のSIM方式を確認します。"
+    },
+    {
+      "id": "U08D07",
+      "unit": 8,
+      "en": "Please keep your phone nearby.",
+      "ja": "端末をお手元にご用意ください。"
+    },
+    {
+      "id": "U08D08",
+      "unit": 8,
+      "en": "Let me explain the difference.",
+      "ja": "違いを説明します。"
+    },
+    {
+      "id": "U08D09",
+      "unit": 8,
+      "en": "Please make sure the amount is correct.",
+      "ja": "金額が正しいかご確認ください。"
+    },
+    {
+      "id": "U08D10",
+      "unit": 8,
+      "en": "Let me know when the screen changes.",
+      "ja": "画面が変わったらお知らせください。"
+    },
+    {
+      "id": "U09D01",
+      "unit": 9,
+      "en": "The first price tier covers three gigabytes.",
+      "ja": "最初の料金段階は3GBまでです。"
+    },
+    {
+      "id": "U09D02",
+      "unit": 9,
+      "en": "The second tier covers up to twenty gigabytes.",
+      "ja": "2段階目は20GBまでです。"
+    },
+    {
+      "id": "U09D03",
+      "unit": 9,
+      "en": "The final tier starts above twenty gigabytes.",
+      "ja": "最後の料金段階は20GBを超えた場合です。"
+    },
+    {
+      "id": "U09D04",
+      "unit": 9,
+      "en": "The displayed estimate includes tax.",
+      "ja": "表示された見積もりは税込みです。"
+    },
+    {
+      "id": "U09D05",
+      "unit": 9,
+      "en": "Extra options can increase the total.",
+      "ja": "追加オプションで合計額が増えることがあります。"
+    },
+    {
+      "id": "U09D06",
+      "unit": 9,
+      "en": "Data usage is measured every month.",
+      "ja": "データ使用量は毎月計測されます。"
+    },
+    {
+      "id": "U09D07",
+      "unit": 9,
+      "en": "Please check the billing period.",
+      "ja": "請求対象の期間をご確認ください。"
+    },
+    {
+      "id": "U09D08",
+      "unit": 9,
+      "en": "The final amount depends on your usage.",
+      "ja": "最終金額は使用量によって変わります。"
+    },
+    {
+      "id": "U09D09",
+      "unit": 9,
+      "en": "The monthly charge may differ each month.",
+      "ja": "月額料金は月によって異なる場合があります。"
+    },
+    {
+      "id": "U09D10",
+      "unit": 9,
+      "en": "Let us review each line of the estimate.",
+      "ja": "見積もりの各項目を確認しましょう。"
+    },
+    {
+      "id": "U10D01",
+      "unit": 10,
+      "en": "This device accepts a removable SIM card.",
+      "ja": "この端末は取り外し可能なSIMカードに対応しています。"
+    },
+    {
+      "id": "U10D02",
+      "unit": 10,
+      "en": "We need one card for this line.",
+      "ja": "この回線にはカードが1枚必要です。"
+    },
+    {
+      "id": "U10D03",
+      "unit": 10,
+      "en": "Your phone supports an eSIM profile.",
+      "ja": "お使いの端末はeSIMプロファイルに対応しています。"
+    },
+    {
+      "id": "U10D04",
+      "unit": 10,
+      "en": "Two devices are listed on the account.",
+      "ja": "アカウントには端末が2台登録されています。"
+    },
+    {
+      "id": "U10D05",
+      "unit": 10,
+      "en": "Please check the SIM card size.",
+      "ja": "SIMカードのサイズをご確認ください。"
+    },
+    {
+      "id": "U10D06",
+      "unit": 10,
+      "en": "The device has no physical SIM slot.",
+      "ja": "その端末には物理SIMスロットがありません。"
+    },
+    {
+      "id": "U10D07",
+      "unit": 10,
+      "en": "You can manage several lines online.",
+      "ja": "複数の回線をオンラインで管理できます。"
+    },
+    {
+      "id": "U10D08",
+      "unit": 10,
+      "en": "This option requires a compatible model.",
+      "ja": "このオプションには対応機種が必要です。"
+    },
+    {
+      "id": "U10D09",
+      "unit": 10,
+      "en": "We will confirm the phone model.",
+      "ja": "端末の機種を確認します。"
+    },
+    {
+      "id": "U10D10",
+      "unit": 10,
+      "en": "Please keep the SIM card safely.",
+      "ja": "SIMカードは大切に保管してください。"
+    },
+    {
+      "id": "U11D01",
+      "unit": 11,
+      "en": "An eSIM may be faster to set up.",
+      "ja": "eSIMの方が設定が早い場合があります。"
+    },
+    {
+      "id": "U11D02",
+      "unit": 11,
+      "en": "This option costs less per month.",
+      "ja": "このオプションの方が月額は安いです。"
+    },
+    {
+      "id": "U11D03",
+      "unit": 11,
+      "en": "The other model has a larger screen.",
+      "ja": "もう一方の機種は画面が大きいです。"
+    },
+    {
+      "id": "U11D04",
+      "unit": 11,
+      "en": "Let us find the easier setup method.",
+      "ja": "より簡単な設定方法を探しましょう。"
+    },
+    {
+      "id": "U11D05",
+      "unit": 11,
+      "en": "This plan may fit your needs better.",
+      "ja": "このプランの方がご希望に合うかもしれません。"
+    },
+    {
+      "id": "U11D06",
+      "unit": 11,
+      "en": "The total price is more important than the discount alone.",
+      "ja": "割引だけでなく合計額の方が重要です。"
+    },
+    {
+      "id": "U11D07",
+      "unit": 11,
+      "en": "The physical SIM is easier to move between some phones.",
+      "ja": "一部の端末間では物理SIMの方が移しやすいです。"
+    },
+    {
+      "id": "U11D08",
+      "unit": 11,
+      "en": "One method is not always better for everyone.",
+      "ja": "一つの方法が全員に最適とは限りません。"
+    },
+    {
+      "id": "U11D09",
+      "unit": 11,
+      "en": "Which estimate looks more suitable?",
+      "ja": "どちらの見積もりがより適切に見えますか。"
+    },
+    {
+      "id": "U11D10",
+      "unit": 11,
+      "en": "The older phone may be less compatible.",
+      "ja": "古い端末は対応状況が限られる場合があります。"
+    },
+    {
+      "id": "U12D01",
+      "unit": 12,
+      "en": "The first tier includes up to three gigabytes.",
+      "ja": "最初の料金段階には3GBまで含まれます。"
+    },
+    {
+      "id": "U12D02",
+      "unit": 12,
+      "en": "Usage above twenty gigabytes falls into the highest tier.",
+      "ja": "20GBを超える使用量は最高段階になります。"
+    },
+    {
+      "id": "U12D03",
+      "unit": 12,
+      "en": "Each line has its own monthly usage.",
+      "ja": "各回線にはそれぞれ月間使用量があります。"
+    },
+    {
+      "id": "U12D04",
+      "unit": 12,
+      "en": "The discount applies to each eligible line.",
+      "ja": "割引は対象の各回線に適用されます。"
+    },
+    {
+      "id": "U12D05",
+      "unit": 12,
+      "en": "One gigabyte is not the same as one megabyte.",
+      "ja": "1GBは1MBと同じではありません。"
+    },
+    {
+      "id": "U12D06",
+      "unit": 12,
+      "en": "The amount can change from month to month.",
+      "ja": "金額は月によって変わります。"
+    },
+    {
+      "id": "U12D07",
+      "unit": 12,
+      "en": "Please check how much data remains.",
+      "ja": "残りのデータ量をご確認ください。"
+    },
+    {
+      "id": "U12D08",
+      "unit": 12,
+      "en": "Every additional option has its own conditions.",
+      "ja": "追加オプションにはそれぞれ条件があります。"
+    },
+    {
+      "id": "U12D09",
+      "unit": 12,
+      "en": "Not every call is covered by the same rule.",
+      "ja": "すべての通話に同じ条件が適用されるわけではありません。"
+    },
+    {
+      "id": "U12D10",
+      "unit": 12,
+      "en": "A single application can include several steps.",
+      "ja": "一つの申し込みでも複数の手順があります。"
+    },
+    {
+      "id": "U13D01",
+      "unit": 13,
+      "en": "I am checking the account details now.",
+      "ja": "ただいまアカウントの詳細を確認しています。"
+    },
+    {
+      "id": "U13D02",
+      "unit": 13,
+      "en": "The phone is connecting to the network.",
+      "ja": "端末がネットワークに接続しています。"
+    },
+    {
+      "id": "U13D03",
+      "unit": 13,
+      "en": "We are reviewing the required documents.",
+      "ja": "必要書類を確認しています。"
+    },
+    {
+      "id": "U13D04",
+      "unit": 13,
+      "en": "Your application is being verified.",
+      "ja": "お申し込みは現在確認中です。"
+    },
+    {
+      "id": "U13D05",
+      "unit": 13,
+      "en": "I am waiting for the confirmation message.",
+      "ja": "確認メッセージを待っています。"
+    },
+    {
+      "id": "U13D06",
+      "unit": 13,
+      "en": "The screen is loading the next page.",
+      "ja": "画面が次のページを読み込んでいます。"
+    },
+    {
+      "id": "U13D07",
+      "unit": 13,
+      "en": "We are comparing the available options.",
+      "ja": "利用可能なオプションを比較しています。"
+    },
+    {
+      "id": "U13D08",
+      "unit": 13,
+      "en": "The system is updating your information.",
+      "ja": "システムがお客様の情報を更新しています。"
+    },
+    {
+      "id": "U13D09",
+      "unit": 13,
+      "en": "I am checking whether the device is supported.",
+      "ja": "その端末が対応しているか確認しています。"
+    },
+    {
+      "id": "U13D10",
+      "unit": 13,
+      "en": "The app is asking for your permission.",
+      "ja": "アプリが許可を求めています。"
+    },
+    {
+      "id": "U14D01",
+      "unit": 14,
+      "en": "I will explain the activation process.",
+      "ja": "開通手続きについて説明します。"
+    },
+    {
+      "id": "U14D02",
+      "unit": 14,
+      "en": "We will check the connection together.",
+      "ja": "一緒に通信接続を確認します。"
+    },
+    {
+      "id": "U14D03",
+      "unit": 14,
+      "en": "You will receive a message when the process finishes.",
+      "ja": "手続きが終わるとメッセージが届きます。"
+    },
+    {
+      "id": "U14D04",
+      "unit": 14,
+      "en": "I will show you the billing details.",
+      "ja": "請求の詳細をお見せします。"
+    },
+    {
+      "id": "U14D05",
+      "unit": 14,
+      "en": "We will confirm the document requirements.",
+      "ja": "書類の要件を確認します。"
+    },
+    {
+      "id": "U14D06",
+      "unit": 14,
+      "en": "I will help you select the SIM type.",
+      "ja": "SIM方式の選択をお手伝いします。"
+    },
+    {
+      "id": "U14D07",
+      "unit": 14,
+      "en": "You may need to restart the phone afterward.",
+      "ja": "その後、端末の再起動が必要な場合があります。"
+    },
+    {
+      "id": "U14D08",
+      "unit": 14,
+      "en": "The final amount will appear before confirmation.",
+      "ja": "確定前に最終金額が表示されます。"
+    },
+    {
+      "id": "U14D09",
+      "unit": 14,
+      "en": "We will review the terms before submitting.",
+      "ja": "送信前に規約を確認します。"
+    },
+    {
+      "id": "U14D10",
+      "unit": 14,
+      "en": "I will check the offer before making a promise.",
+      "ja": "特典について確約する前に条件を確認します。"
+    },
+    {
+      "id": "U15D01",
+      "unit": 15,
+      "en": "You need to bring an accepted ID.",
+      "ja": "利用可能な本人確認書類を持参する必要があります。"
+    },
+    {
+      "id": "U15D02",
+      "unit": 15,
+      "en": "You must review the important information.",
+      "ja": "重要事項をご確認いただく必要があります。"
+    },
+    {
+      "id": "U15D03",
+      "unit": 15,
+      "en": "We have to verify the account holder.",
+      "ja": "契約名義人を確認しなければなりません。"
+    },
+    {
+      "id": "U15D04",
+      "unit": 15,
+      "en": "You do not have to buy a new device.",
+      "ja": "新しい端末を買う必要はありません。"
+    },
+    {
+      "id": "U15D05",
+      "unit": 15,
+      "en": "Please make sure your name matches the application.",
+      "ja": "お名前が申込内容と一致しているか確認してください。"
+    },
+    {
+      "id": "U15D06",
+      "unit": 15,
+      "en": "You need to provide valid payment information.",
+      "ja": "有効なお支払い情報をご用意いただく必要があります。"
+    },
+    {
+      "id": "U15D07",
+      "unit": 15,
+      "en": "We must explain the optional charges.",
+      "ja": "オプションの料金について説明する必要があります。"
+    },
+    {
+      "id": "U15D08",
+      "unit": 15,
+      "en": "You need to confirm the final amount.",
+      "ja": "最終金額を確認していただく必要があります。"
+    },
+    {
+      "id": "U15D09",
+      "unit": 15,
+      "en": "You must not share your password with staff.",
+      "ja": "パスワードをスタッフに伝えてはいけません。"
+    },
+    {
+      "id": "U15D10",
+      "unit": 15,
+      "en": "We have to check the official campaign requirements.",
+      "ja": "公式キャンペーンの条件を確認しなければなりません。"
+    },
+    {
+      "id": "U16D01",
+      "unit": 16,
+      "en": "If your device is supported, we can proceed.",
+      "ja": "端末が対応していれば手続きを進められます。"
+    },
+    {
+      "id": "U16D02",
+      "unit": 16,
+      "en": "If you want to keep your number, we will check MNP.",
+      "ja": "電話番号を維持したい場合はMNPを確認します。"
+    },
+    {
+      "id": "U16D03",
+      "unit": 16,
+      "en": "If the message arrives, please tell me.",
+      "ja": "メッセージが届いたら教えてください。"
+    },
+    {
+      "id": "U16D04",
+      "unit": 16,
+      "en": "If the network is unavailable, we can try Wi-Fi.",
+      "ja": "ネットワークが使えない場合はWi-Fiを試せます。"
+    },
+    {
+      "id": "U16D05",
+      "unit": 16,
+      "en": "If the price changes, we will explain why.",
+      "ja": "料金が変わる場合は理由を説明します。"
+    },
+    {
+      "id": "U16D06",
+      "unit": 16,
+      "en": "If you have a question, please stop me.",
+      "ja": "質問があれば途中でもお声がけください。"
+    },
+    {
+      "id": "U16D07",
+      "unit": 16,
+      "en": "If the device is not supported, we will discuss alternatives.",
+      "ja": "端末が非対応なら代替案をご案内します。"
+    },
+    {
+      "id": "U16D08",
+      "unit": 16,
+      "en": "If the offer has ended, it cannot be applied.",
+      "ja": "特典が終了していれば適用できません。"
+    },
+    {
+      "id": "U16D09",
+      "unit": 16,
+      "en": "If everything looks correct, we can continue.",
+      "ja": "すべて正しければ続けられます。"
+    },
+    {
+      "id": "U16D10",
+      "unit": 16,
+      "en": "If you need more time, you can decide later.",
+      "ja": "お時間が必要なら後から決めていただけます。"
+    },
+    {
+      "id": "U17D01",
+      "unit": 17,
+      "en": "Have you completed the identity check?",
+      "ja": "本人確認は完了しましたか。"
+    },
+    {
+      "id": "U17D02",
+      "unit": 17,
+      "en": "Your application has been received.",
+      "ja": "お申し込みは受理されました。"
+    },
+    {
+      "id": "U17D03",
+      "unit": 17,
+      "en": "The code has already expired.",
+      "ja": "そのコードはすでに期限切れです。"
+    },
+    {
+      "id": "U17D04",
+      "unit": 17,
+      "en": "I have checked your device model.",
+      "ja": "端末の機種を確認しました。"
+    },
+    {
+      "id": "U17D05",
+      "unit": 17,
+      "en": "We have not received the confirmation yet.",
+      "ja": "確認はまだ届いていません。"
+    },
+    {
+      "id": "U17D06",
+      "unit": 17,
+      "en": "Have you activated this SIM before?",
+      "ja": "このSIMを以前に開通させたことはありますか。"
+    },
+    {
+      "id": "U17D07",
+      "unit": 17,
+      "en": "Your account has already been created.",
+      "ja": "アカウントはすでに作成されています。"
+    },
+    {
+      "id": "U17D08",
+      "unit": 17,
+      "en": "Have you read the terms and conditions?",
+      "ja": "利用規約はお読みになりましたか。"
+    },
+    {
+      "id": "U17D09",
+      "unit": 17,
+      "en": "The app has finished downloading.",
+      "ja": "アプリのダウンロードが完了しました。"
+    },
+    {
+      "id": "U17D10",
+      "unit": 17,
+      "en": "We have not started the transfer yet.",
+      "ja": "乗り換え手続きはまだ開始していません。"
+    },
+    {
+      "id": "U18D01",
+      "unit": 18,
+      "en": "Did you have a connection yesterday?",
+      "ja": "昨日は通信できましたか。"
+    },
+    {
+      "id": "U18D02",
+      "unit": 18,
+      "en": "When did the error first appear?",
+      "ja": "エラーが最初に表示されたのはいつですか。"
+    },
+    {
+      "id": "U18D03",
+      "unit": 18,
+      "en": "I checked the model earlier today.",
+      "ja": "本日先ほど機種を確認しました。"
+    },
+    {
+      "id": "U18D04",
+      "unit": 18,
+      "en": "Have you changed phones recently?",
+      "ja": "最近端末を変更しましたか。"
+    },
+    {
+      "id": "U18D05",
+      "unit": 18,
+      "en": "The confirmation email arrived last night.",
+      "ja": "昨夜確認メールが届きました。"
+    },
+    {
+      "id": "U18D06",
+      "unit": 18,
+      "en": "Did you select this option before?",
+      "ja": "以前このオプションを選択しましたか。"
+    },
+    {
+      "id": "U18D07",
+      "unit": 18,
+      "en": "The app worked before the update.",
+      "ja": "更新前はアプリが動作していました。"
+    },
+    {
+      "id": "U18D08",
+      "unit": 18,
+      "en": "Did you enter a different address?",
+      "ja": "別の住所を入力しましたか。"
+    },
+    {
+      "id": "U18D09",
+      "unit": 18,
+      "en": "Your previous carrier charged a separate fee.",
+      "ja": "以前の通信会社では別の料金がかかりました。"
+    },
+    {
+      "id": "U18D10",
+      "unit": 18,
+      "en": "We reviewed the documents yesterday.",
+      "ja": "昨日書類を確認しました。"
+    },
+    {
+      "id": "U19D01",
+      "unit": 19,
+      "en": "The estimated cost is shown on the screen.",
+      "ja": "見積もり金額は画面に表示されています。"
+    },
+    {
+      "id": "U19D02",
+      "unit": 19,
+      "en": "The application must be approved before activation.",
+      "ja": "開通前に申し込みが承認される必要があります。"
+    },
+    {
+      "id": "U19D03",
+      "unit": 19,
+      "en": "The discount is applied to eligible lines only.",
+      "ja": "割引は対象の回線にのみ適用されます。"
+    },
+    {
+      "id": "U19D04",
+      "unit": 19,
+      "en": "The SIM card will be delivered separately.",
+      "ja": "SIMカードは別途配送されます。"
+    },
+    {
+      "id": "U19D05",
+      "unit": 19,
+      "en": "The service is provided under the official terms.",
+      "ja": "サービスは公式規約に基づいて提供されます。"
+    },
+    {
+      "id": "U19D06",
+      "unit": 19,
+      "en": "The payment method has been confirmed.",
+      "ja": "支払方法は確認済みです。"
+    },
+    {
+      "id": "U19D07",
+      "unit": 19,
+      "en": "The code was sent to your email address.",
+      "ja": "コードはメールアドレスに送信されました。"
+    },
+    {
+      "id": "U19D08",
+      "unit": 19,
+      "en": "The final amount is calculated after usage is measured.",
+      "ja": "最終金額は使用量の計測後に算出されます。"
+    },
+    {
+      "id": "U19D09",
+      "unit": 19,
+      "en": "The phone number is transferred through MNP.",
+      "ja": "電話番号はMNPを通じて引き継がれます。"
+    },
+    {
+      "id": "U19D10",
+      "unit": 19,
+      "en": "Additional fees are listed separately.",
+      "ja": "追加料金は別に記載されています。"
+    },
+    {
+      "id": "U20D01",
+      "unit": 20,
+      "en": "Could you tell me your preferred payment method?",
+      "ja": "ご希望のお支払い方法を教えていただけますか。"
+    },
+    {
+      "id": "U20D02",
+      "unit": 20,
+      "en": "Do you know whether the device is unlocked?",
+      "ja": "その端末のSIMロックが解除されているかご存じですか。"
+    },
+    {
+      "id": "U20D03",
+      "unit": 20,
+      "en": "May I ask how often you travel abroad?",
+      "ja": "海外にどのくらい頻繁に渡航されるか伺ってもよろしいですか。"
+    },
+    {
+      "id": "U20D04",
+      "unit": 20,
+      "en": "Please tell me which message you received.",
+      "ja": "どのメッセージが届いたか教えてください。"
+    },
+    {
+      "id": "U20D05",
+      "unit": 20,
+      "en": "Could you explain what happened before the error?",
+      "ja": "エラー前に何が起きたか教えていただけますか。"
+    },
+    {
+      "id": "U20D06",
+      "unit": 20,
+      "en": "I will check whether the payment was accepted.",
+      "ja": "支払いが受け付けられたか確認します。"
+    },
+    {
+      "id": "U20D07",
+      "unit": 20,
+      "en": "Would you mind telling me which SIM you use?",
+      "ja": "どのSIMを使っているか教えていただけますか。"
+    },
+    {
+      "id": "U20D08",
+      "unit": 20,
+      "en": "Could you confirm when the contract started?",
+      "ja": "契約の開始時期をご確認いただけますか。"
+    },
+    {
+      "id": "U20D09",
+      "unit": 20,
+      "en": "Please tell me whether the app opens correctly.",
+      "ja": "アプリが正常に開くか教えてください。"
+    },
+    {
+      "id": "U20D10",
+      "unit": 20,
+      "en": "I need to know which option you selected.",
+      "ja": "どのオプションを選んだか確認する必要があります。"
+    },
+    {
+      "id": "U21D01",
+      "unit": 21,
+      "en": "Your appointment is at two in the afternoon.",
+      "ja": "ご予約は午後2時です。"
+    },
+    {
+      "id": "U21D02",
+      "unit": 21,
+      "en": "Please come back after lunch.",
+      "ja": "昼食後にお戻りください。"
+    },
+    {
+      "id": "U21D03",
+      "unit": 21,
+      "en": "We can review the details at this counter.",
+      "ja": "このカウンターで詳細を確認できます。"
+    },
+    {
+      "id": "U21D04",
+      "unit": 21,
+      "en": "The deadline is shown on the campaign page.",
+      "ja": "締切日はキャンペーンページに表示されています。"
+    },
+    {
+      "id": "U21D05",
+      "unit": 21,
+      "en": "The fee appears in the monthly statement.",
+      "ja": "料金は月次明細に表示されます。"
+    },
+    {
+      "id": "U21D06",
+      "unit": 21,
+      "en": "Please enter your address in this field.",
+      "ja": "こちらの欄に住所を入力してください。"
+    },
+    {
+      "id": "U21D07",
+      "unit": 21,
+      "en": "We will contact you by email.",
+      "ja": "メールでご連絡します。"
+    },
+    {
+      "id": "U21D08",
+      "unit": 21,
+      "en": "The device is available in this store today.",
+      "ja": "この端末は本日この店舗で取り扱いがあります。"
+    },
+    {
+      "id": "U21D09",
+      "unit": 21,
+      "en": "The code is valid until the stated date.",
+      "ja": "コードは記載の日付まで有効です。"
+    },
+    {
+      "id": "U21D10",
+      "unit": 21,
+      "en": "The verification takes place before activation.",
+      "ja": "本人確認は開通前に行われます。"
+    },
+    {
+      "id": "U22D01",
+      "unit": 22,
+      "en": "We cannot proceed because the information is incomplete.",
+      "ja": "情報が不十分なため手続きを進められません。"
+    },
+    {
+      "id": "U22D02",
+      "unit": 22,
+      "en": "The device works, but some features may be limited.",
+      "ja": "端末は動作しますが一部機能が制限される場合があります。"
+    },
+    {
+      "id": "U22D03",
+      "unit": 22,
+      "en": "We will check the account so we can explain the issue.",
+      "ja": "問題を説明できるようにアカウントを確認します。"
+    },
+    {
+      "id": "U22D04",
+      "unit": 22,
+      "en": "The app is open, but the confirmation has not arrived.",
+      "ja": "アプリは開いていますが確認が届いていません。"
+    },
+    {
+      "id": "U22D05",
+      "unit": 22,
+      "en": "The offer is attractive, but we must check the conditions.",
+      "ja": "特典は魅力的ですが条件の確認が必要です。"
+    },
+    {
+      "id": "U22D06",
+      "unit": 22,
+      "en": "The card is valid, so we can continue the payment process.",
+      "ja": "カードは有効なので支払い手続きを続けられます。"
+    },
+    {
+      "id": "U22D07",
+      "unit": 22,
+      "en": "The phone supports eSIM, but activation still takes time.",
+      "ja": "端末はeSIMに対応していますが開通には時間がかかります。"
+    },
+    {
+      "id": "U22D08",
+      "unit": 22,
+      "en": "We will explain the charges because they may vary.",
+      "ja": "料金は変動する場合があるので説明します。"
+    },
+    {
+      "id": "U22D09",
+      "unit": 22,
+      "en": "You can compare the options before you decide.",
+      "ja": "決める前にオプションを比較できます。"
+    },
+    {
+      "id": "U22D10",
+      "unit": 22,
+      "en": "The screen is small, so let me zoom in.",
+      "ja": "画面が小さいので拡大します。"
+    },
+    {
+      "id": "U23D01",
+      "unit": 23,
+      "en": "Please check the plan before you submit the form.",
+      "ja": "フォームを送信する前にプランを確認してください。"
+    },
+    {
+      "id": "U23D02",
+      "unit": 23,
+      "en": "After you open the link, sign in to your account.",
+      "ja": "リンクを開いた後にアカウントへログインしてください。"
+    },
+    {
+      "id": "U23D03",
+      "unit": 23,
+      "en": "When the code arrives, enter it on this screen.",
+      "ja": "コードが届いたらこの画面に入力してください。"
+    },
+    {
+      "id": "U23D04",
+      "unit": 23,
+      "en": "Before we continue, let us review the total.",
+      "ja": "続ける前に合計額を確認しましょう。"
+    },
+    {
+      "id": "U23D05",
+      "unit": 23,
+      "en": "After activation, test your mobile data connection.",
+      "ja": "開通後にモバイルデータ通信をテストしてください。"
+    },
+    {
+      "id": "U23D06",
+      "unit": 23,
+      "en": "When the app shows the result, please tell me.",
+      "ja": "アプリに結果が表示されたら教えてください。"
+    },
+    {
+      "id": "U23D07",
+      "unit": 23,
+      "en": "Please save the document before closing the page.",
+      "ja": "ページを閉じる前に書類を保存してください。"
+    },
+    {
+      "id": "U23D08",
+      "unit": 23,
+      "en": "After the transfer is completed, restart the device if needed.",
+      "ja": "乗り換え完了後、必要に応じて端末を再起動してください。"
+    },
+    {
+      "id": "U23D09",
+      "unit": 23,
+      "en": "Before choosing an option, check its monthly fee.",
+      "ja": "オプションを選ぶ前に月額料金を確認してください。"
+    },
+    {
+      "id": "U23D10",
+      "unit": 23,
+      "en": "When you finish reading, we can proceed.",
+      "ja": "読み終えたら次へ進めます。"
+    },
+    {
+      "id": "U24D01",
+      "unit": 24,
+      "en": "You can choose either a SIM card or an eSIM.",
+      "ja": "SIMカードかeSIMのどちらかを選べます。"
+    },
+    {
+      "id": "U24D02",
+      "unit": 24,
+      "en": "Both devices need compatibility checks.",
+      "ja": "どちらの端末も対応確認が必要です。"
+    },
+    {
+      "id": "U24D03",
+      "unit": 24,
+      "en": "Neither option is required today.",
+      "ja": "どちらのオプションも本日は必須ではありません。"
+    },
+    {
+      "id": "U24D04",
+      "unit": 24,
+      "en": "You may pay by either available method.",
+      "ja": "利用可能な支払い方法のどちらでも支払えます。"
+    },
+    {
+      "id": "U24D05",
+      "unit": 24,
+      "en": "Both the phone and the SIM must be supported.",
+      "ja": "端末とSIMの両方が対応している必要があります。"
+    },
+    {
+      "id": "U24D06",
+      "unit": 24,
+      "en": "Neither of these choices guarantees bonus points.",
+      "ja": "どちらの選択でもポイント付与を保証するものではありません。"
+    },
+    {
+      "id": "U24D07",
+      "unit": 24,
+      "en": "You can review both estimates.",
+      "ja": "両方の見積もりを確認できます。"
+    },
+    {
+      "id": "U24D08",
+      "unit": 24,
+      "en": "Either SIM type may work with a compatible device.",
+      "ja": "対応端末ならどちらのSIM方式も使える場合があります。"
+    },
+    {
+      "id": "U24D09",
+      "unit": 24,
+      "en": "Both items will appear on your statement.",
+      "ja": "両方の項目が明細に表示されます。"
+    },
+    {
+      "id": "U24D10",
+      "unit": 24,
+      "en": "Neither answer changes the official terms.",
+      "ja": "どちらの回答でも公式条件は変わりません。"
+    },
+    {
+      "id": "U25D01",
+      "unit": 25,
+      "en": "A person who uses the link may need to sign in.",
+      "ja": "紹介リンクを使用する人はログインが必要な場合があります。"
+    },
+    {
+      "id": "U25D02",
+      "unit": 25,
+      "en": "This is the page that lists the campaign rules.",
+      "ja": "こちらがキャンペーン条件を記載したページです。"
+    },
+    {
+      "id": "U25D03",
+      "unit": 25,
+      "en": "Customers who meet every requirement may receive points.",
+      "ja": "すべての要件を満たしたお客様はポイントを受け取れる場合があります。"
+    },
+    {
+      "id": "U25D04",
+      "unit": 25,
+      "en": "The QR code that you scanned opens the application page.",
+      "ja": "読み取ったQRコードから申込ページが開きます。"
+    },
+    {
+      "id": "U25D05",
+      "unit": 25,
+      "en": "People who apply too late may not qualify.",
+      "ja": "期限を過ぎて申し込んだ人は対象外となる場合があります。"
+    },
+    {
+      "id": "U25D06",
+      "unit": 25,
+      "en": "This is the offer that needs a separate entry.",
+      "ja": "こちらは別途エントリーが必要な特典です。"
+    },
+    {
+      "id": "U25D07",
+      "unit": 25,
+      "en": "The customer who referred you may also have conditions.",
+      "ja": "紹介者側にも条件がある場合があります。"
+    },
+    {
+      "id": "U25D08",
+      "unit": 25,
+      "en": "The email that you received contains the link.",
+      "ja": "届いたメールにリンクが含まれています。"
+    },
+    {
+      "id": "U25D09",
+      "unit": 25,
+      "en": "Customers who have questions can ask us first.",
+      "ja": "ご不明点があるお客様は先にご質問ください。"
+    },
+    {
+      "id": "U25D10",
+      "unit": 25,
+      "en": "This is the document that explains the requirements.",
+      "ja": "これが要件を説明する書類です。"
+    },
+    {
+      "id": "U26D01",
+      "unit": 26,
+      "en": "If all the requirements are met, the offer may apply.",
+      "ja": "すべての要件を満たせば特典が適用される場合があります。"
+    },
+    {
+      "id": "U26D02",
+      "unit": 26,
+      "en": "Unless you sign in, the process cannot continue.",
+      "ja": "ログインしない限り手続きは続けられません。"
+    },
+    {
+      "id": "U26D03",
+      "unit": 26,
+      "en": "Please check the deadline before joining the offer.",
+      "ja": "特典に申し込む前に期限を確認してください。"
+    },
+    {
+      "id": "U26D04",
+      "unit": 26,
+      "en": "If the link has expired, ask for a new one.",
+      "ja": "リンクの期限が切れていたら新しいものを依頼してください。"
+    },
+    {
+      "id": "U26D05",
+      "unit": 26,
+      "en": "Unless the terms say otherwise, we follow the standard rule.",
+      "ja": "規約に別段の記載がなければ通常の規則に従います。"
+    },
+    {
+      "id": "U26D06",
+      "unit": 26,
+      "en": "If you do not qualify, the points will not be awarded.",
+      "ja": "対象外の場合、ポイントは付与されません。"
+    },
+    {
+      "id": "U26D07",
+      "unit": 26,
+      "en": "The benefit is not available unless the conditions are satisfied.",
+      "ja": "条件を満たさない限り特典は利用できません。"
+    },
+    {
+      "id": "U26D08",
+      "unit": 26,
+      "en": "If you have already applied, let us check the rules.",
+      "ja": "すでに申し込んでいる場合は条件を確認しましょう。"
+    },
+    {
+      "id": "U26D09",
+      "unit": 26,
+      "en": "Unless the campaign is active, no benefit can be applied.",
+      "ja": "キャンペーンが有効でない限り特典は適用できません。"
+    },
+    {
+      "id": "U26D10",
+      "unit": 26,
+      "en": "If the application is complete, we can check the next step.",
+      "ja": "申し込みが完了していれば次の手順を確認できます。"
+    },
+    {
+      "id": "U27D01",
+      "unit": 27,
+      "en": "The discount may not apply to your account.",
+      "ja": "お客様のアカウントには割引が適用されない場合があります。"
+    },
+    {
+      "id": "U27D02",
+      "unit": 27,
+      "en": "The offer is subject to additional requirements.",
+      "ja": "特典には追加条件が適用されます。"
+    },
+    {
+      "id": "U27D03",
+      "unit": 27,
+      "en": "The points might arrive at a later date.",
+      "ja": "ポイントは後日付与される可能性があります。"
+    },
+    {
+      "id": "U27D04",
+      "unit": 27,
+      "en": "Some devices may not support this feature.",
+      "ja": "一部の端末はこの機能に対応しない場合があります。"
+    },
+    {
+      "id": "U27D05",
+      "unit": 27,
+      "en": "Campaign rules can change without notice.",
+      "ja": "キャンペーン条件は予告なく変更されることがあります。"
+    },
+    {
+      "id": "U27D06",
+      "unit": 27,
+      "en": "We cannot guarantee the exact point amount.",
+      "ja": "正確なポイント数を保証することはできません。"
+    },
+    {
+      "id": "U27D07",
+      "unit": 27,
+      "en": "This option may require a separate application.",
+      "ja": "このオプションには別の申し込みが必要な場合があります。"
+    },
+    {
+      "id": "U27D08",
+      "unit": 27,
+      "en": "The connection might be slower in some areas.",
+      "ja": "一部の地域では通信速度が遅くなる場合があります。"
+    },
+    {
+      "id": "U27D09",
+      "unit": 27,
+      "en": "Availability depends on the device model.",
+      "ja": "利用可否は端末の機種によって異なります。"
+    },
+    {
+      "id": "U27D10",
+      "unit": 27,
+      "en": "We must confirm the details before promising anything.",
+      "ja": "確約する前に詳細を確認する必要があります。"
+    },
+    {
+      "id": "U28D01",
+      "unit": 28,
+      "en": "Let us check whether your family line is eligible.",
+      "ja": "家族の回線が対象か確認しましょう。"
+    },
+    {
+      "id": "U28D02",
+      "unit": 28,
+      "en": "A discount may apply after joining the group.",
+      "ja": "グループに参加した後で割引が適用される場合があります。"
+    },
+    {
+      "id": "U28D03",
+      "unit": 28,
+      "en": "The amount depends on the current program.",
+      "ja": "金額は現在の制度によって異なります。"
+    },
+    {
+      "id": "U28D04",
+      "unit": 28,
+      "en": "Please check the family group status.",
+      "ja": "家族グループの状態をご確認ください。"
+    },
+    {
+      "id": "U28D05",
+      "unit": 28,
+      "en": "Some benefits are provided as points rather than discounts.",
+      "ja": "一部の特典は割引ではなくポイントとして提供されます。"
+    },
+    {
+      "id": "U28D06",
+      "unit": 28,
+      "en": "This offer applies only to eligible accounts.",
+      "ja": "この特典は対象アカウントのみに適用されます。"
+    },
+    {
+      "id": "U28D07",
+      "unit": 28,
+      "en": "You may need to join a family group first.",
+      "ja": "先に家族グループへの参加が必要な場合があります。"
+    },
+    {
+      "id": "U28D08",
+      "unit": 28,
+      "en": "Let me explain the discount conditions.",
+      "ja": "割引の条件をご説明します。"
+    },
+    {
+      "id": "U28D09",
+      "unit": 28,
+      "en": "Please compare the base fee and the discounted fee.",
+      "ja": "基本料金と割引後の料金を比較してください。"
+    },
+    {
+      "id": "U28D10",
+      "unit": 28,
+      "en": "We should confirm the program before applying.",
+      "ja": "申請前に制度を確認しましょう。"
+    },
+    {
+      "id": "U29D01",
+      "unit": 29,
+      "en": "Would you like to add a calling option?",
+      "ja": "通話オプションを追加しますか。"
+    },
+    {
+      "id": "U29D02",
+      "unit": 29,
+      "en": "The standard phone app may have call charges.",
+      "ja": "標準の電話アプリでは通話料がかかる場合があります。"
+    },
+    {
+      "id": "U29D03",
+      "unit": 29,
+      "en": "Eligible calls made through Rakuten Link are covered.",
+      "ja": "Rakuten Link経由の対象通話はサービスの対象です。"
+    },
+    {
+      "id": "U29D04",
+      "unit": 29,
+      "en": "Some numbers are outside the free-call service.",
+      "ja": "一部の番号は無料通話サービスの対象外です。"
+    },
+    {
+      "id": "U29D05",
+      "unit": 29,
+      "en": "The optional service has its own monthly charge.",
+      "ja": "追加サービスには固有の月額料金があります。"
+    },
+    {
+      "id": "U29D06",
+      "unit": 29,
+      "en": "We can compare the calling services before you choose.",
+      "ja": "選択前に通話サービスを比較できます。"
+    },
+    {
+      "id": "U29D07",
+      "unit": 29,
+      "en": "Please confirm whether voicemail is necessary.",
+      "ja": "留守番電話が必要かご確認ください。"
+    },
+    {
+      "id": "U29D08",
+      "unit": 29,
+      "en": "A separate fee may apply to certain calls.",
+      "ja": "一部の通話には別料金がかかる場合があります。"
+    },
+    {
+      "id": "U29D09",
+      "unit": 29,
+      "en": "Let me check the current option conditions.",
+      "ja": "現在のオプションの条件を確認します。"
+    },
+    {
+      "id": "U29D10",
+      "unit": 29,
+      "en": "You can review the details before adding the option.",
+      "ja": "オプションを追加する前に詳細を確認できます。"
+    },
+    {
+      "id": "U30D01",
+      "unit": 30,
+      "en": "Please check the roaming coverage for your destination.",
+      "ja": "渡航先のローミング対応エリアをご確認ください。"
+    },
+    {
+      "id": "U30D02",
+      "unit": 30,
+      "en": "High-speed roaming has a separate monthly limit.",
+      "ja": "高速ローミングには別の月間上限があります。"
+    },
+    {
+      "id": "U30D03",
+      "unit": 30,
+      "en": "International calls may cost extra.",
+      "ja": "国際通話には追加料金がかかる場合があります。"
+    },
+    {
+      "id": "U30D04",
+      "unit": 30,
+      "en": "Your phone must support the local network.",
+      "ja": "お使いの端末が現地のネットワークに対応している必要があります。"
+    },
+    {
+      "id": "U30D05",
+      "unit": 30,
+      "en": "Extra roaming data can be purchased if available.",
+      "ja": "対応していればローミングデータを追加購入できます。"
+    },
+    {
+      "id": "U30D06",
+      "unit": 30,
+      "en": "The available countries are listed on the official page.",
+      "ja": "利用可能な国は公式ページに掲載されています。"
+    },
+    {
+      "id": "U30D07",
+      "unit": 30,
+      "en": "Let me check the charges before your trip.",
+      "ja": "渡航前に料金を確認します。"
+    },
+    {
+      "id": "U30D08",
+      "unit": 30,
+      "en": "Your data speed may be reduced after the limit.",
+      "ja": "上限を超えると通信速度が制限される場合があります。"
+    },
+    {
+      "id": "U30D09",
+      "unit": 30,
+      "en": "Domestic data rules do not automatically apply abroad.",
+      "ja": "国内のデータ利用条件がそのまま海外に適用されるわけではありません。"
+    },
+    {
+      "id": "U30D10",
+      "unit": 30,
+      "en": "We will confirm the supported area together.",
+      "ja": "対応地域を一緒に確認します。"
+    },
+    {
+      "id": "U31D01",
+      "unit": 31,
+      "en": "The estimate does not include a new phone.",
+      "ja": "この見積もりには新しい端末は含まれていません。"
+    },
+    {
+      "id": "U31D02",
+      "unit": 31,
+      "en": "The total can change when an option is added.",
+      "ja": "オプションを追加すると合計が変わる場合があります。"
+    },
+    {
+      "id": "U31D03",
+      "unit": 31,
+      "en": "Please review the device installment amount.",
+      "ja": "端末の分割支払額をご確認ください。"
+    },
+    {
+      "id": "U31D04",
+      "unit": 31,
+      "en": "This fee covers the calling service only.",
+      "ja": "この料金は通話サービスのみが対象です。"
+    },
+    {
+      "id": "U31D05",
+      "unit": 31,
+      "en": "Points and discounts are calculated separately.",
+      "ja": "ポイントと割引は別々に計算されます。"
+    },
+    {
+      "id": "U31D06",
+      "unit": 31,
+      "en": "The final bill may differ from the estimate.",
+      "ja": "最終請求額は見積もりと異なる場合があります。"
+    },
+    {
+      "id": "U31D07",
+      "unit": 31,
+      "en": "Additional charges will be shown separately.",
+      "ja": "追加料金は別に表示されます。"
+    },
+    {
+      "id": "U31D08",
+      "unit": 31,
+      "en": "Your monthly usage affects the plan fee.",
+      "ja": "毎月の使用量がプラン料金に影響します。"
+    },
+    {
+      "id": "U31D09",
+      "unit": 31,
+      "en": "We will explain any differences on the statement.",
+      "ja": "明細上の差額について説明します。"
+    },
+    {
+      "id": "U31D10",
+      "unit": 31,
+      "en": "Please check the complete cost before signing.",
+      "ja": "契約前に総費用をご確認ください。"
+    },
+    {
+      "id": "U32D01",
+      "unit": 32,
+      "en": "When did the connection problem begin?",
+      "ja": "通信の問題はいつ始まりましたか。"
+    },
+    {
+      "id": "U32D02",
+      "unit": 32,
+      "en": "Please check whether airplane mode is turned on.",
+      "ja": "機内モードがオンか確認してください。"
+    },
+    {
+      "id": "U32D03",
+      "unit": 32,
+      "en": "The app is not responding on this device.",
+      "ja": "この端末でアプリが反応しません。"
+    },
+    {
+      "id": "U32D04",
+      "unit": 32,
+      "en": "We can try restarting the phone first.",
+      "ja": "最初に端末の再起動を試せます。"
+    },
+    {
+      "id": "U32D05",
+      "unit": 32,
+      "en": "Let us review the network settings together.",
+      "ja": "ネットワーク設定を一緒に確認しましょう。"
+    },
+    {
+      "id": "U32D06",
+      "unit": 32,
+      "en": "Do you see an error message on the screen?",
+      "ja": "画面にエラーメッセージは表示されますか。"
+    },
+    {
+      "id": "U32D07",
+      "unit": 32,
+      "en": "The problem may be related to the device.",
+      "ja": "問題は端末に関係している場合があります。"
+    },
+    {
+      "id": "U32D08",
+      "unit": 32,
+      "en": "If the problem continues, we will check other options.",
+      "ja": "問題が続く場合はほかの方法を確認します。"
+    },
+    {
+      "id": "U32D09",
+      "unit": 32,
+      "en": "I cannot guarantee an immediate fix.",
+      "ja": "すぐに直ると保証することはできません。"
+    },
+    {
+      "id": "U32D10",
+      "unit": 32,
+      "en": "May I confirm whether mobile data is enabled?",
+      "ja": "モバイルデータ通信が有効か確認してもよろしいですか。"
+    }
+  ]
+}
