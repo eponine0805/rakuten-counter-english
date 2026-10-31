@@ -57,3 +57,12 @@
 .typingInput{width:100%;min-height:110px;resize:vertical;font-size:16px!important;padding:12px;border:1px solid var(--line);border-radius:11px}
 .typingHint{background:#fff6e6;border-radius:10px;padding:12px;color:#674928;line-height:1.75;font-size:13px;overflow-wrap:anywhere}
 @media(max-width:700px){.typingPractice .buttonRow .btn{flex:1 1 125px}}
+
+/* Accessible expanding practical examples in each lesson */
+.practiceDisclosure{margin:12px 0;padding:16px}
+.practiceDisclosure summary{cursor:pointer;font-weight:800;line-height:1.6;list-style-position:inside}
+.practiceDisclosure summary:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+.practiceSamples{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
+.practiceSample{border:1px solid var(--line);border-radius:11px;padding:13px;min-width:0}
+.practiceSample .exampleEn{font-size:14px;line-height:1.65}
+@media(max-width:700px){.practiceSamples{grid-template-columns:1fr}}

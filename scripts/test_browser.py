@@ -68,6 +68,8 @@ with sync_playwright() as w:
  assert page.locator('.lectureGrid .panel').count()==6
  assert page.locator('.example').count()==7
  assert page.locator('.chunkCard').count()==2
+ page.locator('.practiceDisclosure summary').click()
+ assert page.locator('.practiceSample').count()==10
  page.locator('[data-action="unitquiz"]').first.click()
  seen_types=set()
  for i in range(20):
@@ -96,6 +98,7 @@ with sync_playwright() as w:
  page.locator('button[data-tab="phrases"]').first.click()
  assert page.locator('.chunkCard').count()==64
  assert 'depend on' in page.locator('#main').inner_text()
+ assert '接客例文 544' in page.locator('#main').inner_text()
  page.locator('[data-action="known-chunk"]').first.click()
  assert page.locator('[data-action="known-chunk"]').first.get_attribute('aria-pressed')=='true'
  page.locator('[data-action="chunktest"]').first.click()
