@@ -21,6 +21,6 @@ for n,u in enumerate(b['units'],1):
  for e in u['examples']:
   assert e['id'] not in ids;ids.add(e['id'])
 assert sum(len(x['examples']) for x in b['units'])==120
-assert 24*12+32*20==928
+assert 24*10+32*20==880
 subprocess.run(['node','--check',str(root/'web/app.js')],check=True)
-print('PASS beginner 24 lessons, 120 examples, 288 questions, legacy 640 questions, 928 combined')
+print('PASS beginner 24 lessons, 120 examples, 240 distinct drills; 640 practical drills; 880 combined')
