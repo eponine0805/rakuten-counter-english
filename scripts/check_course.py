@@ -37,12 +37,18 @@ for ch in course['chapters']:
  group=[u for u in units if u['chapter']==ch['id']]
  assert len(group)==4
  assert len({u['pattern'] for u in group})==4
-for filename in ('index.html','app.js','style.css','sw.js','manifest.webmanifest','icon.svg','data/course.json'):
+for filename in ('index.html','app.js','style.css','sw.js','manifest.webmanifest','icon.svg','data/course.json','data/chunks.json'):
  assert (root/'web'/filename).is_file()
 assert '15の接客シーン' in (root/'web/app.js').read_text(encoding='utf8')
-assert '6節の文法講義' in (root/'web/app.js').read_text(encoding='utf8')
+assert 'まとめ表現の意味' in (root/'web/app.js').read_text(encoding='utf8')
+assert '文法の規則' not in (root/'web/app.js').read_text(encoding='utf8')
+chunks=json.loads((root/'web/data/chunks.json').read_text(encoding='utf8'))['chunks']
+assert len(chunks)==64
+assert all(len([c for c in chunks if c['unit']==u['id']])==2 for u in units)
+assert all(c['en'] and c['ja'] and c['sample'] and c['sampleJa'] for c in chunks)
+assert any(c['en']=='depend on' for c in chunks)
 assert sum(len(u['examples']) for u in units)==224
 assert len(units)*20==640
 try: subprocess.run(['node','--check',str(root/'web/app.js')], check=True, capture_output=True)
 except FileNotFoundError: print('Note: Node.js not present; JS syntax check skipped')
-print('PASS: 8 chapters / 32 lessons / 6 explanations per lesson / 224 examples / 640 questions / 15 scenarios / 16 official facts / 10 links / JavaScript syntax')
+print('PASS: 32 lessons / 64 practical chunks / no grammar rule questions / 640 questions / 15 scenarios / JS syntax')

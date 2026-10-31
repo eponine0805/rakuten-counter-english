@@ -7,6 +7,8 @@ b=json.loads((root/'web/data/beginner.json').read_text(encoding='utf8'))
 a=json.loads((root/'web/data/course.json').read_text(encoding='utf8'))
 assert len(b['phases'])==6 and len(b['units'])==24
 assert len(a['units'])==32 and len(a['scenarios'])==15
+chunks=json.loads((root/'web/data/chunks.json').read_text(encoding='utf8'))['chunks']
+assert len(chunks)==64
 ids=set()
 for n,u in enumerate(b['units'],1):
  assert u['id']==n and u['phase']==(n-1)//4+1

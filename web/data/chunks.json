@@ -143,8 +143,8 @@
       "unit": 9,
       "en": "per month",
       "ja": "月あたり",
-      "sample": "The monthly fee is 1,078 yen per month for up to 3GB.",
-      "sampleJa": "3GBまでは月額1,078円です。"
+      "sample": "The plan costs 1,078 yen per month for up to 3GB.",
+      "sampleJa": "このプランは3GBまで月額1,078円です。"
     },
     {
       "id": "C019",

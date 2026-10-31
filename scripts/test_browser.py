@@ -13,7 +13,8 @@ with sync_playwright() as w:
  page.add_style_tag(content=(p/'web/style.css').read_text())
  data=json.loads((p/'web/data/course.json').read_text())
  beginner=json.loads((p/'web/data/beginner.json').read_text())
- page.evaluate("({course,beginner})=>{window.fetch=async url=>({ok:true,json:async()=>url.includes('beginner')?beginner:course})}", {'course':data,'beginner':beginner})
+ chunks=json.loads((p/'web/data/chunks.json').read_text())
+ page.evaluate("({course,beginner,chunks})=>{window.fetch=async url=>({ok:true,json:async()=>url.includes('beginner')?beginner:url.includes('chunks')?chunks:course})}", {'course':data,'beginner':beginner,'chunks':chunks})
  page.add_script_tag(content=(p/'web/app.js').read_text())
  page.wait_for_selector('[data-action="beginner-phase"]')
  assert page.locator('[data-action="beginner-phase"]').count()==6
@@ -38,7 +39,7 @@ with sync_playwright() as w:
  assert '1 / 12' in page.locator('.quizMeta').inner_text()
  for i in range(12):
   page.locator('[data-action="beginner-hint"]').click()
-  assert page.locator('.beginner-hint').inner_text().find('今日の型')>=0
+  assert page.locator('.beginner-hint').inner_text().find('使える英語の型')>=0
   if page.locator('[data-action="beginner-choice"]').count():
    page.locator('[data-action="beginner-choice"]').first.click()
   else:
@@ -55,6 +56,7 @@ with sync_playwright() as w:
  page.locator('[data-action="unit"]').first.click()
  assert page.locator('.lectureGrid .panel').count()==6
  assert page.locator('.example').count()==7
+ assert page.locator('.chunkCard').count()==2
  page.locator('[data-action="unitquiz"]').first.click()
  assert '1 / 20' in page.locator('.quizMeta').inner_text()
  page.locator('[data-action="choice"]').first.click()
@@ -65,7 +67,14 @@ with sync_playwright() as w:
  page.locator('button[data-tab="scenarios"]').first.click()
  assert page.locator('[data-action="scene"]').count()==15
  page.locator('button[data-tab="phrases"]').first.click()
- assert '接客例文 224' in page.locator('#main').inner_text()
+ assert page.locator('.chunkCard').count()==64
+ assert 'depend on' in page.locator('#main').inner_text()
+ page.locator('[data-action="known-chunk"]').first.click()
+ assert page.locator('[data-action="known-chunk"]').first.get_attribute('aria-pressed')=='true'
+ page.locator('[data-action="chunktest"]').first.click()
+ assert '1 / 10' in page.locator('.quizMeta').inner_text()
+ assert '文法の規則' not in page.locator('#main').inner_text()
+ page.locator('button[data-tab="phrases"]').first.click()
  page.locator('button[data-tab="facts"]').first.click()
  assert page.locator('.fact').count()==16
  page.locator('button[data-tab="review"]').first.click()
